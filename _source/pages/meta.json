@@ -1,0 +1,443 @@
+{
+ "home": {
+  "url": "/",
+  "title": "Home Service Marketing Partners | AdEasy",
+  "description": "AdEasy manages and improves marketing for growing home service businesses. Know what’s working, book more jobs, and start with a Free Marketing Assessment.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/home-service-owner-with-technician.png",
+  "h1": "Know What’s Working. Book More Jobs."
+ },
+ "what-we-do": {
+  "url": "/what-we-do",
+  "title": "Marketing Services & Leadership for Home Service Businesses | AdEasy",
+  "description": "You run the business. We manage marketing. AdEasy leads, coordinates and improves marketing for growing home service businesses, from campaigns and vendors to tracking and reporting.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022.jpg",
+  "h1": "You Run the Business. We Manage Marketing."
+ },
+ "who-we-help": {
+  "url": "/who-we-help",
+  "title": "Home Service Industries We Help | AdEasy",
+  "description": "AdEasy partners with growing plumbing, HVAC, electrical, and window and door businesses, building marketing around how their customers find and choose them.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-jets-ad.jpg",
+  "h1": "Your Trade Is Different. Marketing Should Be Too."
+ },
+ "plumbing-and-drain": {
+  "url": "/who-we-help/plumbing-and-drain",
+  "title": "Plumbing & Drain Marketing for More Booked Jobs | AdEasy",
+  "description": "AdEasy helps growing plumbing and drain businesses attract qualified calls, improve marketing visibility, and understand which campaigns lead to booked jobs.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-partner.webp",
+  "h1": "Marketing That Helps Plumbing Businesses Book More Jobs. Plumbing Marketing That Books More Jobs."
+ },
+ "hvac-and-mechanical": {
+  "url": "/who-we-help/hvac-and-mechanical",
+  "title": "HVAC & Mechanical Marketing for Year-Round Booked Jobs | AdEasy",
+  "description": "AdEasy helps growing HVAC and mechanical companies fill the schedule between peak seasons, win more replacement work, and see which marketing produces qualified calls.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/industry-hvac.jpg",
+  "h1": "Marketing That Keeps HVAC Crews Busy Year-Round. Keep Your HVAC Crews Busy Year-Round."
+ },
+ "electrical": {
+  "url": "/who-we-help/electrical",
+  "title": "Electrical Contractor Marketing for More Qualified Jobs | AdEasy",
+  "description": "AdEasy helps growing electrical contractors win more service calls, upgrades and project work, and see which marketing brings in qualified inquiries.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/industry-electrical.jpg",
+  "h1": "Marketing That Helps Electricians Win the Right Work. Win the Right Electrical Work."
+ },
+ "windows-and-doors": {
+  "url": "/who-we-help/windows-and-doors",
+  "title": "Window & Door Marketing for More In-Home Estimates | AdEasy",
+  "description": "AdEasy helps window and door companies stand out from price shoppers, book more qualified in-home estimates, and track which marketing turns into booked revenue.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/industry-windows-doors-polar.jpg",
+  "h1": "Marketing That Turns Window Shoppers Into Booked Revenue. Turn Window Shoppers Into Booked Revenue."
+ },
+ "success-stories": {
+  "url": "/success-stories",
+  "title": "Partner Success Stories | AdEasy",
+  "description": "See how AdEasy helps home service brands like Clean Line, Polar Windows and Mr. Boomtruck attract more of the right customers.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-partner.webp",
+  "h1": "AdEasy Partner Success Stories"
+ },
+ "clean-line": {
+  "url": "/success-stories/clean-line",
+  "title": "Clean Line Success Story | AdEasy",
+  "description": "How Clean Line Plumbing, Heating & Electrical grew 10X over eight years with AdEasy: 20,000+ Google Ads leads, cost per lead down to $9.21, and an estimated $635K in work booked on the call in the last 12 months.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-logo-black.png",
+  "h1": "From Lead Generation to Marketing Leadership."
+ },
+ "mr-boomtruck": {
+  "url": "/success-stories/mr-boomtruck",
+  "title": "Mr. Boomtruck Success Story | AdEasy",
+  "description": "How AdEasy helped Winnipeg’s Mr. Boomtruck fix its website before buying ads: 95 Google Ads leads in the first three full months, $47 per lead for crane and boom truck hoisting, and 79,000+ search impressions for the new site.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/mr-boomtruck-logo-colour.png",
+  "h1": "An Established Brand, Looking to Grow."
+ },
+ "sterling-plumbing": {
+  "url": "/success-stories/sterling-plumbing",
+  "title": "Sterling Plumbing & Heating Success Story | AdEasy",
+  "description": "How AdEasy rebuilt Sterling Plumbing & Heating’s website and ran seasonal Google, Microsoft and Meta campaigns in Regina and Winnipeg from 2022 to 2024: 107 Google Ads leads at about $29 each in October 2023, and 300,000+ homeowners reached by AC Fact or Fiction.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/sterling-plumbing-logo.png",
+  "h1": "Back on the Map for Every Season."
+ },
+ "polar-windows": {
+  "url": "/success-stories/polar-windows",
+  "title": "Polar Windows Success Story | AdEasy",
+  "description": "How AdEasy helped Polar Windows turn $115,900 in Facebook and Google Ads into $765,000 in new business in 2021: 2,044 leads, 108 new customer deals and $6.60 back for every $1, tracked deal by deal in Salesforce.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/polar-windows-logo-clear.png",
+  "h1": "$115K Ads Budget. $765K Back in Revenue."
+ },
+ "winnipeg-sewer-and-drain": {
+  "url": "/success-stories/winnipeg-sewer-and-drain",
+  "title": "Winnipeg Sewer and Drain Success Story | AdEasy",
+  "description": "How AdEasy rebuilt Winnipeg Sewer and Drain’s marketing from scratch after new owners took over in 2026: a new website, call tracking and Google Ads that brought in 95 leads at about $18 each in the first two full months.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/winnipeg-sewer-and-drain-logo.png",
+  "h1": "A Fresh Start for a Winnipeg Drain Company."
+ },
+ "bc-plumbing": {
+  "url": "/success-stories/bc-plumbing",
+  "title": "BC Plumbing Success Story | AdEasy",
+  "description": "BC Plumbing had no website when new ownership took over in 2026. AdEasy built the brand, website, quote form, call tracking and Google Ads from scratch: 57 tracked calls and 16 Google Ads leads in September.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/bc-plumbing-logo.png",
+  "h1": "Plumbing Since 1957. A Website Since 2026."
+ },
+ "pinnacle-painting": {
+  "url": "/success-stories/pinnacle-painting",
+  "title": "Pinnacle Painting & Decorating Success Story | AdEasy",
+  "description": "How AdEasy reset Pinnacle Painting & Decorating’s Google Ads after a slow winter: commercial tests cut, the quote form switched back and the budget moved to residential work. May to October 2026: 169 leads at about $79 each.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/pinnacle-painting-and-decorating-logo.png",
+  "h1": "Cut What Wasn’t Working. Backed What Was."
+ },
+ "adesa-auctions": {
+  "url": "/success-stories/adesa-auctions",
+  "title": "ADESA Auctions Success Story | AdEasy",
+  "description": "From 2018 to 2024, AdEasy managed ADESA Auctions Canada’s marketing across ten cities: city-by-city campaigns, leads routed to local reps, a call audit, print, video and a national rebrand to OPENLANE. 957 seller leads in the peak month.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/adesa-auctions-logo.png",
+  "h1": "Ten Cities. One Lead Engine."
+ },
+ "adult-and-teen-challenge": {
+  "url": "/success-stories/adult-and-teen-challenge",
+  "title": "Adult & Teen Challenge Success Story | AdEasy",
+  "description": "AdEasy has run Adult & Teen Challenge of Central Canada’s vehicle donation ads since 2024. In our first full year, the vehicle donation program grew 57%, from $1.4M to $2.2M, against a goal of 10 to 20%.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/adult-and-teen-challenge-logo.png",
+  "h1": "Our First Full Year. Vehicle Donations Up 57%."
+ },
+ "pre-con-builders": {
+  "url": "/success-stories/pre-con-builders",
+  "title": "Pre-Con Builders Success Story | AdEasy",
+  "description": "How AdEasy gave Pre-Con Builders, a Winnipeg design-build contractor, a marketing strategy, a new website and ads on Google, Meta and LinkedIn. The site went on to earn more than 8,300 visits from Google search.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/pre-con-builders-logo.png",
+  "h1": "Hundreds of Buildings. Now People Can See Them."
+ },
+ "remax-dream-bike": {
+  "url": "/success-stories/remax-dream-bike",
+  "title": "RE/MAX Dream Bike Success Story | AdEasy",
+  "description": "How AdEasy helped RE/MAX show its agents and neighbours where their community money goes: a film of Milo’s Dream Bike presentation under the RE/MAX balloon, and a Facebook campaign that reached 135,000+ people in Winnipeg, Stonewall and Steinbach.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/remax-logo-colour.png",
+  "h1": "They Gave Milo a Bike. We Made Sure People Saw It."
+ },
+ "ultracuts": {
+  "url": "/success-stories/ultracuts",
+  "title": "Ultracuts Success Story | AdEasy",
+  "description": "How AdEasy ran digital marketing for Ultracuts, a family-run chain of 50+ hair salons across the prairies, from 2019 to 2023: Google and Facebook ads, monthly promos and a record 57,921 visits to the online booking page in 2021.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/ultracuts-logo-colour.png",
+  "h1": "Fifty-Plus Salons. One Place to Book."
+ },
+ "resources": {
+  "url": "/resources",
+  "title": "News & Resources for Home Service Owners | AdEasy",
+  "description": "Marketing articles, case studies and news from AdEasy for home service business owners.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/precon-hyundai-dealership.jpg",
+  "h1": "Marketing Ideas for Home Service Owners."
+ },
+ "about": {
+  "url": "/about",
+  "title": "About AdEasy | Built by Owners, for Owners",
+  "description": "Meet AdEasy, the Winnipeg team building marketing systems and demand generation for home service brands since 2013.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg",
+  "h1": "We Grew Up in the Trades. Now We Build Their Marketing. Raised in the Trades. Now We Help Them Grow."
+ },
+ "business-easy-podcast": {
+  "url": "/about/business-easy-podcast",
+  "title": "Business Easy Podcast | AdEasy",
+  "description": "Chris Karasewich talks with business founders on the Business Easy Podcast about building companies, making sacrifices, and overcoming the challenges of starting new ventures.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/business-easy-podcast-studio.jpg",
+  "h1": "Thinking About Starting a Business? This Show Is for You. Starting a Business? This Show Is for You."
+ },
+ "careers": {
+  "url": "/careers",
+  "title": "Careers at AdEasy | Marketing Jobs in Winnipeg",
+  "description": "Open roles at AdEasy, a Winnipeg marketing partner for home service brands.",
+  "cta": false,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "",
+  "h1": "Help Home Service Brands Grow With Us."
+ },
+ "client-photo-gallery": {
+  "url": "/client-photo-gallery",
+  "title": "Client Photo Gallery | AdEasy",
+  "description": "Photos from AdEasy’s home service partners: crews, trucks, shoots and the work behind the campaigns.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022.jpg",
+  "h1": "Our Partners, On the Job."
+ },
+ "contact": {
+  "url": "/contact",
+  "title": "Contact AdEasy | Winnipeg Home Service Marketing",
+  "description": "Contact AdEasy by form, phone or email, or visit our office at 309 McDermot Ave, Unit 230, in Winnipeg’s Exchange District.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/icons/icon-phone-navy.png",
+  "h1": "Have a Question? We’re Easy to Reach."
+ },
+ "thank-you": {
+  "url": "/thank-you",
+  "title": "Thank You | AdEasy",
+  "description": "Thanks for contacting AdEasy. A real person on our team will get back to you soon.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-partner.webp",
+  "h1": "Thanks for Reaching Out. We’ll Be in Touch Soon."
+ },
+ "marketing-systems-assessment": {
+  "url": "/marketing-systems-assessment",
+  "title": "Free Marketing Assessment for Home Service Businesses | AdEasy",
+  "description": "Find out what’s working in your marketing, where the gaps are, and what to improve first. Book a free assessment and get a personalized three-page report.",
+  "cta": false,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/assessment-hero-northern-plumbing.jpg",
+  "h1": "Know What’s Working, and What to Fix First."
+ },
+ "privacy-policy": {
+  "url": "/privacy-policy",
+  "title": "Privacy Policy | AdEasy",
+  "description": "How AdEasy collects, uses and protects personal information through adeasy.com, and the choices you have.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "",
+  "h1": "Your Information. Handled With Care."
+ },
+ "terms-of-use": {
+  "url": "/terms-of-use",
+  "title": "Terms of Use | AdEasy",
+  "description": "The terms that govern your use of adeasy.com and the forms, phone lines and text messaging connected to it.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "",
+  "h1": "The Fine Print, in Plain Language."
+ },
+ "post-spring-checkup": {
+  "url": "/portfolio/spring-checkup-ad-campaign",
+  "title": "Spring Checkup Campaign Lifts Revenue per Visit 125% | AdEasy",
+  "description": "A bundled Spring Checkup offer helped Winnipeg homeowners prevent basement flooding and raised Clean Line’s average revenue per visit.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-partner.webp",
+  "h1": "Spring Checkup Campaign Lifts Revenue per Visit 125%"
+ },
+ "post-ac-fact-or-fiction": {
+  "url": "/portfolio/ac-fact-or-fiction-campaign",
+  "title": "AC Fact or Fiction Campaign Reaches 300,000 Homeowners | AdEasy",
+  "description": "An educational campaign that broke common myths about buying or renting an air conditioner and sent 3,400 homeowners to Sterling’s site.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/sterling-aff-rented.jpg",
+  "h1": "AC Fact or Fiction Campaign Reaches 300,000 Homeowners"
+ },
+ "post-window-grants": {
+  "url": "/portfolio/window-grants-campaign-earns-140k-lead-generation-campaign",
+  "title": "Window Grants Campaign Earns $140K in New Business | AdEasy",
+  "description": "A cross-channel lead generation campaign reached homeowners on Google, YouTube, Facebook and Instagram to promote window rebates.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/industry-windows-doors.jpg",
+  "h1": "Window Grants Campaign Earns $140K in New Business"
+ },
+ "post-polar-5-signs": {
+  "url": "/portfolio/polar-windows-5-signs-facebook-lead-generation-campaign",
+  "title": "Educational Facebook Videos That Generate Window Leads | AdEasy",
+  "description": "A short on-site video on the five signs you need new windows, paired with an instant lead form for in-home estimates.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-polar-youtube-ad.jpg",
+  "h1": "Educational Videos That Generate Window Leads"
+ },
+ "post-google-ads": {
+  "url": "/whats-a-google-ad",
+  "title": "What’s a Google Ad and Why Is It Valuable? | AdEasy",
+  "description": "If you’re like most people, you search for products and services on Google. Here’s how the ads at the top of those results work.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-google-ad.jpg",
+  "h1": "What’s a Google Ad and Why Is It Valuable?"
+ },
+ "post-facebook-ads": {
+  "url": "/what-are-facebook-ads",
+  "title": "What Are Facebook Ads and How Do They Work? | AdEasy",
+  "description": "When an owner asks us if they should advertise on Facebook, our answer is usually yes. Here’s why, and how to do it well.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-facebook-ads.jpg",
+  "h1": "What Are Facebook Ads and How Do They Work?"
+ },
+ "post-brand-voice": {
+  "url": "/how-a-great-brand-voice-increases-revenue-engages-customers",
+  "title": "How a Great Brand Voice Increases Revenue and Engages Customers | AdEasy",
+  "description": "What’s the point of a brand voice? It makes a real difference to sales, customer relationships and how people remember you.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-brand-voice.jpg",
+  "h1": "How a Great Brand Voice Increases Revenue and Engages Customers"
+ },
+ "post-half-glass-full": {
+  "url": "/the-half-glass-full-perspective-how-your-business-can-flourish-during-a-global-pandemic",
+  "title": "The Half-Glass Full Perspective: How Your Business Can Grow in Hard Times | AdEasy",
+  "description": "When customer habits shift, there’s an opportunity for businesses ready to meet buyers where they are now.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-half-glass.jpg",
+  "h1": "The Half-Glass Full Perspective: How Your Business Can Grow in Hard Times"
+ },
+ "post-exchange-agency": {
+  "url": "/exchange-agency-is-now-adeasy-inc",
+  "title": "Exchange Agency Is Now AdEasy Inc. | AdEasy",
+  "description": "After almost a decade of digital marketing work, we introduced a new name that better reflects what we do.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-now-adeasy.jpg",
+  "h1": "Exchange Agency Is Now AdEasy Inc."
+ },
+ "post-dream-ride": {
+  "url": "/dream-ride_fundraising_event",
+  "title": "The Dream Ride Fundraising Event: Raising $5,200 | AdEasy",
+  "description": "Our team raised $5,200 in six weeks to sponsor an adaptive Dream Bike for a child living with a physical disability.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-dream-bike.jpg",
+  "h1": "The Dream Ride Fundraising Event: Raising $5,200"
+ },
+ "career-inside-sales-representative": {
+  "url": "/now-hiring-inside-sales-representative",
+  "title": "Now Hiring: Inside Sales Representative (CLOSED) | AdEasy",
+  "description": "The AdEasy Inside Sales Representative answers potential customers’ questions via phone and/or email, creates and maintains a database of current and potential customers in the pipeline, explains features of our products and services, and upsells when it makes sense.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-inside-sales-representative.jpg",
+  "h1": "Now Hiring: Inside Sales Representative (CLOSED)"
+ },
+ "career-account-executive": {
+  "url": "/now-hiring-account-executive",
+  "title": "Now Hiring: Account Executive (CLOSED) | AdEasy",
+  "description": "As an AdEasy Account Executive, you will help grow the agency by sourcing new clients, maintaining current client relationships, and developing new sales plans and goals.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-account-executive.jpg",
+  "h1": "Now Hiring: Account Executive (CLOSED)"
+ },
+ "career-project-coordinator": {
+  "url": "/now-hiring-project-coordinator",
+  "title": "Now Hiring: Project Coordinator (CLOSED) | AdEasy",
+  "description": "As an AdEasy Project Coordinator, your role would be to manage new campaign and media project development.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-project-coordinator.jpg",
+  "h1": "Now Hiring: Project Coordinator (CLOSED)"
+ },
+ "career-client-advisor": {
+  "url": "/now-hiring-client-advisor",
+  "title": "Now Hiring: Client Advisor / Account Coordinator (CLOSED) | AdEasy",
+  "description": "Being an AdEasy Client Advisor means being responsible for developing sales and managing client accounts.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-client-advisor.jpg",
+  "h1": "Now Hiring: Client Advisor / Account Coordinator (CLOSED)"
+ },
+ "career-brand-manager": {
+  "url": "/now-hiring-brand-manager",
+  "title": "Now Hiring: Brand Manager (CLOSED) | AdEasy",
+  "description": "The Brand Manager is an entry-level agency position with AdEasy. This employee is working toward becoming an Account Manager.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-brand-manager.jpg",
+  "h1": "Now Hiring: Brand Manager (CLOSED)"
+ },
+ "career-freelance-wordpress-developer": {
+  "url": "/freelance-wordpress-developer",
+  "title": "Now Hiring: Freelance WordPress Developer (CLOSED) | AdEasy",
+  "description": "AdEasy is hiring a Freelance WordPress developer to help update and maintain our portfolio of clients’ websites.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-freelance-wordpress-developer.jpg",
+  "h1": "Now Hiring: Freelance WordPress Developer (CLOSED)"
+ },
+ "career-part-time-videographer": {
+  "url": "/part-time_videographer",
+  "title": "Now Hiring: Part-Time Videographer (CLOSED) | AdEasy",
+  "description": "AdEasy is hiring a Part-Time Videographer to join our team in our office for two or three days a week.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-part-time-videographer.jpg",
+  "h1": "Now Hiring: Part-Time Videographer (CLOSED)"
+ },
+ "career-account-manager": {
+  "url": "/account-manager",
+  "title": "Now Hiring: Account Manager (CLOSED) | AdEasy",
+  "description": "The Account Manager is responsible for developing digital media plans and proposals for clients while overseeing and analyzing digital marketing campaigns.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/career-account-manager.jpg",
+  "h1": "Now Hiring: Account Manager (CLOSED)"
+ },
+ "404": {
+  "url": "/404",
+  "title": "",
+  "description": "",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "",
+  "h1": "This Page Isn’t Here."
+ }
+}

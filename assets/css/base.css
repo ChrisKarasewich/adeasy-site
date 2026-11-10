@@ -1,0 +1,557 @@
+/* base.css: design tokens (colours, type, spacing) and base type styles from the AdEasy
+   design system. Fonts load from Google Fonts in each page head; no @font-face here. */
+
+:root {
+  /* Accessible text and button colours (4.5:1 on cream): muted labels and orange button fills */
+  --text-muted: #6e604a;
+  --button-fill: #b8430a;
+  --orange-text: #b03f08; /* orange for small text on cream */
+
+  /* ── RAW COLORS ──────────────────────────────────────────── */
+
+  /* Primary · Navy ladder */
+  --navy-900: #0a0f2c;
+  --navy-800: #121836;
+  --navy-700: #1e2859; /* Locker Navy — primary brand */
+  --navy-500: #3a4580;
+  --navy-300: #6771a5;
+  --navy-200: #a3aac8;
+  --navy-100: #d6dae8;
+
+  /* Secondary · Orange ladder */
+  --orange-900: #8a3405;
+  --orange-800: #c44908;
+  --orange-700: #f1600d; /* Goal Light — secondary brand */
+  --orange-500: #f58541;
+  --orange-300: #f9a875;
+  --orange-200: #fbd3b3;
+  --orange-100: #fde9d8;
+
+  /* Background · Cream ladder */
+  --cream-900: #8a7a62;
+  --cream-700: #b8a582;
+  --cream-500: #d9c7a6;
+  --cream-300: #eadbc0; /* Aged paper sub-surface */
+  --cream-200: #f4e6ce;
+  --cream-100: #fcf2e6; /* Paper Cream — primary background */
+  --cream-050: #fffcf5;
+
+  /* Accent · Teal ladder */
+  --teal-900: #1e4a4e;
+  --teal-700: #2e6e74;
+  --teal-500: #4da4ac; /* Away Teal — accent */
+  --teal-300: #78bec4;
+  --teal-200: #a0d3d7;
+  --teal-100: #c8e4e7;
+  --teal-050: #e7f3f4;
+
+  /* Aliases for shorthand */
+  --c-navy: var(--navy-700);
+  --c-orange: var(--orange-700);
+  --c-cream: var(--cream-100);
+  --c-aged: #f0e2cc; /* aged-cream sub-surface (between 200 & 300) */
+  --c-teal: var(--teal-500);
+  --c-ink: var(--navy-800);
+
+  /* Translucent rules / overlays */
+  --line-soft: rgba(30, 40, 89, 0.12);
+  --line: rgba(30, 40, 89, 0.2);
+  --line-strong: rgba(30, 40, 89, 0.4);
+  --ink-muted-90: rgba(30, 40, 89, 0.9);
+  --ink-muted-70: rgba(30, 40, 89, 0.7);
+  --ink-muted-50: rgba(30, 40, 89, 0.5);
+
+  /* ── SEMANTIC COLORS ─────────────────────────────────────── */
+
+  /* Foreground */
+  --fg-1: var(--navy-700); /* primary text */
+  --fg-2: var(--ink-muted-70); /* secondary text */
+  --fg-3: var(--ink-muted-50); /* tertiary, captions */
+  --fg-on-dark: var(--cream-100); /* text on navy/orange surfaces */
+  --fg-accent: var(--orange-700); /* highlight, hero CTA color */
+
+  /* Background */
+  --bg-page: var(--cream-100);
+  --bg-sub: #f0e2cc; /* aged sub-surface for cards/panels */
+  --bg-inverted: var(--navy-700);
+  --bg-accent: var(--orange-700);
+  --bg-tertiary: var(--teal-500);
+
+  /* Borders */
+  --border: var(--line);
+  --border-strong: var(--navy-700);
+  --border-focus: var(--orange-700);
+
+  /* Status (brand-only — shades of the 4 colors, no foreign greens/reds) */
+  --status-success: var(--teal-700);
+  --status-warn: var(--orange-700);
+  --status-danger: var(--orange-800);
+  --status-info: var(--navy-500);
+
+  /* Color-by-role tokens (replaces the old mix-ratio tokens).
+     Cream is the page; navy is ink + inverted ground; orange is
+     the goal-light accent; teal is the tertiary highlight. */
+  --role-surface: var(--cream-100); /* default ground — most layouts */
+  --role-ink: var(--navy-700); /* titles, body, rules, borders */
+  --role-inverted: var(--navy-700); /* inverted ground: cover, chapter, KPI, CTA */
+  --role-accent: var(--orange-700); /* eyebrows, subtitles, hero CTA */
+  --role-tertiary: var(--teal-500); /* quote glyphs, secondary highlights */
+
+  /* ── FONT FAMILIES ───────────────────────────────────────── */
+  /* AcademyFilled3D is the brand-licensed JERSEY NUMERAL face — used
+     ONLY for digits, on its own scale (70px floor, up to 328px on
+     section slides; filled chapter-divider numerals too). Never
+     used for text. Display text is set in Alfa Slab One. Body is
+     Chivo (400/700/900) — Inter is retired as of v2.2. */
+  --font-display: "Alfa Slab One", "Rockwell", Georgia, serif;
+  --font-script: "Parisienne", "Snell Roundhand", "Brush Script MT", cursive;
+  --font-body: "Chivo", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", "SF Mono", Consolas, monospace;
+  --font-jersey: "AcademyFilled3D", "Bungee", "Alfa Slab One", sans-serif; /* DIGITS ONLY — filled 3D */
+  --font-jersey-flat: "Academy", "Bungee", "Alfa Slab One", sans-serif; /* DIGITS ONLY — flat, for outlined player-card overlays */
+
+  /* ── TYPE SCALE — modular 1.333 (perfect fourth) ─────────── */
+  --t-cap: 15px; /* eyebrows / mono caps — minimum 15 */
+  --t-sm: 13px;
+  --t-body: 14px;
+  --t-lead: 18px;
+  --t-h4: 24px;
+  --t-h3: 32px;
+  --t-h2: 48px;
+  --t-h1: 72px;
+  --t-disp: 120px; /* hero display, used sparingly */
+
+  /* AcademyFilled3D numeral scale — DIGITS ONLY, never text */
+  --t-num-min: 70px; /* floor — never set AcademyFilled3D smaller */
+  --t-num-stat: 140px; /* stat counters / KPI cards */
+  --t-num-hero: 220px; /* big stat hero */
+  --t-num-max: 328px; /* section slide jersey numerals */
+
+  /* ── LEADING ─────────────────────────────────────────────── */
+  --lh-display: 0.9; /* @kind other */
+  --lh-lead: 1.15; /* @kind other */
+  --lh-body: 1.55; /* @kind other */
+  --lh-tight: 1; /* @kind other */
+
+  /* ── LETTER-SPACING ─────────────────────────────────────── */
+  --ls-display: -0.04em; /* tighten big slab */
+  --ls-tracked: 0.18em; /* mono tags / eyebrows */
+  --ls-tracked-lg: 0.28em; /* big tracked all-caps (descriptors) */
+  --ls-body: 0; /* @kind other */
+
+  /* ── SPACING ────────────────────────────────────────────── */
+  --sp-tight: 12px;
+  --sp-block: 28px;
+  --sp-section: 36px;
+  --sp-gutter: 60px;
+  --sp-pad-y: 110px; /* desktop section vertical padding */
+
+  /* ── RADII ──────────────────────────────────────────────── */
+  --r-0: 0; /* @kind radius */ /* printed feel — masthead, slabs */
+  --r-1: 2px; /* default — buttons, fields, cards */
+  --r-2: 6px; /* max — sub-panels, callouts */
+  /* No r-3 (12px) and no pill. The system is flat-cornered. */
+
+  /* ── SHADOWS ────────────────────────────────────────────── */
+  --shadow-none: none;
+  --shadow-canvas: 0 8px 40px rgba(0, 0, 0, 0.08); /* artboard lift */
+  --shadow-mobile: 0 20px 60px rgba(0, 0, 0, 0.25), inset 0 0 0 2px #333;
+
+  /* ── MOTION ─────────────────────────────────────────────── */
+  --ease: cubic-bezier(0.2, 0.7, 0.3, 1); /* @kind other */
+  --dur-fast: 120ms; /* @kind other */
+  --dur: 200ms; /* @kind other */
+}
+
+/* ─────────────────────────────────────────────────────────────
+   Semantic typography classes — apply directly.
+   ───────────────────────────────────────────────────────────── */
+.h-display,
+h1.display {
+  font-family: var(--font-display);
+  font-size: var(--t-h1);
+  line-height: var(--lh-display);
+  letter-spacing: var(--ls-display);
+  color: var(--fg-1);
+  font-weight: 400;
+}
+.h1,
+h1 {
+  font-family: var(--font-display);
+  font-size: var(--t-h1);
+  line-height: var(--lh-display);
+  letter-spacing: var(--ls-display);
+  color: var(--fg-1);
+  font-weight: 400;
+}
+.h2,
+h2 {
+  font-family: var(--font-display);
+  font-size: var(--t-h2);
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: var(--fg-1);
+  font-weight: 400;
+}
+.h3,
+h3 {
+  font-family: var(--font-display);
+  font-size: var(--t-h3);
+  line-height: 1.05;
+  letter-spacing: -0.01em;
+  color: var(--fg-1);
+  font-weight: 400;
+}
+.h4,
+h4 {
+  font-family: var(--font-display);
+  font-size: var(--t-h4);
+  line-height: 1.1;
+  letter-spacing: 0;
+  color: var(--fg-1);
+  font-weight: 400;
+}
+.script {
+  font-family: var(--font-script);
+  font-size: 38px;
+  line-height: 1;
+  color: var(--fg-accent);
+}
+.lead {
+  font-family: var(--font-body);
+  font-size: var(--t-lead);
+  line-height: var(--lh-lead);
+  font-weight: 500;
+  color: var(--fg-1);
+}
+.p,
+p {
+  font-family: var(--font-body);
+  font-size: var(--t-body);
+  line-height: var(--lh-body);
+  color: var(--fg-1);
+}
+.small,
+small {
+  font-family: var(--font-body);
+  font-size: var(--t-sm);
+  line-height: var(--lh-body);
+  color: var(--fg-2);
+}
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: var(--t-cap); /* 15px minimum */
+  letter-spacing: var(--ls-tracked);
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--fg-accent);
+}
+.mono,
+code {
+  font-family: var(--font-mono);
+  font-size: var(--t-sm);
+  letter-spacing: 0.05em;
+  color: var(--fg-1);
+}
+.tag {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: var(--ls-tracked);
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--fg-2);
+}
+.jersey {
+  font-family: var(--font-jersey);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 0.9;
+}
+
+/* ─────────────────────────────────────────────────────────────
+   PROPOSAL SLIDE TOKENS  (1920×1080 deck system)
+
+   Added from the AdEasy Proposal Template 2026. Use these on any
+   16:9 slide built with deck-stage.js. Naming is `--slide-*` so
+   they can't collide with web/print scales.
+   ───────────────────────────────────────────────────────────── */
+:root {
+  /* Slide canvas */
+  --slide-w: 1920px;
+  --slide-h: 1080px;
+  --slide-margin-x: 96px; /* outer left/right gutter */
+  --slide-margin-y: 72px; /* outer top/bottom gutter */
+  --slide-rule: 1.5px; /* hairline weight on slides */
+
+  /* Slide type scale — bigger than web scale so it reads at projector size */
+  --slide-disp: 220px; /* hero number / cover thrust */
+  --slide-h1: 117px; /* chapter title slab */
+  --slide-h2: 88px; /* slide title */
+  --slide-h3: 54px; /* subhead */
+  --slide-h4: 36px; /* card title / KPI label */
+  --slide-lead: 26px; /* lede paragraph */
+  --slide-body: 20px; /* body */
+  --slide-cap: 18px; /* mono caption */
+
+  /* Slide chrome — header/footer mono running heads */
+  --slide-chrome-mono: 16px; /* IBM Plex Mono ALL CAPS, tracked .18em */
+  --slide-pagenum: 16px; /* "01 / 13" page counter */
+  --slide-section-mono: 14px; /* "CHAPTER ONE" tag */
+
+  /* Chapter numerals — the giant "01" / "02" glyph on chapter dividers
+     (AcademyFilled3D, FILLED — matches the source decks). */
+  --slide-chapter-num: 457px;
+  --slide-chapter-rule: 3px; /* divider rule under chapter num */
+
+  /* Stat numerals — AcademyFilled3D, used on KPI / state slides */
+  --slide-stat-hero: 280px; /* big single stat on dark background */
+  --slide-stat-grid: 168px; /* 4-up KPI grid stats */
+
+  /* Letter-spacing for slide-mono running heads */
+  --ls-slide-mono: 0.22em;
+}
+
+/* Reusable slide chrome utility — apply to running header/footer */
+.slide-mono {
+  font-family: var(--font-mono);
+  font-size: var(--slide-chrome-mono);
+  letter-spacing: var(--ls-slide-mono);
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.slide-pagenum {
+  font-family: var(--font-mono);
+  font-size: var(--slide-pagenum);
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ─────────────────────────────────────────────────────────────
+   DECK-DERIVED COMPONENT TOKENS (added v2)
+
+   Promoted from slides/proposal-deck.css after the Proposal
+   Template 2026 deck composition was finalized. Use these
+   tokens whenever you need to recreate the deck's hero patterns
+   on web pages, decks, or print artifacts.
+   ───────────────────────────────────────────────────────────── */
+:root {
+  /* Cover / mission display — the very large slab */
+  --slide-cover: 144px; /* 16:9 cover headline */
+  --slide-mission: 100px; /* full-bleed mission statement */
+
+  /* Quote / pull-quote block */
+  --slide-quote: 64px; /* Alfa Slab One quote body */
+  --slide-quote-mark: 280px; /* oversized quotation glyph */
+
+  /* Investment / pricing card name */
+  --slide-card-name: 64px;
+
+  /* Eyebrow scale on slides — bigger than web 15px floor */
+  --slide-eyebrow: 18px;
+}
+
+/* ── Reusable slide / artifact patterns ─────────────────────── */
+
+/* Quote block — big slab quote w/ teal "" glyph + attribution */
+.quote-mark {
+  font-family: var(--font-display);
+  font-size: var(--slide-quote-mark);
+  line-height: 0.7;
+  color: var(--c-teal);
+  display: block;
+}
+.pull-quote {
+  font-family: var(--font-display);
+  font-size: var(--slide-quote);
+  line-height: 1.18;
+  letter-spacing: -0.005em;
+  color: var(--c-navy);
+}
+.attrib-name {
+  font-family: var(--font-body);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: var(--c-navy);
+}
+.attrib-role {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  letter-spacing: var(--ls-slide-mono);
+  text-transform: uppercase;
+  color: var(--c-teal);
+  font-weight: 700;
+}
+
+/* Dashboard / photo placeholder — cream ground + dashed border */
+.placeholder-frame {
+  background: var(--c-aged);
+  border: 1.5px dashed var(--navy-700);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ink-muted-50);
+}
+.placeholder-label {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  letter-spacing: var(--ls-slide-mono);
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--ink-muted-70);
+}
+
+/* Chapter divider numeral — FILLED AcademyFilled3D jersey numeral.
+   The glyph already carries its own varsity double-outline, so fill it
+   solid (periwinkle on navy, cream-500 beige on cream) and keep it FLAT
+   — no text-shadow; the subtle offset outline is baked into the glyph.
+   Do NOT set color:transparent + text-stroke — that hollows the digit
+   out to a thin outline, which is wrong (numerals read as filled). */
+.chapter-num {
+  font-family: var(--font-jersey);
+  font-size: var(--slide-chapter-num);
+  line-height: 0.8;
+  letter-spacing: -0.02em;
+  color: var(--navy-200);
+}
+
+/* ─────────────────────────────────────────────────────────────
+   V2.3 — DECK COMPONENT TOKENS
+
+   Promoted from the Growth Partner Program (May 2026) and
+   Revenue Chain Accelerator™ (June 2026) decks. See §10 for
+   the full component specs these tokens serve.
+   ───────────────────────────────────────────────────────────── */
+:root {
+  /* Comparison system — fixed polarity (§2, §10.2) */
+  --cmp-pos: var(--teal-700); /* positive heading */
+  --cmp-pos-bar: var(--teal-500); /* positive 4px top bar */
+  --cmp-pos-tint: var(--teal-050); /* positive panel ground */
+  --cmp-neg: var(--orange-900); /* negative "rust" heading */
+  --cmp-neg-bar: var(--orange-800); /* negative 4px top bar */
+  --cmp-neg-tint: var(--orange-100); /* negative panel ground */
+
+  /* Revenue Chain™ ramp — links 01→07 (§10.3). Ink flips at 05. */
+  --chain-1: var(--teal-050);
+  --chain-2: var(--teal-100);
+  --chain-3: var(--teal-300);
+  --chain-4: var(--teal-500);
+  --chain-5: var(--teal-700);
+  --chain-6: var(--teal-900);
+  --chain-7: var(--orange-700);
+
+  /* Dark-teal inverted surface — product feature slides only (§2) */
+  --bg-product: var(--teal-900);
+
+  /* Imagery radii — the sanctioned exception (§4). NEVER on UI. */
+  --r-photo: 16px; /* photo frames, player cards */
+  --r-chip: 24px; /* stat pills */
+  --r-plate: 8px; /* player-card name plates */
+
+  /* Left-border stat card (§10.6) */
+  --card-bar: 5px; /* solid navy left accent */
+}
+
+/* Two-tone slab headline — one orange phrase carries the payoff (§10.1) */
+.h-two-tone {
+  color: var(--c-navy);
+}
+.h-two-tone em,
+.h-two-tone .goal {
+  color: var(--c-orange);
+  font-style: normal;
+}
+.bg-inverted .h-two-tone {
+  color: var(--c-cream);
+} /* base flips, phrase stays */
+
+/* Comparison panels (§10.2) */
+.cmp-panel {
+  padding: 28px;
+}
+.cmp-panel--pos {
+  background: var(--cmp-pos-tint);
+  border-top: 4px solid var(--cmp-pos-bar);
+}
+.cmp-panel--neg {
+  background: var(--cmp-neg-tint);
+  border-top: 4px solid var(--cmp-neg-bar);
+}
+.cmp-panel--pos h3 {
+  color: var(--cmp-pos);
+}
+.cmp-panel--neg h3 {
+  color: var(--cmp-neg);
+}
+
+/* Left-border stat card (§10.6) — kicker sits INSIDE */
+.stat-card {
+  background: var(--c-cream);
+  border-left: var(--card-bar) solid var(--c-navy);
+  padding: 22px 24px;
+}
+.stat-card .eyebrow {
+  font-size: 12px;
+  color: var(--fg-2);
+}
+.stat-card h4 {
+  font-family: var(--font-body);
+  font-weight: 700;
+  color: var(--c-navy);
+}
+
+/* Player card (§10.5) */
+.player-card {
+  background: var(--c-navy);
+  border-radius: var(--r-photo);
+  padding: 14px;
+}
+.player-card img {
+  border-radius: calc(var(--r-photo) - 4px);
+}
+.player-card .jersey-overlay {
+  font-family: var(--font-jersey-flat); /* outlined white — the ONE outlined-numeral context */
+  color: transparent;
+  -webkit-text-stroke: 3px var(--cream-100);
+}
+.player-card .name-plate {
+  background: var(--cream-050);
+  border-radius: var(--r-plate);
+  font-family: var(--font-display);
+  color: var(--c-navy);
+}
+
+/* Stat pill (§10.9) — deck only */
+.stat-pill {
+  background: var(--cream-050);
+  border-radius: var(--r-chip);
+  text-align: center;
+  padding: 24px 32px;
+}
+.stat-pill .num {
+  color: var(--c-orange);
+  font-family: var(--font-display);
+}
+.stat-pill .sub {
+  font-family: var(--font-mono);
+  font-size: 13px;
+}
+
+/* CTA split (§6) — orange mid-page product CTA, teal closing booking CTA */
+.btn-goal {
+  background: var(--c-orange);
+  color: var(--c-cream);
+  border: 2px solid var(--cream-100);
+  border-radius: var(--r-1);
+  font-weight: 700;
+}
+.btn-goal::after {
+  content: " →";
+}
+.btn-book {
+  background: var(--c-teal);
+  color: var(--c-cream);
+  border: 2px solid var(--teal-300);
+  border-radius: var(--r-1);
+  font-family: var(--font-display);
+}

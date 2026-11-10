@@ -1,0 +1,3239 @@
+{
+ "accurate-dorwin-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "accurate-dorwin-logo.png",
+    "avif": "opt/accurate-dorwin-logo-240.avif",
+    "webp": "opt/accurate-dorwin-logo-240.webp"
+   }
+  ],
+  "fallback": "accurate-dorwin-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "adeasy-logo-cream.png": {
+  "w": 288,
+  "h": 56,
+  "variants": [
+   {
+    "w": 288,
+    "fallback": "adeasy-logo-cream.png",
+    "avif": "opt/adeasy-logo-cream-288.avif",
+    "webp": "opt/adeasy-logo-cream-288.webp"
+   }
+  ],
+  "fallback": "adeasy-logo-cream.png",
+  "d": 144,
+  "m": 144
+ },
+ "adeasy-logo-nav.png": {
+  "w": 320,
+  "h": 80,
+  "variants": [
+   {
+    "w": 320,
+    "fallback": "adeasy-logo-nav.png",
+    "avif": "opt/adeasy-logo-nav-320.avif",
+    "webp": "opt/adeasy-logo-nav-320.webp"
+   }
+  ],
+  "fallback": "adeasy-logo-nav.png",
+  "d": 160,
+  "m": 160
+ },
+ "adesa-auctions-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "adesa-auctions-logo.png",
+    "avif": "opt/adesa-auctions-logo-240.avif",
+    "webp": "opt/adesa-auctions-logo-240.webp"
+   }
+  ],
+  "fallback": "adesa-auctions-logo.png",
+  "d": 178,
+  "m": 178
+ },
+ "adesa-bids-4-kids.jpg": {
+  "w": 734,
+  "h": 262,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-bids-4-kids.jpg",
+    "avif": "opt/adesa-bids-4-kids-734.avif",
+    "webp": "opt/adesa-bids-4-kids-734.webp"
+   }
+  ],
+  "fallback": "adesa-bids-4-kids.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-brochure.jpg": {
+  "w": 734,
+  "h": 571,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-brochure.jpg",
+    "avif": "opt/adesa-brochure-734.avif",
+    "webp": "opt/adesa-brochure-734.webp"
+   }
+  ],
+  "fallback": "adesa-brochure.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-driver-lane.jpg": {
+  "w": 954,
+  "h": 537,
+  "variants": [
+   {
+    "w": 954,
+    "fallback": "adesa-driver-lane.jpg",
+    "avif": "opt/adesa-driver-lane-954.avif",
+    "webp": "opt/adesa-driver-lane-954.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "adesa-driver-lane-742.jpg",
+    "avif": "opt/adesa-driver-lane-742.avif",
+    "webp": "opt/adesa-driver-lane-742.webp"
+   }
+  ],
+  "fallback": "adesa-driver-lane.jpg",
+  "d": 477,
+  "m": 371
+ },
+ "adesa-feature-card.jpg": {
+  "w": 800,
+  "h": 600,
+  "variants": [
+   {
+    "w": 800,
+    "fallback": "adesa-feature-card.jpg",
+    "avif": "opt/adesa-feature-card-800.avif",
+    "webp": "opt/adesa-feature-card-800.webp"
+   }
+  ],
+  "fallback": "adesa-feature-card.jpg",
+  "d": 445,
+  "m": 371
+ },
+ "adesa-feature-portrait-zoom.jpg": {
+  "w": 760,
+  "h": 1046,
+  "variants": [
+   {
+    "w": 760,
+    "fallback": "adesa-feature-portrait-zoom.jpg",
+    "avif": "opt/adesa-feature-portrait-zoom-760.avif",
+    "webp": "opt/adesa-feature-portrait-zoom-760.webp"
+   }
+  ],
+  "fallback": "adesa-feature-portrait-zoom.jpg",
+  "d": 460,
+  "m": 371
+ },
+ "adesa-google-search-ad.jpg": {
+  "w": 734,
+  "h": 522,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-google-search-ad.jpg",
+    "avif": "opt/adesa-google-search-ad-734.avif",
+    "webp": "opt/adesa-google-search-ad-734.webp"
+   }
+  ],
+  "fallback": "adesa-google-search-ad.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-hiring-ad.jpg": {
+  "w": 734,
+  "h": 550,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-hiring-ad.jpg",
+    "avif": "opt/adesa-hiring-ad-734.avif",
+    "webp": "opt/adesa-hiring-ad-734.webp"
+   }
+  ],
+  "fallback": "adesa-hiring-ad.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-offer-video.jpg": {
+  "w": 822,
+  "h": 463,
+  "variants": [
+   {
+    "w": 822,
+    "fallback": "adesa-offer-video.jpg",
+    "avif": "opt/adesa-offer-video-822.avif",
+    "webp": "opt/adesa-offer-video-822.webp"
+   }
+  ],
+  "fallback": "adesa-offer-video.jpg",
+  "d": 411,
+  "m": 371
+ },
+ "adesa-referral-email.jpg": {
+  "w": 734,
+  "h": 571,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-referral-email.jpg",
+    "avif": "opt/adesa-referral-email-734.avif",
+    "webp": "opt/adesa-referral-email-734.webp"
+   }
+  ],
+  "fallback": "adesa-referral-email.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-rep-pipeline.jpg": {
+  "w": 822,
+  "h": 399,
+  "variants": [
+   {
+    "w": 822,
+    "fallback": "adesa-rep-pipeline.jpg",
+    "avif": "opt/adesa-rep-pipeline-822.avif",
+    "webp": "opt/adesa-rep-pipeline-822.webp"
+   }
+  ],
+  "fallback": "adesa-rep-pipeline.jpg",
+  "d": 411,
+  "m": 371
+ },
+ "adesa-richmond-auctioneer.jpg": {
+  "w": 742,
+  "h": 417,
+  "variants": [
+   {
+    "w": 742,
+    "fallback": "adesa-richmond-auctioneer.jpg",
+    "avif": "opt/adesa-richmond-auctioneer-742.avif",
+    "webp": "opt/adesa-richmond-auctioneer-742.webp"
+   }
+  ],
+  "fallback": "adesa-richmond-auctioneer.jpg",
+  "d": 318,
+  "m": 371
+ },
+ "adesa-richmond-lamborghini.jpg": {
+  "w": 954,
+  "h": 537,
+  "variants": [
+   {
+    "w": 954,
+    "fallback": "adesa-richmond-lamborghini.jpg",
+    "avif": "opt/adesa-richmond-lamborghini-954.avif",
+    "webp": "opt/adesa-richmond-lamborghini-954.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "adesa-richmond-lamborghini-742.jpg",
+    "avif": "opt/adesa-richmond-lamborghini-742.avif",
+    "webp": "opt/adesa-richmond-lamborghini-742.webp"
+   }
+  ],
+  "fallback": "adesa-richmond-lamborghini.jpg",
+  "d": 477,
+  "m": 371
+ },
+ "adesa-sold-every-60-seconds.jpg": {
+  "w": 569,
+  "h": 711,
+  "variants": [
+   {
+    "w": 569,
+    "fallback": "adesa-sold-every-60-seconds.jpg",
+    "avif": "opt/adesa-sold-every-60-seconds-569.avif",
+    "webp": "opt/adesa-sold-every-60-seconds-569.webp"
+   }
+  ],
+  "fallback": "adesa-sold-every-60-seconds.jpg",
+  "d": 411,
+  "m": 371
+ },
+ "adesa-transport-ad.jpg": {
+  "w": 734,
+  "h": 384,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-transport-ad.jpg",
+    "avif": "opt/adesa-transport-ad-734.avif",
+    "webp": "opt/adesa-transport-ad-734.webp"
+   }
+  ],
+  "fallback": "adesa-transport-ad.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-trivia-post.jpg": {
+  "w": 734,
+  "h": 546,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-trivia-post.jpg",
+    "avif": "opt/adesa-trivia-post-734.avif",
+    "webp": "opt/adesa-trivia-post-734.webp"
+   }
+  ],
+  "fallback": "adesa-trivia-post.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-vehicle-wrap.jpg": {
+  "w": 734,
+  "h": 401,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "adesa-vehicle-wrap.jpg",
+    "avif": "opt/adesa-vehicle-wrap-734.avif",
+    "webp": "opt/adesa-vehicle-wrap-734.webp"
+   }
+  ],
+  "fallback": "adesa-vehicle-wrap.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "adesa-winnipeg-team.jpg": {
+  "w": 1600,
+  "h": 900,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "adesa-winnipeg-team.jpg",
+    "avif": "opt/adesa-winnipeg-team-1600.avif",
+    "webp": "opt/adesa-winnipeg-team-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "adesa-winnipeg-team-742.jpg",
+    "avif": "opt/adesa-winnipeg-team-742.avif",
+    "webp": "opt/adesa-winnipeg-team-742.webp"
+   }
+  ],
+  "fallback": "adesa-winnipeg-team.jpg",
+  "d": 1320,
+  "m": 371
+ },
+ "adult-and-teen-challenge-logo.png": {
+  "w": 446,
+  "h": 100,
+  "variants": [
+   {
+    "w": 446,
+    "fallback": "adult-and-teen-challenge-logo.png",
+    "avif": "opt/adult-and-teen-challenge-logo-446.avif",
+    "webp": "opt/adult-and-teen-challenge-logo-446.webp"
+   }
+  ],
+  "fallback": "adult-and-teen-challenge-logo.png",
+  "d": 248,
+  "m": 248
+ },
+ "assessment-hero-northern-plumbing.jpg": {
+  "w": 966,
+  "h": 1057,
+  "variants": [
+   {
+    "w": 966,
+    "fallback": "assessment-hero-northern-plumbing.jpg",
+    "avif": "opt/assessment-hero-northern-plumbing-966.avif",
+    "webp": "opt/assessment-hero-northern-plumbing-966.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "assessment-hero-northern-plumbing-742.jpg",
+    "avif": "opt/assessment-hero-northern-plumbing-742.avif",
+    "webp": "opt/assessment-hero-northern-plumbing-742.webp"
+   }
+  ],
+  "fallback": "assessment-hero-northern-plumbing.jpg",
+  "d": 483,
+  "m": 371
+ },
+ "assessment-report-laptop.jpg": {
+  "w": 658,
+  "h": 767,
+  "variants": [
+   {
+    "w": 658,
+    "fallback": "assessment-report-laptop.jpg",
+    "avif": "opt/assessment-report-laptop-658.avif",
+    "webp": "opt/assessment-report-laptop-658.webp"
+   }
+  ],
+  "fallback": "assessment-report-laptop.jpg",
+  "d": 248,
+  "m": 329
+ },
+ "assessment-report-owner.jpg": {
+  "w": 956,
+  "h": 1046,
+  "variants": [
+   {
+    "w": 956,
+    "fallback": "assessment-report-owner.jpg",
+    "avif": "opt/assessment-report-owner-956.avif",
+    "webp": "opt/assessment-report-owner-956.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "assessment-report-owner-742.jpg",
+    "avif": "opt/assessment-report-owner-742.avif",
+    "webp": "opt/assessment-report-owner-742.webp"
+   }
+  ],
+  "fallback": "assessment-report-owner.jpg",
+  "d": 478,
+  "m": 371
+ },
+ "atc-vehicle-donation-feature.jpg": {
+  "w": 920,
+  "h": 690,
+  "variants": [
+   {
+    "w": 920,
+    "fallback": "atc-vehicle-donation-feature.jpg",
+    "avif": "opt/atc-vehicle-donation-feature-920.avif",
+    "webp": "opt/atc-vehicle-donation-feature-920.webp"
+   }
+  ],
+  "fallback": "atc-vehicle-donation-feature.jpg",
+  "d": 460,
+  "m": 371
+ },
+ "bc-plumbing-homepage.jpg": {
+  "w": 1188,
+  "h": 552,
+  "variants": [
+   {
+    "w": 1188,
+    "fallback": "bc-plumbing-homepage.jpg",
+    "avif": "opt/bc-plumbing-homepage-1188.avif",
+    "webp": "opt/bc-plumbing-homepage-1188.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "bc-plumbing-homepage-742.jpg",
+    "avif": "opt/bc-plumbing-homepage-742.avif",
+    "webp": "opt/bc-plumbing-homepage-742.webp"
+   }
+  ],
+  "fallback": "bc-plumbing-homepage.jpg",
+  "d": 594,
+  "m": 371
+ },
+ "bc-plumbing-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "bc-plumbing-logo.png",
+    "avif": "opt/bc-plumbing-logo-240.avif",
+    "webp": "opt/bc-plumbing-logo-240.webp"
+   }
+  ],
+  "fallback": "bc-plumbing-logo.png",
+  "d": 178,
+  "m": 178
+ },
+ "bc-plumbing-van-crew.jpg": {
+  "w": 890,
+  "h": 593,
+  "variants": [
+   {
+    "w": 890,
+    "fallback": "bc-plumbing-van-crew.jpg",
+    "avif": "opt/bc-plumbing-van-crew-890.avif",
+    "webp": "opt/bc-plumbing-van-crew-890.webp"
+   }
+  ],
+  "fallback": "bc-plumbing-van-crew.jpg",
+  "d": 445,
+  "m": 371
+ },
+ "blog-brand-voice.jpg": {
+  "w": 1400,
+  "h": 934,
+  "variants": [
+   {
+    "w": 1400,
+    "fallback": "blog-brand-voice.jpg",
+    "avif": "opt/blog-brand-voice-1400.avif",
+    "webp": "opt/blog-brand-voice-1400.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-brand-voice-742.jpg",
+    "avif": "opt/blog-brand-voice-742.avif",
+    "webp": "opt/blog-brand-voice-742.webp"
+   }
+  ],
+  "fallback": "blog-brand-voice.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-dove-ad.jpg": {
+  "w": 1149,
+  "h": 772,
+  "variants": [
+   {
+    "w": 1149,
+    "fallback": "blog-dove-ad.jpg",
+    "avif": "opt/blog-dove-ad-1149.avif",
+    "webp": "opt/blog-dove-ad-1149.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-dove-ad-742.jpg",
+    "avif": "opt/blog-dove-ad-742.avif",
+    "webp": "opt/blog-dove-ad-742.webp"
+   }
+  ],
+  "fallback": "blog-dove-ad.jpg",
+  "d": 760,
+  "m": 371
+ },
+ "blog-dream-bike.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "blog-dream-bike.jpg",
+    "avif": "opt/blog-dream-bike-900.avif",
+    "webp": "opt/blog-dream-bike-900.webp"
+   }
+  ],
+  "fallback": "blog-dream-bike.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-facebook-ads.jpg": {
+  "w": 1400,
+  "h": 933,
+  "variants": [
+   {
+    "w": 1400,
+    "fallback": "blog-facebook-ads.jpg",
+    "avif": "opt/blog-facebook-ads-1400.avif",
+    "webp": "opt/blog-facebook-ads-1400.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-facebook-ads-742.jpg",
+    "avif": "opt/blog-facebook-ads-742.avif",
+    "webp": "opt/blog-facebook-ads-742.webp"
+   }
+  ],
+  "fallback": "blog-facebook-ads.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-google-ad.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "blog-google-ad.jpg",
+    "avif": "opt/blog-google-ad-900.avif",
+    "webp": "opt/blog-google-ad-900.webp"
+   }
+  ],
+  "fallback": "blog-google-ad.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-half-glass.jpg": {
+  "w": 1400,
+  "h": 934,
+  "variants": [
+   {
+    "w": 1400,
+    "fallback": "blog-half-glass.jpg",
+    "avif": "opt/blog-half-glass-1400.avif",
+    "webp": "opt/blog-half-glass-1400.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-half-glass-742.jpg",
+    "avif": "opt/blog-half-glass-742.avif",
+    "webp": "opt/blog-half-glass-742.webp"
+   }
+  ],
+  "fallback": "blog-half-glass.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-now-adeasy.jpg": {
+  "w": 800,
+  "h": 600,
+  "variants": [
+   {
+    "w": 800,
+    "fallback": "blog-now-adeasy.jpg",
+    "avif": "opt/blog-now-adeasy-800.avif",
+    "webp": "opt/blog-now-adeasy-800.webp"
+   }
+  ],
+  "fallback": "blog-now-adeasy.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-polar-youtube-ad.jpg": {
+  "w": 1206,
+  "h": 750,
+  "variants": [
+   {
+    "w": 1206,
+    "fallback": "blog-polar-youtube-ad.jpg",
+    "avif": "opt/blog-polar-youtube-ad-1206.avif",
+    "webp": "opt/blog-polar-youtube-ad-1206.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-polar-youtube-ad-742.jpg",
+    "avif": "opt/blog-polar-youtube-ad-742.avif",
+    "webp": "opt/blog-polar-youtube-ad-742.webp"
+   }
+  ],
+  "fallback": "blog-polar-youtube-ad.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "boomtruck-operator-hero.jpg": {
+  "w": 890,
+  "h": 1335,
+  "variants": [
+   {
+    "w": 890,
+    "fallback": "boomtruck-operator-hero.jpg",
+    "avif": "opt/boomtruck-operator-hero-890.avif",
+    "webp": "opt/boomtruck-operator-hero-890.webp"
+   }
+  ],
+  "fallback": "boomtruck-operator-hero.jpg",
+  "d": 445,
+  "m": 371
+ },
+ "boomtruck-website-after.png": {
+  "w": 1050,
+  "h": 664,
+  "variants": [
+   {
+    "w": 1050,
+    "fallback": "boomtruck-website-after.jpg",
+    "avif": "opt/boomtruck-website-after-1050.avif",
+    "webp": "opt/boomtruck-website-after-1050.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "boomtruck-website-after-742.jpg",
+    "avif": "opt/boomtruck-website-after-742.avif",
+    "webp": "opt/boomtruck-website-after-742.webp"
+   }
+  ],
+  "fallback": "boomtruck-website-after.jpg",
+  "d": 640,
+  "m": 371
+ },
+ "boomtruck-website-before.png": {
+  "w": 934,
+  "h": 604,
+  "variants": [
+   {
+    "w": 934,
+    "fallback": "boomtruck-website-before.jpg",
+    "avif": "opt/boomtruck-website-before-934.avif",
+    "webp": "opt/boomtruck-website-before-934.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "boomtruck-website-before-742.jpg",
+    "avif": "opt/boomtruck-website-before-742.avif",
+    "webp": "opt/boomtruck-website-before-742.webp"
+   }
+  ],
+  "fallback": "boomtruck-website-before.jpg",
+  "d": 640,
+  "m": 371
+ },
+ "business-easy-podcast-studio.jpg": {
+  "w": 1050,
+  "h": 907,
+  "variants": [
+   {
+    "w": 1050,
+    "fallback": "business-easy-podcast-studio.jpg",
+    "avif": "opt/business-easy-podcast-studio-1050.avif",
+    "webp": "opt/business-easy-podcast-studio-1050.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "business-easy-podcast-studio-742.jpg",
+    "avif": "opt/business-easy-podcast-studio-742.avif",
+    "webp": "opt/business-easy-podcast-studio-742.webp"
+   }
+  ],
+  "fallback": "business-easy-podcast-studio.jpg",
+  "d": 525,
+  "m": 371
+ },
+ "career-account-executive.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-account-executive.jpg",
+    "avif": "opt/career-account-executive-900.avif",
+    "webp": "opt/career-account-executive-900.webp"
+   }
+  ],
+  "fallback": "career-account-executive.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-account-manager.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-account-manager.jpg",
+    "avif": "opt/career-account-manager-900.avif",
+    "webp": "opt/career-account-manager-900.webp"
+   }
+  ],
+  "fallback": "career-account-manager.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-brand-manager.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-brand-manager.jpg",
+    "avif": "opt/career-brand-manager-900.avif",
+    "webp": "opt/career-brand-manager-900.webp"
+   }
+  ],
+  "fallback": "career-brand-manager.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-client-advisor.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-client-advisor.jpg",
+    "avif": "opt/career-client-advisor-900.avif",
+    "webp": "opt/career-client-advisor-900.webp"
+   }
+  ],
+  "fallback": "career-client-advisor.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-freelance-wordpress-developer.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-freelance-wordpress-developer.jpg",
+    "avif": "opt/career-freelance-wordpress-developer-900.avif",
+    "webp": "opt/career-freelance-wordpress-developer-900.webp"
+   }
+  ],
+  "fallback": "career-freelance-wordpress-developer.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-inside-sales-representative.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-inside-sales-representative.jpg",
+    "avif": "opt/career-inside-sales-representative-900.avif",
+    "webp": "opt/career-inside-sales-representative-900.webp"
+   }
+  ],
+  "fallback": "career-inside-sales-representative.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-part-time-videographer.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-part-time-videographer.jpg",
+    "avif": "opt/career-part-time-videographer-900.avif",
+    "webp": "opt/career-part-time-videographer-900.webp"
+   }
+  ],
+  "fallback": "career-part-time-videographer.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "career-project-coordinator.jpg": {
+  "w": 900,
+  "h": 600,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "career-project-coordinator.jpg",
+    "avif": "opt/career-project-coordinator-900.avif",
+    "webp": "opt/career-project-coordinator-900.webp"
+   }
+  ],
+  "fallback": "career-project-coordinator.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "clean-line-google-review-laptop.jpg": {
+  "w": 722,
+  "h": 542,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "clean-line-google-review-laptop.jpg",
+    "avif": "opt/clean-line-google-review-laptop-722.avif",
+    "webp": "opt/clean-line-google-review-laptop-722.webp"
+   }
+  ],
+  "fallback": "clean-line-google-review-laptop.jpg",
+  "d": 361,
+  "m": 353
+ },
+ "clean-line-jeromy-chris.jpg": {
+  "w": 760,
+  "h": 1048,
+  "variants": [
+   {
+    "w": 760,
+    "fallback": "clean-line-jeromy-chris.jpg",
+    "avif": "opt/clean-line-jeromy-chris-760.avif",
+    "webp": "opt/clean-line-jeromy-chris-760.webp"
+   }
+  ],
+  "fallback": "clean-line-jeromy-chris.jpg",
+  "d": 380,
+  "m": 371
+ },
+ "clean-line-jets-ad.jpg": {
+  "w": 890,
+  "h": 1582,
+  "variants": [
+   {
+    "w": 890,
+    "fallback": "clean-line-jets-ad.jpg",
+    "avif": "opt/clean-line-jets-ad-890.avif",
+    "webp": "opt/clean-line-jets-ad-890.webp"
+   }
+  ],
+  "fallback": "clean-line-jets-ad.jpg",
+  "d": 445,
+  "m": 371
+ },
+ "clean-line-logo-black.png": {
+  "w": 640,
+  "h": 144,
+  "variants": [
+   {
+    "w": 640,
+    "fallback": "clean-line-logo-black.png",
+    "avif": "opt/clean-line-logo-black-640.avif",
+    "webp": "opt/clean-line-logo-black-640.webp"
+   },
+   {
+    "w": 496,
+    "fallback": "clean-line-logo-black-496.png",
+    "avif": "opt/clean-line-logo-black-496.avif",
+    "webp": "opt/clean-line-logo-black-496.webp"
+   }
+  ],
+  "fallback": "clean-line-logo-black.png",
+  "d": 320,
+  "m": 248
+ },
+ "clean-line-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "clean-line-logo.png",
+    "avif": "opt/clean-line-logo-240.avif",
+    "webp": "opt/clean-line-logo-240.webp"
+   }
+  ],
+  "fallback": "clean-line-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "clean-line-partner.webp": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "clean-line-partner.jpg",
+    "avif": "opt/clean-line-partner-1600.avif",
+    "webp": "opt/clean-line-partner-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "clean-line-partner-742.jpg",
+    "avif": "opt/clean-line-partner-742.avif",
+    "webp": "opt/clean-line-partner-742.webp"
+   }
+  ],
+  "fallback": "clean-line-partner.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "elec-commercial-meter-inspection.jpg": {
+  "w": 722,
+  "h": 481,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "elec-commercial-meter-inspection.jpg",
+    "avif": "opt/elec-commercial-meter-inspection-722.avif",
+    "webp": "opt/elec-commercial-meter-inspection-722.webp"
+   }
+  ],
+  "fallback": "elec-commercial-meter-inspection.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "elec-panel-install.jpg": {
+  "w": 722,
+  "h": 481,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "elec-panel-install.jpg",
+    "avif": "opt/elec-panel-install-722.avif",
+    "webp": "opt/elec-panel-install-722.webp"
+   }
+  ],
+  "fallback": "elec-panel-install.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "elec-service-clamp-meter.jpg": {
+  "w": 722,
+  "h": 542,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "elec-service-clamp-meter.jpg",
+    "avif": "opt/elec-service-clamp-meter-722.avif",
+    "webp": "opt/elec-service-clamp-meter-722.webp"
+   }
+  ],
+  "fallback": "elec-service-clamp-meter.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "gal-pinnacle-crew-spray-roll.jpg": {
+  "w": 840,
+  "h": 560,
+  "variants": [
+   {
+    "w": 840,
+    "fallback": "gal-pinnacle-crew-spray-roll.jpg",
+    "avif": "opt/gal-pinnacle-crew-spray-roll-840.avif",
+    "webp": "opt/gal-pinnacle-crew-spray-roll-840.webp"
+   }
+  ],
+  "fallback": "gal-pinnacle-crew-spray-roll.jpg",
+  "d": 420,
+  "m": 371
+ },
+ "gal-pinnacle-kitchen-wall.jpg": {
+  "w": 1600,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gal-pinnacle-kitchen-wall.jpg",
+    "avif": "opt/gal-pinnacle-kitchen-wall-1600.avif",
+    "webp": "opt/gal-pinnacle-kitchen-wall-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gal-pinnacle-kitchen-wall-742.jpg",
+    "avif": "opt/gal-pinnacle-kitchen-wall-742.avif",
+    "webp": "opt/gal-pinnacle-kitchen-wall-742.webp"
+   }
+  ],
+  "fallback": "gal-pinnacle-kitchen-wall.jpg",
+  "d": 829,
+  "m": 371
+ },
+ "gal-pinnacle-painter-roller.jpg": {
+  "w": 901,
+  "h": 901,
+  "variants": [
+   {
+    "w": 901,
+    "fallback": "gal-pinnacle-painter-roller.jpg",
+    "avif": "opt/gal-pinnacle-painter-roller-901.avif",
+    "webp": "opt/gal-pinnacle-painter-roller-901.webp"
+   }
+  ],
+  "fallback": "gal-pinnacle-painter-roller.jpg",
+  "d": 460,
+  "m": 371
+ },
+ "gal-pinnacle-stadium-signage.jpg": {
+  "w": 742,
+  "h": 448,
+  "variants": [
+   {
+    "w": 742,
+    "fallback": "gal-pinnacle-stadium-signage.jpg",
+    "avif": "opt/gal-pinnacle-stadium-signage-742.avif",
+    "webp": "opt/gal-pinnacle-stadium-signage-742.webp"
+   }
+  ],
+  "fallback": "gal-pinnacle-stadium-signage.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gal-pinnacle-trade-show-booth.jpg": {
+  "w": 742,
+  "h": 738,
+  "variants": [
+   {
+    "w": 742,
+    "fallback": "gal-pinnacle-trade-show-booth.jpg",
+    "avif": "opt/gal-pinnacle-trade-show-booth-742.avif",
+    "webp": "opt/gal-pinnacle-trade-show-booth-742.webp"
+   }
+  ],
+  "fallback": "gal-pinnacle-trade-show-booth.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "growth-strategy-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "growth-strategy-logo.png",
+    "avif": "opt/growth-strategy-logo-240.avif",
+    "webp": "opt/growth-strategy-logo-240.webp"
+   }
+  ],
+  "fallback": "growth-strategy-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "home-service-owner-with-technician.png": {
+  "w": 714,
+  "h": 956,
+  "variants": [
+   {
+    "w": 714,
+    "fallback": "home-service-owner-with-technician.jpg",
+    "avif": "opt/home-service-owner-with-technician-714.avif",
+    "webp": "opt/home-service-owner-with-technician-714.webp"
+   }
+  ],
+  "fallback": "home-service-owner-with-technician.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "hvac-ac-install-tech.jpg": {
+  "w": 722,
+  "h": 481,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "hvac-ac-install-tech.jpg",
+    "avif": "opt/hvac-ac-install-tech-722.avif",
+    "webp": "opt/hvac-ac-install-tech-722.webp"
+   }
+  ],
+  "fallback": "hvac-ac-install-tech.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "hvac-ac-repair-gauges.jpg": {
+  "w": 722,
+  "h": 481,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "hvac-ac-repair-gauges.jpg",
+    "avif": "opt/hvac-ac-repair-gauges-722.avif",
+    "webp": "opt/hvac-ac-repair-gauges-722.webp"
+   }
+  ],
+  "fallback": "hvac-ac-repair-gauges.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "hvac-commercial-rooftop.jpg": {
+  "w": 722,
+  "h": 541,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "hvac-commercial-rooftop.jpg",
+    "avif": "opt/hvac-commercial-rooftop-722.avif",
+    "webp": "opt/hvac-commercial-rooftop-722.webp"
+   }
+  ],
+  "fallback": "hvac-commercial-rooftop.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "industry-electrical.jpg": {
+  "w": 1164,
+  "h": 873,
+  "variants": [
+   {
+    "w": 1164,
+    "fallback": "industry-electrical.jpg",
+    "avif": "opt/industry-electrical-1164.avif",
+    "webp": "opt/industry-electrical-1164.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "industry-electrical-742.jpg",
+    "avif": "opt/industry-electrical-742.avif",
+    "webp": "opt/industry-electrical-742.webp"
+   }
+  ],
+  "fallback": "industry-electrical.jpg",
+  "d": 582,
+  "m": 371
+ },
+ "industry-hvac.jpg": {
+  "w": 1164,
+  "h": 777,
+  "variants": [
+   {
+    "w": 1164,
+    "fallback": "industry-hvac.jpg",
+    "avif": "opt/industry-hvac-1164.avif",
+    "webp": "opt/industry-hvac-1164.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "industry-hvac-742.jpg",
+    "avif": "opt/industry-hvac-742.avif",
+    "webp": "opt/industry-hvac-742.webp"
+   }
+  ],
+  "fallback": "industry-hvac.jpg",
+  "d": 582,
+  "m": 371
+ },
+ "industry-windows-doors-polar.jpg": {
+  "w": 1164,
+  "h": 655,
+  "variants": [
+   {
+    "w": 1164,
+    "fallback": "industry-windows-doors-polar.jpg",
+    "avif": "opt/industry-windows-doors-polar-1164.avif",
+    "webp": "opt/industry-windows-doors-polar-1164.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "industry-windows-doors-polar-742.jpg",
+    "avif": "opt/industry-windows-doors-polar-742.avif",
+    "webp": "opt/industry-windows-doors-polar-742.webp"
+   }
+  ],
+  "fallback": "industry-windows-doors-polar.jpg",
+  "d": 582,
+  "m": 371
+ },
+ "industry-windows-doors.jpg": {
+  "w": 900,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 900,
+    "fallback": "industry-windows-doors.jpg",
+    "avif": "opt/industry-windows-doors-900.avif",
+    "webp": "opt/industry-windows-doors-900.webp"
+   }
+  ],
+  "fallback": "industry-windows-doors.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "marketing-dashboard-imac.jpg": {
+  "w": 722,
+  "h": 542,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "marketing-dashboard-imac.jpg",
+    "avif": "opt/marketing-dashboard-imac-722.avif",
+    "webp": "opt/marketing-dashboard-imac-722.webp"
+   }
+  ],
+  "fallback": "marketing-dashboard-imac.jpg",
+  "d": 361,
+  "m": 353
+ },
+ "mr-boomtruck-logo-colour.png": {
+  "w": 496,
+  "h": 132,
+  "variants": [
+   {
+    "w": 496,
+    "fallback": "mr-boomtruck-logo-colour.png",
+    "avif": "opt/mr-boomtruck-logo-colour-496.avif",
+    "webp": "opt/mr-boomtruck-logo-colour-496.webp"
+   }
+  ],
+  "fallback": "mr-boomtruck-logo-colour.png",
+  "d": 248,
+  "m": 248
+ },
+ "mr-boomtruck-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "mr-boomtruck-logo.png",
+    "avif": "opt/mr-boomtruck-logo-240.avif",
+    "webp": "opt/mr-boomtruck-logo-240.webp"
+   }
+  ],
+  "fallback": "mr-boomtruck-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "openlane-fleet-ad-1.jpg": {
+  "w": 540,
+  "h": 752,
+  "variants": [
+   {
+    "w": 540,
+    "fallback": "openlane-fleet-ad-1.jpg",
+    "avif": "opt/openlane-fleet-ad-1-540.avif",
+    "webp": "opt/openlane-fleet-ad-1-540.webp"
+   },
+   {
+    "w": 350,
+    "fallback": "openlane-fleet-ad-1-350.jpg",
+    "avif": "opt/openlane-fleet-ad-1-350.avif",
+    "webp": "opt/openlane-fleet-ad-1-350.webp"
+   }
+  ],
+  "fallback": "openlane-fleet-ad-1.jpg",
+  "d": 270,
+  "m": 175
+ },
+ "openlane-fleet-ad-2.jpg": {
+  "w": 540,
+  "h": 752,
+  "variants": [
+   {
+    "w": 540,
+    "fallback": "openlane-fleet-ad-2.jpg",
+    "avif": "opt/openlane-fleet-ad-2-540.avif",
+    "webp": "opt/openlane-fleet-ad-2-540.webp"
+   },
+   {
+    "w": 350,
+    "fallback": "openlane-fleet-ad-2-350.jpg",
+    "avif": "opt/openlane-fleet-ad-2-350.avif",
+    "webp": "opt/openlane-fleet-ad-2-350.webp"
+   }
+  ],
+  "fallback": "openlane-fleet-ad-2.jpg",
+  "d": 270,
+  "m": 175
+ },
+ "openlane-fleet-ad-square.jpg": {
+  "w": 734,
+  "h": 615,
+  "variants": [
+   {
+    "w": 734,
+    "fallback": "openlane-fleet-ad-square.jpg",
+    "avif": "opt/openlane-fleet-ad-square-734.avif",
+    "webp": "opt/openlane-fleet-ad-square-734.webp"
+   }
+  ],
+  "fallback": "openlane-fleet-ad-square.jpg",
+  "d": 367,
+  "m": 297
+ },
+ "openlane-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "openlane-logo.png",
+    "avif": "opt/openlane-logo-240.avif",
+    "webp": "opt/openlane-logo-240.webp"
+   }
+  ],
+  "fallback": "openlane-logo.png",
+  "d": 130,
+  "m": 130
+ },
+ "openlane-meta-ad.jpg": {
+  "w": 1146,
+  "h": 600,
+  "variants": [
+   {
+    "w": 1146,
+    "fallback": "openlane-meta-ad.jpg",
+    "avif": "opt/openlane-meta-ad-1146.avif",
+    "webp": "opt/openlane-meta-ad-1146.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "openlane-meta-ad-742.jpg",
+    "avif": "opt/openlane-meta-ad-742.avif",
+    "webp": "opt/openlane-meta-ad-742.webp"
+   }
+  ],
+  "fallback": "openlane-meta-ad.jpg",
+  "d": 717,
+  "m": 371
+ },
+ "pinnacle-painting-and-decorating-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "pinnacle-painting-and-decorating-logo.png",
+    "avif": "opt/pinnacle-painting-and-decorating-logo-240.avif",
+    "webp": "opt/pinnacle-painting-and-decorating-logo-240.webp"
+   }
+  ],
+  "fallback": "pinnacle-painting-and-decorating-logo.png",
+  "d": 178,
+  "m": 178
+ },
+ "plumbing-commercial-valves.jpg": {
+  "w": 722,
+  "h": 481,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "plumbing-commercial-valves.jpg",
+    "avif": "opt/plumbing-commercial-valves-722.avif",
+    "webp": "opt/plumbing-commercial-valves-722.webp"
+   }
+  ],
+  "fallback": "plumbing-commercial-valves.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "plumbing-drain-repair.jpg": {
+  "w": 722,
+  "h": 481,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "plumbing-drain-repair.jpg",
+    "avif": "opt/plumbing-drain-repair-722.avif",
+    "webp": "opt/plumbing-drain-repair-722.webp"
+   }
+  ],
+  "fallback": "plumbing-drain-repair.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "podcast-ep1.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep1.jpg",
+    "avif": "opt/podcast-ep1-316.avif",
+    "webp": "opt/podcast-ep1-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep1-240.jpg",
+    "avif": "opt/podcast-ep1-240.avif",
+    "webp": "opt/podcast-ep1-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep1.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep2.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep2.jpg",
+    "avif": "opt/podcast-ep2-316.avif",
+    "webp": "opt/podcast-ep2-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep2-240.jpg",
+    "avif": "opt/podcast-ep2-240.avif",
+    "webp": "opt/podcast-ep2-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep2.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep3.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep3.jpg",
+    "avif": "opt/podcast-ep3-316.avif",
+    "webp": "opt/podcast-ep3-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep3-240.jpg",
+    "avif": "opt/podcast-ep3-240.avif",
+    "webp": "opt/podcast-ep3-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep3.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep4.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep4.jpg",
+    "avif": "opt/podcast-ep4-316.avif",
+    "webp": "opt/podcast-ep4-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep4-240.jpg",
+    "avif": "opt/podcast-ep4-240.avif",
+    "webp": "opt/podcast-ep4-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep4.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep5.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep5.jpg",
+    "avif": "opt/podcast-ep5-316.avif",
+    "webp": "opt/podcast-ep5-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep5-240.jpg",
+    "avif": "opt/podcast-ep5-240.avif",
+    "webp": "opt/podcast-ep5-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep5.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep6.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep6.jpg",
+    "avif": "opt/podcast-ep6-316.avif",
+    "webp": "opt/podcast-ep6-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep6-240.jpg",
+    "avif": "opt/podcast-ep6-240.avif",
+    "webp": "opt/podcast-ep6-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep6.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep7.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep7.jpg",
+    "avif": "opt/podcast-ep7-316.avif",
+    "webp": "opt/podcast-ep7-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep7-240.jpg",
+    "avif": "opt/podcast-ep7-240.avif",
+    "webp": "opt/podcast-ep7-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep7.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep8.jpg": {
+  "w": 316,
+  "h": 316,
+  "variants": [
+   {
+    "w": 316,
+    "fallback": "podcast-ep8.jpg",
+    "avif": "opt/podcast-ep8-316.avif",
+    "webp": "opt/podcast-ep8-316.webp"
+   },
+   {
+    "w": 240,
+    "fallback": "podcast-ep8-240.jpg",
+    "avif": "opt/podcast-ep8-240.avif",
+    "webp": "opt/podcast-ep8-240.webp"
+   }
+  ],
+  "fallback": "podcast-ep8.jpg",
+  "d": 158,
+  "m": 120
+ },
+ "polar-facebook-lead-form.png": {
+  "w": 680,
+  "h": 680,
+  "variants": [
+   {
+    "w": 680,
+    "fallback": "polar-facebook-lead-form.png",
+    "avif": "opt/polar-facebook-lead-form-680.avif",
+    "webp": "opt/polar-facebook-lead-form-680.webp"
+   }
+  ],
+  "fallback": "polar-facebook-lead-form.png",
+  "d": 340,
+  "m": 340
+ },
+ "polar-grant-ad.jpg": {
+  "w": 1200,
+  "h": 628,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "polar-grant-ad.jpg",
+    "avif": "opt/polar-grant-ad-1200.avif",
+    "webp": "opt/polar-grant-ad-1200.webp"
+   },
+   {
+    "w": 626,
+    "fallback": "polar-grant-ad-626.jpg",
+    "avif": "opt/polar-grant-ad-626.avif",
+    "webp": "opt/polar-grant-ad-626.webp"
+   }
+  ],
+  "fallback": "polar-grant-ad.jpg",
+  "d": 640,
+  "m": 313
+ },
+ "polar-marketing-system.png": {
+  "w": 1600,
+  "h": 1161,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "polar-marketing-system.jpg",
+    "avif": "opt/polar-marketing-system-1600.avif",
+    "webp": "opt/polar-marketing-system-1600.webp"
+   },
+   {
+    "w": 674,
+    "fallback": "polar-marketing-system-674.jpg",
+    "avif": "opt/polar-marketing-system-674.avif",
+    "webp": "opt/polar-marketing-system-674.webp"
+   }
+  ],
+  "fallback": "polar-marketing-system.jpg",
+  "d": 1238,
+  "m": 337
+ },
+ "polar-showroom.jpg": {
+  "w": 858,
+  "h": 1144,
+  "variants": [
+   {
+    "w": 858,
+    "fallback": "polar-showroom.jpg",
+    "avif": "opt/polar-showroom-858.avif",
+    "webp": "opt/polar-showroom-858.webp"
+   }
+  ],
+  "fallback": "polar-showroom.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "polar-windows-logo-clear.png": {
+  "w": 182,
+  "h": 58,
+  "variants": [
+   {
+    "w": 182,
+    "fallback": "polar-windows-logo-clear.png",
+    "avif": "opt/polar-windows-logo-clear-182.avif",
+    "webp": "opt/polar-windows-logo-clear-182.webp"
+   }
+  ],
+  "fallback": "polar-windows-logo-clear.png",
+  "d": 182,
+  "m": 182
+ },
+ "polar-windows-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "polar-windows-logo.png",
+    "avif": "opt/polar-windows-logo-240.avif",
+    "webp": "opt/polar-windows-logo-240.webp"
+   }
+  ],
+  "fallback": "polar-windows-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "pre-con-builders-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "pre-con-builders-logo.png",
+    "avif": "opt/pre-con-builders-logo-240.avif",
+    "webp": "opt/pre-con-builders-logo-240.webp"
+   }
+  ],
+  "fallback": "pre-con-builders-logo.png",
+  "d": 178,
+  "m": 178
+ },
+ "precon-570-stradbrook.jpg": {
+  "w": 1600,
+  "h": 1105,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "precon-570-stradbrook.jpg",
+    "avif": "opt/precon-570-stradbrook-1600.avif",
+    "webp": "opt/precon-570-stradbrook-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "precon-570-stradbrook-742.jpg",
+    "avif": "opt/precon-570-stradbrook-742.avif",
+    "webp": "opt/precon-570-stradbrook-742.webp"
+   }
+  ],
+  "fallback": "precon-570-stradbrook.jpg",
+  "d": 829,
+  "m": 371
+ },
+ "precon-giesbrecht-dealership.jpg": {
+  "w": 912,
+  "h": 512,
+  "variants": [
+   {
+    "w": 912,
+    "fallback": "precon-giesbrecht-dealership.jpg",
+    "avif": "opt/precon-giesbrecht-dealership-912.avif",
+    "webp": "opt/precon-giesbrecht-dealership-912.webp"
+   }
+  ],
+  "fallback": "precon-giesbrecht-dealership.jpg",
+  "d": 456,
+  "m": 371
+ },
+ "precon-hyundai-dealership.jpg": {
+  "w": 1146,
+  "h": 764,
+  "variants": [
+   {
+    "w": 1146,
+    "fallback": "precon-hyundai-dealership.jpg",
+    "avif": "opt/precon-hyundai-dealership-1146.avif",
+    "webp": "opt/precon-hyundai-dealership-1146.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "precon-hyundai-dealership-742.jpg",
+    "avif": "opt/precon-hyundai-dealership-742.avif",
+    "webp": "opt/precon-hyundai-dealership-742.webp"
+   }
+  ],
+  "fallback": "precon-hyundai-dealership.jpg",
+  "d": 573,
+  "m": 371
+ },
+ "precon-website-monitor.png": {
+  "w": 800,
+  "h": 800,
+  "variants": [
+   {
+    "w": 800,
+    "fallback": "precon-website-monitor.png",
+    "avif": "opt/precon-website-monitor-800.avif",
+    "webp": "opt/precon-website-monitor-800.webp"
+   }
+  ],
+  "fallback": "precon-website-monitor.png",
+  "d": 560,
+  "m": 371
+ },
+ "remax-agents-parade.jpg": {
+  "w": 938,
+  "h": 704,
+  "variants": [
+   {
+    "w": 938,
+    "fallback": "remax-agents-parade.jpg",
+    "avif": "opt/remax-agents-parade-938.avif",
+    "webp": "opt/remax-agents-parade-938.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "remax-agents-parade-742.jpg",
+    "avif": "opt/remax-agents-parade-742.avif",
+    "webp": "opt/remax-agents-parade-742.webp"
+   }
+  ],
+  "fallback": "remax-agents-parade.jpg",
+  "d": 469,
+  "m": 371
+ },
+ "remax-balloon-winnipeg-aerial.jpg": {
+  "w": 1340,
+  "h": 1005,
+  "variants": [
+   {
+    "w": 1340,
+    "fallback": "remax-balloon-winnipeg-aerial.jpg",
+    "avif": "opt/remax-balloon-winnipeg-aerial-1340.avif",
+    "webp": "opt/remax-balloon-winnipeg-aerial-1340.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "remax-balloon-winnipeg-aerial-742.jpg",
+    "avif": "opt/remax-balloon-winnipeg-aerial-742.avif",
+    "webp": "opt/remax-balloon-winnipeg-aerial-742.webp"
+   }
+  ],
+  "fallback": "remax-balloon-winnipeg-aerial.jpg",
+  "d": 670,
+  "m": 371
+ },
+ "remax-logo-colour.png": {
+  "w": 496,
+  "h": 143,
+  "variants": [
+   {
+    "w": 496,
+    "fallback": "remax-logo-colour.png",
+    "avif": "opt/remax-logo-colour-496.avif",
+    "webp": "opt/remax-logo-colour-496.webp"
+   }
+  ],
+  "fallback": "remax-logo-colour.png",
+  "d": 248,
+  "m": 248
+ },
+ "remax-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "remax-logo.png",
+    "avif": "opt/remax-logo-240.avif",
+    "webp": "opt/remax-logo-240.webp"
+   }
+  ],
+  "fallback": "remax-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "remax-milo-hero.jpg": {
+  "w": 858,
+  "h": 1181,
+  "variants": [
+   {
+    "w": 858,
+    "fallback": "remax-milo-hero.jpg",
+    "avif": "opt/remax-milo-hero-858.avif",
+    "webp": "opt/remax-milo-hero-858.webp"
+   }
+  ],
+  "fallback": "remax-milo-hero.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "remax-milo.jpg": {
+  "w": 890,
+  "h": 502,
+  "variants": [
+   {
+    "w": 890,
+    "fallback": "remax-milo.jpg",
+    "avif": "opt/remax-milo-890.avif",
+    "webp": "opt/remax-milo-890.webp"
+   }
+  ],
+  "fallback": "remax-milo.jpg",
+  "d": 445,
+  "m": 371
+ },
+ "sterling-ac-thermostat-ad.jpg": {
+  "w": 722,
+  "h": 542,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "sterling-ac-thermostat-ad.jpg",
+    "avif": "opt/sterling-ac-thermostat-ad-722.avif",
+    "webp": "opt/sterling-ac-thermostat-ad-722.webp"
+   }
+  ],
+  "fallback": "sterling-ac-thermostat-ad.jpg",
+  "d": 361,
+  "m": 353
+ },
+ "sterling-aff-predict.jpg": {
+  "w": 842,
+  "h": 842,
+  "variants": [
+   {
+    "w": 842,
+    "fallback": "sterling-aff-predict.jpg",
+    "avif": "opt/sterling-aff-predict-842.avif",
+    "webp": "opt/sterling-aff-predict-842.webp"
+   }
+  ],
+  "fallback": "sterling-aff-predict.jpg",
+  "d": 421,
+  "m": 371
+ },
+ "sterling-aff-rented.jpg": {
+  "w": 1200,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "sterling-aff-rented.jpg",
+    "avif": "opt/sterling-aff-rented-1200.avif",
+    "webp": "opt/sterling-aff-rented-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "sterling-aff-rented-742.jpg",
+    "avif": "opt/sterling-aff-rented-742.avif",
+    "webp": "opt/sterling-aff-rented-742.webp"
+   }
+  ],
+  "fallback": "sterling-aff-rented.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "sterling-aff-unaffordable.jpg": {
+  "w": 858,
+  "h": 858,
+  "variants": [
+   {
+    "w": 858,
+    "fallback": "sterling-aff-unaffordable.jpg",
+    "avif": "opt/sterling-aff-unaffordable-858.avif",
+    "webp": "opt/sterling-aff-unaffordable-858.webp"
+   }
+  ],
+  "fallback": "sterling-aff-unaffordable.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "sterling-plumbing-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "sterling-plumbing-logo.png",
+    "avif": "opt/sterling-plumbing-logo-240.avif",
+    "webp": "opt/sterling-plumbing-logo-240.webp"
+   }
+  ],
+  "fallback": "sterling-plumbing-logo.png",
+  "d": 178,
+  "m": 178
+ },
+ "sterling-saskenergy-rebate-ad.jpg": {
+  "w": 658,
+  "h": 658,
+  "variants": [
+   {
+    "w": 658,
+    "fallback": "sterling-saskenergy-rebate-ad.jpg",
+    "avif": "opt/sterling-saskenergy-rebate-ad-658.avif",
+    "webp": "opt/sterling-saskenergy-rebate-ad-658.webp"
+   }
+  ],
+  "fallback": "sterling-saskenergy-rebate-ad.jpg",
+  "d": 248,
+  "m": 329
+ },
+ "sterling-site-water-heater.jpg": {
+  "w": 800,
+  "h": 800,
+  "variants": [
+   {
+    "w": 800,
+    "fallback": "sterling-site-water-heater.jpg",
+    "avif": "opt/sterling-site-water-heater-800.avif",
+    "webp": "opt/sterling-site-water-heater-800.webp"
+   }
+  ],
+  "fallback": "sterling-site-water-heater.jpg",
+  "d": 520,
+  "m": 371
+ },
+ "sterling-website-homepage.jpg": {
+  "w": 658,
+  "h": 494,
+  "variants": [
+   {
+    "w": 658,
+    "fallback": "sterling-website-homepage.jpg",
+    "avif": "opt/sterling-website-homepage-658.avif",
+    "webp": "opt/sterling-website-homepage-658.webp"
+   }
+  ],
+  "fallback": "sterling-website-homepage.jpg",
+  "d": 248,
+  "m": 329
+ },
+ "svc-strategy.jpg": {
+  "w": 583,
+  "h": 816,
+  "variants": [
+   {
+    "w": 583,
+    "fallback": "svc-strategy.jpg",
+    "avif": "opt/svc-strategy-583.avif",
+    "webp": "opt/svc-strategy-583.webp"
+   }
+  ],
+  "fallback": "svc-strategy.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "team-chris-kostenuk.jpg": {
+  "w": 778,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 778,
+    "fallback": "team-chris-kostenuk.jpg",
+    "avif": "opt/team-chris-kostenuk-778.avif",
+    "webp": "opt/team-chris-kostenuk-778.webp"
+   }
+  ],
+  "fallback": "team-chris-kostenuk.jpg",
+  "d": 500,
+  "m": 371
+ },
+ "ultracuts-google-search-ad.jpg": {
+  "w": 1272,
+  "h": 654,
+  "variants": [
+   {
+    "w": 1272,
+    "fallback": "ultracuts-google-search-ad.jpg",
+    "avif": "opt/ultracuts-google-search-ad-1272.avif",
+    "webp": "opt/ultracuts-google-search-ad-1272.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "ultracuts-google-search-ad-742.jpg",
+    "avif": "opt/ultracuts-google-search-ad-742.avif",
+    "webp": "opt/ultracuts-google-search-ad-742.webp"
+   }
+  ],
+  "fallback": "ultracuts-google-search-ad.jpg",
+  "d": 636,
+  "m": 371
+ },
+ "ultracuts-logo-colour.png": {
+  "w": 496,
+  "h": 64,
+  "variants": [
+   {
+    "w": 496,
+    "fallback": "ultracuts-logo-colour.png",
+    "avif": "opt/ultracuts-logo-colour-496.avif",
+    "webp": "opt/ultracuts-logo-colour-496.webp"
+   }
+  ],
+  "fallback": "ultracuts-logo-colour.png",
+  "d": 248,
+  "m": 248
+ },
+ "ultracuts-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "ultracuts-logo.png",
+    "avif": "opt/ultracuts-logo-240.avif",
+    "webp": "opt/ultracuts-logo-240.webp"
+   }
+  ],
+  "fallback": "ultracuts-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "ultracuts-stylist-comb-hero.jpg": {
+  "w": 920,
+  "h": 1266,
+  "variants": [
+   {
+    "w": 920,
+    "fallback": "ultracuts-stylist-comb-hero.jpg",
+    "avif": "opt/ultracuts-stylist-comb-hero-920.avif",
+    "webp": "opt/ultracuts-stylist-comb-hero-920.webp"
+   }
+  ],
+  "fallback": "ultracuts-stylist-comb-hero.jpg",
+  "d": 460,
+  "m": 371
+ },
+ "ultracuts-stylist-masks.jpg": {
+  "w": 1340,
+  "h": 1005,
+  "variants": [
+   {
+    "w": 1340,
+    "fallback": "ultracuts-stylist-masks.jpg",
+    "avif": "opt/ultracuts-stylist-masks-1340.avif",
+    "webp": "opt/ultracuts-stylist-masks-1340.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "ultracuts-stylist-masks-742.jpg",
+    "avif": "opt/ultracuts-stylist-masks-742.avif",
+    "webp": "opt/ultracuts-stylist-masks-742.webp"
+   }
+  ],
+  "fallback": "ultracuts-stylist-masks.jpg",
+  "d": 670,
+  "m": 371
+ },
+ "ultracuts-stylist-mens-cut.jpg": {
+  "w": 1178,
+  "h": 778,
+  "variants": [
+   {
+    "w": 1178,
+    "fallback": "ultracuts-stylist-mens-cut.jpg",
+    "avif": "opt/ultracuts-stylist-mens-cut-1178.avif",
+    "webp": "opt/ultracuts-stylist-mens-cut-1178.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "ultracuts-stylist-mens-cut-742.jpg",
+    "avif": "opt/ultracuts-stylist-mens-cut-742.avif",
+    "webp": "opt/ultracuts-stylist-mens-cut-742.webp"
+   }
+  ],
+  "fallback": "ultracuts-stylist-mens-cut.jpg",
+  "d": 589,
+  "m": 371
+ },
+ "ultracuts-stylist-mirror.jpg": {
+  "w": 912,
+  "h": 605,
+  "variants": [
+   {
+    "w": 912,
+    "fallback": "ultracuts-stylist-mirror.jpg",
+    "avif": "opt/ultracuts-stylist-mirror-912.avif",
+    "webp": "opt/ultracuts-stylist-mirror-912.webp"
+   }
+  ],
+  "fallback": "ultracuts-stylist-mirror.jpg",
+  "d": 456,
+  "m": 371
+ },
+ "ultracuts-website-promo-mockup.jpg": {
+  "w": 1272,
+  "h": 836,
+  "variants": [
+   {
+    "w": 1272,
+    "fallback": "ultracuts-website-promo-mockup.jpg",
+    "avif": "opt/ultracuts-website-promo-mockup-1272.avif",
+    "webp": "opt/ultracuts-website-promo-mockup-1272.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "ultracuts-website-promo-mockup-742.jpg",
+    "avif": "opt/ultracuts-website-promo-mockup-742.avif",
+    "webp": "opt/ultracuts-website-promo-mockup-742.webp"
+   }
+  ],
+  "fallback": "ultracuts-website-promo-mockup.jpg",
+  "d": 636,
+  "m": 371
+ },
+ "winnipeg-sewer-and-drain-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "winnipeg-sewer-and-drain-logo.png",
+    "avif": "opt/winnipeg-sewer-and-drain-logo-240.avif",
+    "webp": "opt/winnipeg-sewer-and-drain-logo-240.webp"
+   }
+  ],
+  "fallback": "winnipeg-sewer-and-drain-logo.png",
+  "d": 178,
+  "m": 178
+ },
+ "wnd-full-replacement-home.jpg": {
+  "w": 722,
+  "h": 427,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "wnd-full-replacement-home.jpg",
+    "avif": "opt/wnd-full-replacement-home-722.avif",
+    "webp": "opt/wnd-full-replacement-home-722.webp"
+   }
+  ],
+  "fallback": "wnd-full-replacement-home.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "wnd-patio-awning.jpg": {
+  "w": 722,
+  "h": 457,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "wnd-patio-awning.jpg",
+    "avif": "opt/wnd-patio-awning-722.avif",
+    "webp": "opt/wnd-patio-awning-722.webp"
+   }
+  ],
+  "fallback": "wnd-patio-awning.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "wnd-polar-rebate-ad.jpg": {
+  "w": 722,
+  "h": 378,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "wnd-polar-rebate-ad.jpg",
+    "avif": "opt/wnd-polar-rebate-ad-722.avif",
+    "webp": "opt/wnd-polar-rebate-ad-722.webp"
+   }
+  ],
+  "fallback": "wnd-polar-rebate-ad.jpg",
+  "d": 361,
+  "m": 329
+ },
+ "wsd-monthly-report.jpg": {
+  "w": 1594,
+  "h": 547,
+  "variants": [
+   {
+    "w": 1594,
+    "fallback": "wsd-monthly-report.jpg",
+    "avif": "opt/wsd-monthly-report-1594.avif",
+    "webp": "opt/wsd-monthly-report-1594.webp"
+   },
+   {
+    "w": 710,
+    "fallback": "wsd-monthly-report-710.jpg",
+    "avif": "opt/wsd-monthly-report-710.avif",
+    "webp": "opt/wsd-monthly-report-710.webp"
+   }
+  ],
+  "fallback": "wsd-monthly-report.jpg",
+  "d": 797,
+  "m": 355
+ },
+ "wsd-tech-at-sink.jpg": {
+  "w": 800,
+  "h": 1200,
+  "variants": [
+   {
+    "w": 800,
+    "fallback": "wsd-tech-at-sink.jpg",
+    "avif": "opt/wsd-tech-at-sink-800.avif",
+    "webp": "opt/wsd-tech-at-sink-800.webp"
+   }
+  ],
+  "fallback": "wsd-tech-at-sink.jpg",
+  "d": 420,
+  "m": 371
+ },
+ "wsd-van-shop.jpg": {
+  "w": 1034,
+  "h": 776,
+  "variants": [
+   {
+    "w": 1034,
+    "fallback": "wsd-van-shop.jpg",
+    "avif": "opt/wsd-van-shop-1034.avif",
+    "webp": "opt/wsd-van-shop-1034.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "wsd-van-shop-742.jpg",
+    "avif": "opt/wsd-van-shop-742.avif",
+    "webp": "opt/wsd-van-shop-742.webp"
+   }
+  ],
+  "fallback": "wsd-van-shop.jpg",
+  "d": 517,
+  "m": 371
+ },
+ "wsd-website-after.jpg": {
+  "w": 1280,
+  "h": 686,
+  "variants": [
+   {
+    "w": 1280,
+    "fallback": "wsd-website-after.jpg",
+    "avif": "opt/wsd-website-after-1280.avif",
+    "webp": "opt/wsd-website-after-1280.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "wsd-website-after-742.jpg",
+    "avif": "opt/wsd-website-after-742.avif",
+    "webp": "opt/wsd-website-after-742.webp"
+   }
+  ],
+  "fallback": "wsd-website-after.jpg",
+  "d": 640,
+  "m": 371
+ },
+ "wsd-website-before.jpg": {
+  "w": 1280,
+  "h": 682,
+  "variants": [
+   {
+    "w": 1280,
+    "fallback": "wsd-website-before.jpg",
+    "avif": "opt/wsd-website-before-1280.avif",
+    "webp": "opt/wsd-website-before-1280.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "wsd-website-before-742.jpg",
+    "avif": "opt/wsd-website-before-742.avif",
+    "webp": "opt/wsd-website-before-742.webp"
+   }
+  ],
+  "fallback": "wsd-website-before.jpg",
+  "d": 640,
+  "m": 371
+ },
+ "wsd-website-laptop.jpg": {
+  "w": 722,
+  "h": 542,
+  "variants": [
+   {
+    "w": 722,
+    "fallback": "wsd-website-laptop.jpg",
+    "avif": "opt/wsd-website-laptop-722.avif",
+    "webp": "opt/wsd-website-laptop-722.webp"
+   }
+  ],
+  "fallback": "wsd-website-laptop.jpg",
+  "d": 361,
+  "m": 353
+ },
+ "icons/how-analysis.png": {
+  "w": 134,
+  "h": 144,
+  "variants": [
+   {
+    "w": 134,
+    "fallback": "icons/how-analysis.png",
+    "avif": "opt/icons/how-analysis-134.avif",
+    "webp": "opt/icons/how-analysis-134.webp"
+   }
+  ],
+  "fallback": "icons/how-analysis.png",
+  "d": 67,
+  "m": 67
+ },
+ "icons/how-communication.png": {
+  "w": 146,
+  "h": 143,
+  "variants": [
+   {
+    "w": 146,
+    "fallback": "icons/how-communication.png",
+    "avif": "opt/icons/how-communication-146.avif",
+    "webp": "opt/icons/how-communication-146.webp"
+   }
+  ],
+  "fallback": "icons/how-communication.png",
+  "d": 73,
+  "m": 73
+ },
+ "icons/how-reporting.png": {
+  "w": 192,
+  "h": 145,
+  "variants": [
+   {
+    "w": 192,
+    "fallback": "icons/how-reporting.png",
+    "avif": "opt/icons/how-reporting-192.avif",
+    "webp": "opt/icons/how-reporting-192.webp"
+   }
+  ],
+  "fallback": "icons/how-reporting.png",
+  "d": 96,
+  "m": 96
+ },
+ "icons/how-strategy.png": {
+  "w": 144,
+  "h": 144,
+  "variants": [
+   {
+    "w": 144,
+    "fallback": "icons/how-strategy.png",
+    "avif": "opt/icons/how-strategy-144.avif",
+    "webp": "opt/icons/how-strategy-144.webp"
+   }
+  ],
+  "fallback": "icons/how-strategy.png",
+  "d": 72,
+  "m": 72
+ },
+ "icons/icon-check-teal.png": {
+  "w": 52,
+  "h": 52,
+  "variants": [
+   {
+    "w": 52,
+    "fallback": "icons/icon-check-teal.png",
+    "avif": "opt/icons/icon-check-teal-52.avif",
+    "webp": "opt/icons/icon-check-teal-52.webp"
+   }
+  ],
+  "fallback": "icons/icon-check-teal.png",
+  "d": 26,
+  "m": 26
+ },
+ "icons/icon-convo-navy.png": {
+  "w": 88,
+  "h": 88,
+  "variants": [
+   {
+    "w": 88,
+    "fallback": "icons/icon-convo-navy.png",
+    "avif": "opt/icons/icon-convo-navy-88.avif",
+    "webp": "opt/icons/icon-convo-navy-88.webp"
+   }
+  ],
+  "fallback": "icons/icon-convo-navy.png",
+  "d": 44,
+  "m": 44
+ },
+ "icons/icon-eye-navy.png": {
+  "w": 88,
+  "h": 88,
+  "variants": [
+   {
+    "w": 88,
+    "fallback": "icons/icon-eye-navy.png",
+    "avif": "opt/icons/icon-eye-navy-88.avif",
+    "webp": "opt/icons/icon-eye-navy-88.webp"
+   }
+  ],
+  "fallback": "icons/icon-eye-navy.png",
+  "d": 44,
+  "m": 44
+ },
+ "icons/icon-lightbulb-navy.png": {
+  "w": 88,
+  "h": 88,
+  "variants": [
+   {
+    "w": 88,
+    "fallback": "icons/icon-lightbulb-navy.png",
+    "avif": "opt/icons/icon-lightbulb-navy-88.avif",
+    "webp": "opt/icons/icon-lightbulb-navy-88.webp"
+   }
+  ],
+  "fallback": "icons/icon-lightbulb-navy.png",
+  "d": 44,
+  "m": 44
+ },
+ "icons/icon-location-navy.png": {
+  "w": 80,
+  "h": 80,
+  "variants": [
+   {
+    "w": 80,
+    "fallback": "icons/icon-location-navy.png",
+    "avif": "opt/icons/icon-location-navy-80.avif",
+    "webp": "opt/icons/icon-location-navy-80.webp"
+   }
+  ],
+  "fallback": "icons/icon-location-navy.png",
+  "d": 40,
+  "m": 40
+ },
+ "icons/icon-mail-navy.png": {
+  "w": 80,
+  "h": 80,
+  "variants": [
+   {
+    "w": 80,
+    "fallback": "icons/icon-mail-navy.png",
+    "avif": "opt/icons/icon-mail-navy-80.avif",
+    "webp": "opt/icons/icon-mail-navy-80.webp"
+   }
+  ],
+  "fallback": "icons/icon-mail-navy.png",
+  "d": 40,
+  "m": 40
+ },
+ "icons/icon-phone-navy.png": {
+  "w": 80,
+  "h": 80,
+  "variants": [
+   {
+    "w": 80,
+    "fallback": "icons/icon-phone-navy.png",
+    "avif": "opt/icons/icon-phone-navy-80.avif",
+    "webp": "opt/icons/icon-phone-navy-80.webp"
+   }
+  ],
+  "fallback": "icons/icon-phone-navy.png",
+  "d": 40,
+  "m": 40
+ },
+ "icons/icon-play-orange.png": {
+  "w": 184,
+  "h": 184,
+  "variants": [
+   {
+    "w": 184,
+    "fallback": "icons/icon-play-orange.png",
+    "avif": "opt/icons/icon-play-orange-184.avif",
+    "webp": "opt/icons/icon-play-orange-184.webp"
+   },
+   {
+    "w": 128,
+    "fallback": "icons/icon-play-orange-128.png",
+    "avif": "opt/icons/icon-play-orange-128.avif",
+    "webp": "opt/icons/icon-play-orange-128.webp"
+   }
+  ],
+  "fallback": "icons/icon-play-orange.png",
+  "d": 92,
+  "m": 64
+ },
+ "gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "w": 1065,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1065,
+    "fallback": "gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1065.avif",
+    "webp": "opt/gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1065.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "w": 1065,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1065,
+    "fallback": "gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1065.avif",
+    "webp": "opt/gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1065.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "w": 1066,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1066,
+    "fallback": "gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1066.avif",
+    "webp": "opt/gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1066.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "w": 1065,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1065,
+    "fallback": "gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1065.avif",
+    "webp": "opt/gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026-1065.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-industrial-van-adeasy-photoshoot-2025.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-industrial-van-adeasy-photoshoot-2025.jpg",
+    "avif": "opt/gallery/clean-line-industrial-van-adeasy-photoshoot-2025-1600.avif",
+    "webp": "opt/gallery/clean-line-industrial-van-adeasy-photoshoot-2025-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-industrial-van-adeasy-photoshoot-2025-742.jpg",
+    "avif": "opt/gallery/clean-line-industrial-van-adeasy-photoshoot-2025-742.avif",
+    "webp": "opt/gallery/clean-line-industrial-van-adeasy-photoshoot-2025-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-industrial-van-adeasy-photoshoot-2025.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-office-adeasy-photoshoot-2025.jpg": {
+  "w": 1067,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1067,
+    "fallback": "gallery/clean-line-office-adeasy-photoshoot-2025.jpg",
+    "avif": "opt/gallery/clean-line-office-adeasy-photoshoot-2025-1067.avif",
+    "webp": "opt/gallery/clean-line-office-adeasy-photoshoot-2025-1067.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-office-adeasy-photoshoot-2025-742.jpg",
+    "avif": "opt/gallery/clean-line-office-adeasy-photoshoot-2025-742.avif",
+    "webp": "opt/gallery/clean-line-office-adeasy-photoshoot-2025-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-office-adeasy-photoshoot-2025.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-peel-family-adeasy-photoshoot-2025.jpg": {
+  "w": 1067,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1067,
+    "fallback": "gallery/clean-line-peel-family-adeasy-photoshoot-2025.jpg",
+    "avif": "opt/gallery/clean-line-peel-family-adeasy-photoshoot-2025-1067.avif",
+    "webp": "opt/gallery/clean-line-peel-family-adeasy-photoshoot-2025-1067.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-peel-family-adeasy-photoshoot-2025-742.jpg",
+    "avif": "opt/gallery/clean-line-peel-family-adeasy-photoshoot-2025-742.avif",
+    "webp": "opt/gallery/clean-line-peel-family-adeasy-photoshoot-2025-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-peel-family-adeasy-photoshoot-2025.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-pump-truck-adeasy-photoshoot-2025.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-pump-truck-adeasy-photoshoot-2025.jpg",
+    "avif": "opt/gallery/clean-line-pump-truck-adeasy-photoshoot-2025-1600.avif",
+    "webp": "opt/gallery/clean-line-pump-truck-adeasy-photoshoot-2025-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-pump-truck-adeasy-photoshoot-2025-742.jpg",
+    "avif": "opt/gallery/clean-line-pump-truck-adeasy-photoshoot-2025-742.avif",
+    "webp": "opt/gallery/clean-line-pump-truck-adeasy-photoshoot-2025-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-pump-truck-adeasy-photoshoot-2025.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-residential-vans-adeasy-photoshoot-2025.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-residential-vans-adeasy-photoshoot-2025.jpg",
+    "avif": "opt/gallery/clean-line-residential-vans-adeasy-photoshoot-2025-1600.avif",
+    "webp": "opt/gallery/clean-line-residential-vans-adeasy-photoshoot-2025-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-residential-vans-adeasy-photoshoot-2025-742.jpg",
+    "avif": "opt/gallery/clean-line-residential-vans-adeasy-photoshoot-2025-742.avif",
+    "webp": "opt/gallery/clean-line-residential-vans-adeasy-photoshoot-2025-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-residential-vans-adeasy-photoshoot-2025.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-walking-adeasy-photoshoot-2022.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/clean-line-technician-walking-adeasy-photoshoot-2022.jpg",
+    "avif": "opt/gallery/clean-line-technician-walking-adeasy-photoshoot-2022-1600.avif",
+    "webp": "opt/gallery/clean-line-technician-walking-adeasy-photoshoot-2022-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-technician-walking-adeasy-photoshoot-2022-742.jpg",
+    "avif": "opt/gallery/clean-line-technician-walking-adeasy-photoshoot-2022-742.avif",
+    "webp": "opt/gallery/clean-line-technician-walking-adeasy-photoshoot-2022-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-technician-walking-adeasy-photoshoot-2022.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-winnipeg-bombers-sponsorship-adeasy.jpg": {
+  "w": 1414,
+  "h": 672,
+  "variants": [
+   {
+    "w": 1414,
+    "fallback": "gallery/clean-line-winnipeg-bombers-sponsorship-adeasy.jpg",
+    "avif": "opt/gallery/clean-line-winnipeg-bombers-sponsorship-adeasy-1414.avif",
+    "webp": "opt/gallery/clean-line-winnipeg-bombers-sponsorship-adeasy-1414.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/clean-line-winnipeg-bombers-sponsorship-adeasy-742.jpg",
+    "avif": "opt/gallery/clean-line-winnipeg-bombers-sponsorship-adeasy-742.avif",
+    "webp": "opt/gallery/clean-line-winnipeg-bombers-sponsorship-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/clean-line-winnipeg-bombers-sponsorship-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026-1600.avif",
+    "webp": "opt/gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026-1600.avif",
+    "webp": "opt/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026.jpg": {
+  "w": 1066,
+  "h": 1600,
+  "variants": [
+   {
+    "w": 1066,
+    "fallback": "gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026-1066.avif",
+    "webp": "opt/gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026-1066.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026-1600.avif",
+    "webp": "opt/gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026-1600.avif",
+    "webp": "opt/gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026-1600.avif",
+    "webp": "opt/gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026.jpg": {
+  "w": 1600,
+  "h": 1066,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026.jpg",
+    "avif": "opt/gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026-1600.avif",
+    "webp": "opt/gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026-742.jpg",
+    "avif": "opt/gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026-742.avif",
+    "webp": "opt/gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026-742.webp"
+   }
+  ],
+  "fallback": "gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025.jpg",
+    "avif": "opt/gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025-1600.avif",
+    "webp": "opt/gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025-742.jpg",
+    "avif": "opt/gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025-742.avif",
+    "webp": "opt/gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025-742.webp"
+   }
+  ],
+  "fallback": "gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-ac-maintenance-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-ac-maintenance-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-ac-maintenance-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-ac-maintenance-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-ac-maintenance-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-ac-maintenance-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-ac-maintenance-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-ac-maintenance-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-ac-repair-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-ac-repair-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-ac-repair-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-ac-repair-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-ac-repair-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-ac-repair-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-ac-repair-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-ac-repair-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-filter-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-furnace-filter-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-furnace-filter-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-furnace-filter-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-furnace-filter-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-furnace-filter-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-furnace-filter-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-furnace-filter-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-inspection-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-furnace-inspection-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-furnace-inspection-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-furnace-inspection-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-furnace-inspection-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-furnace-inspection-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-furnace-inspection-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-furnace-inspection-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-maintenance-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-furnace-maintenance-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-furnace-maintenance-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-furnace-maintenance-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-furnace-maintenance-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-furnace-maintenance-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-furnace-maintenance-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-furnace-maintenance-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-repair-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-furnace-repair-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-furnace-repair-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-furnace-repair-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-furnace-repair-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-furnace-repair-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-furnace-repair-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-furnace-repair-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-hvac-maintenance-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-hvac-maintenance-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-hvac-maintenance-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-hvac-maintenance-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-hvac-maintenance-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-hvac-maintenance-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-hvac-maintenance-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-hvac-maintenance-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-water-heater-inspection-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-water-heater-inspection-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-water-heater-inspection-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-water-heater-inspection-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-water-heater-inspection-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-water-heater-inspection-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-water-heater-inspection-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-water-heater-inspection-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-water-heater-installation-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-water-heater-installation-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-water-heater-installation-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-water-heater-installation-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-water-heater-installation-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-water-heater-installation-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-water-heater-installation-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-water-heater-installation-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-water-heater-maintenance-photo-adeasy.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "gallery/sterling-water-heater-maintenance-photo-adeasy.jpg",
+    "avif": "opt/gallery/sterling-water-heater-maintenance-photo-adeasy-1600.avif",
+    "webp": "opt/gallery/sterling-water-heater-maintenance-photo-adeasy-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "gallery/sterling-water-heater-maintenance-photo-adeasy-742.jpg",
+    "avif": "opt/gallery/sterling-water-heater-maintenance-photo-adeasy-742.avif",
+    "webp": "opt/gallery/sterling-water-heater-maintenance-photo-adeasy-742.webp"
+   }
+  ],
+  "fallback": "gallery/sterling-water-heater-maintenance-photo-adeasy.jpg",
+  "d": 290,
+  "m": 371
+ }
+}

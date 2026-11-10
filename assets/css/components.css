@@ -1,0 +1,370 @@
+/* components.css: shared pieces used on many pages (blog post layout, legal pages,
+   phone-size type and image rules). Page-only rules live in pages.css. */
+
+/* mobile-titles */
+@media (max-width: 680px) {
+  h1[style*="--m-em"],
+  h2[style*="--m-em"],
+  h3[style*="--m-em"] {
+    font-size: max(20px, min(var(--m-max), calc((90vw + 37.5px - var(--m-off)) / var(--m-em)))) !important;
+  }
+  h1[style*="--m-em"] span[style*="color"],
+  h2[style*="--m-em"] span[style*="color"],
+  h3[style*="--m-em"] span[style*="color"],
+  h1[style*="--m-em"] em[style*="color"],
+  h2[style*="--m-em"] em[style*="color"],
+  h3[style*="--m-em"] em[style*="color"] {
+    display: block;
+  }
+}
+
+/* mobile-body */
+@media (max-width: 680px) {
+  p[style*="font-size: 20px"] {
+    font-size: 18px !important;
+  }
+  p[style*="font-size: 18px"],
+  li[style*="font-size: 18px"],
+  p[style*="font-size: clamp(17px"],
+  p[style*="font-size: clamp(18px"],
+  p.text-lead {
+    font-size: 16px !important;
+  }
+  p[style*="font-size: 17px"],
+  li[style*="font-size: 17px"],
+  figcaption[style*="font-size: 17px"],
+  p.text-body-17,
+  p.text-intro,
+  p.text-body--on-dark,
+  p.section-intro {
+    font-size: 15.5px !important;
+  }
+  p[style*="font-size: 16px"],
+  li[style*="font-size: 16px"],
+  figcaption[style*="font-size: 16px"],
+  td[style*="font-size: 16px"],
+  p.text-body,
+  p.text-body--spaced,
+  p.text-body-16,
+  p.text-body--on-dark-loose {
+    font-size: 15px !important;
+  }
+  p[style*="line-height: 1.75"],
+  p[style*="line-height: 1.8"],
+  p[style*="line-height: 1.85"],
+  p.text-lead,
+  p.text-body,
+  p.text-body-17,
+  p.text-body--on-dark-loose {
+    line-height: 1.65 !important;
+  }
+}
+
+/* mobile-short-titles */
+.t-mob {
+  display: none;
+}
+@media (max-width: 680px) {
+  .t-desk {
+    display: none;
+  }
+  .t-mob {
+    display: inline;
+  }
+}
+
+/* mobile-tall-images */
+/* Phones: tall photos show at half height so they don't fill the screen. Ads are shrunk, not cropped. */
+@media (max-width: 680px) {
+  img[style*="aspect-ratio: 644 / 886"] {
+    aspect-ratio: 644 / 443 !important;
+    object-fit: cover !important;
+  }
+  img[style*="aspect-ratio: 714 / 956"] {
+    aspect-ratio: 714 / 478 !important;
+    object-fit: cover !important;
+  }
+  img[style*="aspect-ratio: 3 / 4"] {
+    aspect-ratio: 3 / 2 !important;
+    object-fit: cover !important;
+  }
+  img[style*="aspect-ratio: 4 / 5"] {
+    aspect-ratio: 8 / 5 !important;
+    object-fit: cover !important;
+  }
+  img.img-crop-portrait {
+    aspect-ratio: 3 / 2 !important;
+    height: auto !important;
+    object-fit: cover !important;
+    object-position: center 25% !important;
+  }
+  img.img-hero-owner {
+    border-radius: 22px !important;
+  }
+  img.img-ad-narrow {
+    width: 56% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}
+
+/* hover-styles-post */
+.post-hv-1:hover {
+  color: #c44908 !important;
+}
+.post-hv-2:hover {
+  background: #fcf2e6 !important;
+  border-color: #c44908 !important;
+  color: #c44908 !important;
+}
+.post-card:hover .post-card-title {
+  color: #c44908 !important;
+}
+.post-hv-1:focus-visible,
+.post-hv-2:focus-visible,
+.post-card:focus-visible,
+.post-video:focus-visible {
+  outline: 2px solid #c44908;
+  outline-offset: 3px;
+}
+.post-body ul {
+  margin: 0 0 26px;
+  padding-left: 22px;
+}
+.post-body li {
+  margin-bottom: 8px;
+}
+.post-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(10px, 1.6vw, 16px);
+  margin: 12px 0 34px;
+}
+@media (max-width: 560px) {
+  .post-gallery {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.post-field {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 15px;
+  color: #1e2859;
+  background: #fcf2e6;
+  border: 1px solid rgba(30, 40, 89, 0.4);
+  border-radius: 2px;
+  padding: 12px 14px;
+  outline: none;
+  transition:
+    border-color 120ms ease,
+    box-shadow 120ms ease;
+}
+.post-field:focus {
+  border-color: #f1600d;
+  box-shadow: 0 0 0 3px rgba(241, 96, 13, 0.33);
+}
+.post-field::placeholder {
+  color: rgba(30, 40, 89, 0.45);
+}
+.post-file {
+  padding: 10px 12px;
+  cursor: pointer;
+}
+.post-file::file-selector-button {
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 700;
+  color: #1e2859;
+  background: #fffcf5;
+  border: 1px solid rgba(30, 40, 89, 0.4);
+  border-radius: 2px;
+  padding: 8px 14px;
+  margin-right: 12px;
+  cursor: pointer;
+}
+.post-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #1e2859;
+  margin-bottom: 7px;
+}
+.post-label em {
+  font-style: normal;
+  color: var(--orange-text);
+}
+.post-hv-3:hover {
+  background: #1e2859 !important;
+  border-color: #1e2859 !important;
+  color: #fcf2e6 !important;
+}
+.post-hv-3:focus-visible {
+  outline: 2px solid #c44908;
+  outline-offset: 3px;
+}
+.post-related {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(28px, 3vw, 40px);
+}
+@media (max-width: 760px) {
+  .post-related {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* hover-styles-lg */
+.lg-hv-1:hover {
+  color: #c44908 !important;
+}
+.lg-hv-1:focus-visible {
+  outline: 2px solid #c44908;
+  outline-offset: 3px;
+}
+
+/* Forms: honeypot (hidden from people, visible to bots) and the fallback error message */
+.form-hp {
+  position: absolute !important;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.form-error {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--navy-700);
+  background: var(--orange-100);
+  border-left: 3px solid var(--orange-800);
+  padding: 12px 14px;
+  margin: 16px 0 0;
+}
+.form-error a {
+  color: var(--navy-700);
+  border-bottom: 2px solid var(--orange-800);
+}
+.cf-turnstile {
+  margin: 0 0 20px;
+  min-height: 65px;
+}
+
+/* Client Photo Gallery lightbox (built by site.js) */
+.gal-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 24px;
+  background: rgba(10, 15, 44, 0.92);
+}
+.gal-lightbox[hidden] {
+  display: none;
+}
+.gal-lb-fig {
+  margin: 0;
+  max-width: min(1200px, 100%);
+  text-align: center;
+}
+.gal-lb-fig img {
+  display: block;
+  max-width: 100%;
+  max-height: 80vh;
+  margin: 0 auto;
+  border-radius: 12px;
+}
+.gal-lb-fig figcaption {
+  font-family: var(--font-body);
+  font-size: 14px;
+  color: var(--cream-100);
+  margin-top: 12px;
+}
+.gal-lightbox button {
+  background: transparent;
+  border: 1px solid rgba(252, 242, 230, 0.4);
+  color: var(--cream-100);
+  border-radius: 50%;
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  flex: 0 0 auto;
+}
+.gal-lightbox button:hover {
+  border-color: var(--orange-500);
+  color: var(--orange-500);
+}
+.gal-lightbox button:focus-visible {
+  outline: 2px solid var(--orange-500);
+  outline-offset: 3px;
+}
+.gal-lb-close {
+  position: absolute;
+  top: 18px;
+  right: 18px;
+}
+@media (max-width: 680px) {
+  .gal-lb-prev,
+  .gal-lb-next {
+    position: absolute;
+    bottom: 18px;
+  }
+  .gal-lb-prev {
+    left: 18px;
+  }
+  .gal-lb-next {
+    right: 18px;
+  }
+}
+
+/* Phones: headline accents shrink below "large text" size, so they switch to the higher-contrast orange
+   for their background (deeper orange on cream, lighter orange on navy) to keep 4.5:1. */
+@media (max-width: 680px) {
+  :is(h1, h2, h3) :is(span, em)[style*="color: #c44908"] {
+    color: var(--orange-text) !important;
+  }
+  :is(h1, h2, h3) :is(span, em)[style*="color: #f1600d"] {
+    color: var(--orange-500) !important;
+  }
+}
+
+/* Video facade: a lightweight poster that loads the Vimeo player only when clicked (site.js). */
+.video-facade {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  background: var(--navy-700);
+  color: var(--cream-100);
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+}
+.video-facade__icon {
+  width: 72px !important;
+  height: 72px !important;
+  transition: transform 160ms ease;
+}
+.video-facade:hover .video-facade__icon {
+  transform: scale(1.06);
+}
+.video-facade__title {
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--cream-100);
+}
+.video-facade:focus-visible {
+  outline: 3px solid var(--orange-500);
+  outline-offset: -3px;
+}

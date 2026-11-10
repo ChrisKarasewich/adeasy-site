@@ -1,0 +1,734 @@
+{
+ "adeasy-logo-nav.png": {
+  "d": 160,
+  "m": 160
+ },
+ "home-service-owner-with-technician.png": {
+  "d": 429,
+  "m": 371
+ },
+ "clean-line-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "sterling-plumbing-logo.png": {
+  "d": 178,
+  "m": 178
+ },
+ "polar-windows-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "mr-boomtruck-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "bc-plumbing-logo.png": {
+  "d": 178,
+  "m": 178
+ },
+ "winnipeg-sewer-and-drain-logo.png": {
+  "d": 178,
+  "m": 178
+ },
+ "pinnacle-painting-and-decorating-logo.png": {
+  "d": 178,
+  "m": 178
+ },
+ "accurate-dorwin-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "pre-con-builders-logo.png": {
+  "d": 178,
+  "m": 178
+ },
+ "remax-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "openlane-logo.png": {
+  "d": 130,
+  "m": 130
+ },
+ "adesa-auctions-logo.png": {
+  "d": 178,
+  "m": 178
+ },
+ "ultracuts-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "growth-strategy-logo.png": {
+  "d": 125,
+  "m": 125
+ },
+ "clean-line-logo-black.png": {
+  "d": 320,
+  "m": 248
+ },
+ "clean-line-partner.webp": {
+  "d": 1040,
+  "m": 371
+ },
+ "team-chris-kostenuk.jpg": {
+  "d": 500,
+  "m": 371
+ },
+ "icons/how-analysis.png": {
+  "d": 67,
+  "m": 67
+ },
+ "icons/how-communication.png": {
+  "d": 73,
+  "m": 73
+ },
+ "icons/how-reporting.png": {
+  "d": 96,
+  "m": 96
+ },
+ "icons/how-strategy.png": {
+  "d": 72,
+  "m": 72
+ },
+ "assessment-report-owner.jpg": {
+  "d": 478,
+  "m": 371
+ },
+ "adeasy-logo-cream.png": {
+  "d": 144,
+  "m": 144
+ },
+ "gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022.jpg": {
+  "d": 429,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg": {
+  "d": 429,
+  "m": 371
+ },
+ "sterling-ac-thermostat-ad.jpg": {
+  "d": 361,
+  "m": 353
+ },
+ "wsd-website-laptop.jpg": {
+  "d": 361,
+  "m": 353
+ },
+ "clean-line-jets-ad.jpg": {
+  "d": 445,
+  "m": 371
+ },
+ "clean-line-google-review-laptop.jpg": {
+  "d": 361,
+  "m": 353
+ },
+ "marketing-dashboard-imac.jpg": {
+  "d": 361,
+  "m": 353
+ },
+ "polar-windows-logo-clear.png": {
+  "d": 182,
+  "m": 182
+ },
+ "industry-windows-doors-polar.jpg": {
+  "d": 582,
+  "m": 371
+ },
+ "industry-hvac.jpg": {
+  "d": 582,
+  "m": 371
+ },
+ "industry-electrical.jpg": {
+  "d": 582,
+  "m": 371
+ },
+ "plumbing-drain-repair.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "svc-strategy.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "plumbing-commercial-valves.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "hvac-ac-repair-gauges.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "hvac-ac-install-tech.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "hvac-commercial-rooftop.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "sterling-aff-unaffordable.jpg": {
+  "d": 429,
+  "m": 371
+ },
+ "elec-service-clamp-meter.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "elec-panel-install.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "elec-commercial-meter-inspection.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "wnd-full-replacement-home.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "wnd-patio-awning.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "wnd-polar-rebate-ad.jpg": {
+  "d": 361,
+  "m": 329
+ },
+ "adesa-feature-portrait-zoom.jpg": {
+  "d": 460,
+  "m": 371
+ },
+ "adult-and-teen-challenge-logo.png": {
+  "d": 248,
+  "m": 248
+ },
+ "atc-vehicle-donation-feature.jpg": {
+  "d": 460,
+  "m": 371
+ },
+ "boomtruck-operator-hero.jpg": {
+  "d": 445,
+  "m": 371
+ },
+ "mr-boomtruck-logo-colour.png": {
+  "d": 248,
+  "m": 248
+ },
+ "remax-milo.jpg": {
+  "d": 445,
+  "m": 371
+ },
+ "gal-pinnacle-painter-roller.jpg": {
+  "d": 460,
+  "m": 371
+ },
+ "bc-plumbing-van-crew.jpg": {
+  "d": 445,
+  "m": 371
+ },
+ "wsd-van-shop.jpg": {
+  "d": 517,
+  "m": 371
+ },
+ "sterling-aff-rented.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "industry-windows-doors.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-polar-youtube-ad.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "ultracuts-stylist-comb-hero.jpg": {
+  "d": 460,
+  "m": 371
+ },
+ "precon-hyundai-dealership.jpg": {
+  "d": 573,
+  "m": 371
+ },
+ "clean-line-jeromy-chris.jpg": {
+  "d": 380,
+  "m": 371
+ },
+ "boomtruck-website-before.png": {
+  "d": 640,
+  "m": 371
+ },
+ "boomtruck-website-after.png": {
+  "d": 640,
+  "m": 371
+ },
+ "assessment-report-laptop.jpg": {
+  "d": 248,
+  "m": 329
+ },
+ "gallery/mr-boomtruck-crane-photo-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "sterling-site-water-heater.jpg": {
+  "d": 520,
+  "m": 371
+ },
+ "sterling-website-homepage.jpg": {
+  "d": 248,
+  "m": 329
+ },
+ "gallery/sterling-water-heater-installation-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "sterling-saskenergy-rebate-ad.jpg": {
+  "d": 248,
+  "m": 329
+ },
+ "sterling-aff-predict.jpg": {
+  "d": 421,
+  "m": 371
+ },
+ "polar-showroom.jpg": {
+  "d": 429,
+  "m": 371
+ },
+ "polar-facebook-lead-form.png": {
+  "d": 340,
+  "m": 340
+ },
+ "icons/icon-play-orange.png": {
+  "d": 92,
+  "m": 64
+ },
+ "polar-marketing-system.png": {
+  "d": 1238,
+  "m": 337
+ },
+ "polar-grant-ad.jpg": {
+  "d": 640,
+  "m": 313
+ },
+ "wsd-tech-at-sink.jpg": {
+  "d": 420,
+  "m": 371
+ },
+ "wsd-website-before.jpg": {
+  "d": 640,
+  "m": 371
+ },
+ "wsd-website-after.jpg": {
+  "d": 640,
+  "m": 371
+ },
+ "wsd-monthly-report.jpg": {
+  "d": 797,
+  "m": 355
+ },
+ "adesa-winnipeg-team.jpg": {
+  "d": 1320,
+  "m": 371
+ },
+ "adesa-sold-every-60-seconds.jpg": {
+  "d": 411,
+  "m": 371
+ },
+ "adesa-offer-video.jpg": {
+  "d": 411,
+  "m": 371
+ },
+ "adesa-rep-pipeline.jpg": {
+  "d": 411,
+  "m": 371
+ },
+ "adesa-brochure.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-trivia-post.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-referral-email.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-bids-4-kids.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "openlane-fleet-ad-square.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-google-search-ad.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-vehicle-wrap.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-transport-ad.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-hiring-ad.jpg": {
+  "d": 367,
+  "m": 297
+ },
+ "adesa-driver-lane.jpg": {
+  "d": 477,
+  "m": 371
+ },
+ "adesa-richmond-lamborghini.jpg": {
+  "d": 477,
+  "m": 371
+ },
+ "adesa-richmond-auctioneer.jpg": {
+  "d": 318,
+  "m": 371
+ },
+ "openlane-meta-ad.jpg": {
+  "d": 717,
+  "m": 371
+ },
+ "openlane-fleet-ad-1.jpg": {
+  "d": 270,
+  "m": 175
+ },
+ "openlane-fleet-ad-2.jpg": {
+  "d": 270,
+  "m": 175
+ },
+ "bc-plumbing-homepage.jpg": {
+  "d": 594,
+  "m": 371
+ },
+ "gal-pinnacle-crew-spray-roll.jpg": {
+  "d": 420,
+  "m": 371
+ },
+ "gal-pinnacle-kitchen-wall.jpg": {
+  "d": 829,
+  "m": 371
+ },
+ "precon-giesbrecht-dealership.jpg": {
+  "d": 456,
+  "m": 371
+ },
+ "precon-website-monitor.png": {
+  "d": 560,
+  "m": 371
+ },
+ "precon-570-stradbrook.jpg": {
+  "d": 829,
+  "m": 371
+ },
+ "remax-logo-colour.png": {
+  "d": 248,
+  "m": 248
+ },
+ "remax-milo-hero.jpg": {
+  "d": 429,
+  "m": 371
+ },
+ "remax-agents-parade.jpg": {
+  "d": 469,
+  "m": 371
+ },
+ "remax-balloon-winnipeg-aerial.jpg": {
+  "d": 670,
+  "m": 371
+ },
+ "ultracuts-logo-colour.png": {
+  "d": 248,
+  "m": 248
+ },
+ "ultracuts-stylist-mirror.jpg": {
+  "d": 456,
+  "m": 371
+ },
+ "ultracuts-website-promo-mockup.jpg": {
+  "d": 636,
+  "m": 371
+ },
+ "ultracuts-google-search-ad.jpg": {
+  "d": 636,
+  "m": 371
+ },
+ "ultracuts-stylist-masks.jpg": {
+  "d": 670,
+  "m": 371
+ },
+ "ultracuts-stylist-mens-cut.jpg": {
+  "d": 589,
+  "m": 371
+ },
+ "adesa-feature-card.jpg": {
+  "d": 445,
+  "m": 371
+ },
+ "career-project-coordinator.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-account-executive.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-inside-sales-representative.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-part-time-videographer.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-freelance-wordpress-developer.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-brand-manager.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-client-advisor.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-facebook-ads.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-google-ad.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "career-account-manager.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-half-glass.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-brand-voice.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-now-adeasy.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "blog-dream-bike.jpg": {
+  "d": 1040,
+  "m": 371
+ },
+ "icons/icon-lightbulb-navy.png": {
+  "d": 44,
+  "m": 44
+ },
+ "icons/icon-convo-navy.png": {
+  "d": 44,
+  "m": 44
+ },
+ "icons/icon-eye-navy.png": {
+  "d": 44,
+  "m": 44
+ },
+ "business-easy-podcast-studio.jpg": {
+  "d": 525,
+  "m": 371
+ },
+ "podcast-ep8.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep7.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep6.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep5.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep4.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep3.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep2.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "podcast-ep1.jpg": {
+  "d": 158,
+  "m": 120
+ },
+ "gallery/sterling-furnace-inspection-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-residential-vans-adeasy-photoshoot-2025.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gal-pinnacle-trade-show-booth.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-winnipeg-bombers-sponsorship-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-shaking-hands-adeasy-photoshoot-2022.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-filter-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-group-employee-photo-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gal-pinnacle-stadium-signage.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-hvac-maintenance-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-owners-photo-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-with-stick-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-ac-repair-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-employee-in-truck-photo-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-repair-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-furnace-maintenance-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/nolan-and-kevin-clean-line-adeasy-photoshoot-2025.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-pump-truck-adeasy-photoshoot-2025.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-peel-family-adeasy-photoshoot-2025.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-ac-maintenance-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-with-plunger-and-clean-line-hat-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-office-adeasy-photoshoot-2025.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-arms-crossed-adeasy-photoshoot-2022.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-walking-adeasy-photoshoot-2022.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-water-heater-maintenance-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-owners-carmen-and-darrell-standing-with-chris-karasewich-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/sterling-water-heater-inspection-photo-adeasy.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-industrial-van-adeasy-photoshoot-2025.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-technician-opening-van-adeasy-photoshoot-2022.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/mr-boomtruck-large-crane-photo-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/clean-line-grey-cup-event-team-photo-adeasy-photoshoot-2022.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "gallery/adam-lowry-with-wrench-for-cleanline-jets-campaign-adeasy-photoshoot-2026.jpg": {
+  "d": 290,
+  "m": 371
+ },
+ "icons/icon-phone-navy.png": {
+  "d": 40,
+  "m": 40
+ },
+ "icons/icon-mail-navy.png": {
+  "d": 40,
+  "m": 40
+ },
+ "icons/icon-location-navy.png": {
+  "d": 40,
+  "m": 40
+ },
+ "assessment-hero-northern-plumbing.jpg": {
+  "d": 483,
+  "m": 371
+ },
+ "icons/icon-check-teal.png": {
+  "d": 26,
+  "m": 26
+ },
+ "blog-dove-ad.jpg": {
+  "d": 760,
+  "m": 371
+ }
+}

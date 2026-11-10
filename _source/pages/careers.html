@@ -1,0 +1,622 @@
+<!-- SECTION: Hero -->
+<section id="hero" style="background: #1e2859; padding: clamp(48px, 6vw, 80px) clamp(20px, 5vw, 60px)">
+  <div class="container">
+    <div class="hero__eyebrow">Careers</div>
+    <h1
+      style="
+        --m-em: 14.88;
+        --m-off: 40px;
+        --m-max: 32px;
+        font-family: var(--font-display);
+        font-weight: 400;
+        font-size: clamp(32px, 4.3vw, 62px);
+        line-height: 1.08;
+        letter-spacing: 0.005em;
+        color: #fcf2e6;
+        margin: 0 0 20px;
+        max-width: 980px;
+      "
+    >
+      Help Home Service Brands<br /><span style="color: #f1600d">Grow With Us.</span>
+    </h1>
+    <p
+      style="
+        font-family: var(--font-body);
+        font-size: clamp(16px, 1.5vw, 18px);
+        line-height: 1.6;
+        color: rgba(252, 242, 230, 0.85);
+        margin: 0;
+        max-width: 720px;
+      "
+    >
+      AdEasy is a small Winnipeg team that works directly with the owners of growing home service businesses. When we’re
+      hiring, you’ll find the roles here.
+    </p>
+  </div>
+</section>
+<!-- /SECTION: Hero -->
+<!-- SECTION: Open roles -->
+<section class="section--cream" id="open-roles">
+  <div class="container">
+    <div class="section-label">
+      <span class="section-label__text">01 · Open Roles</span>
+      <span class="section-label__rule"></span>
+    </div>
+    <h2
+      style="
+        --m-em: 5.195;
+        --m-off: 40px;
+        --m-max: 32px;
+        font-family: var(--font-display);
+        font-weight: 400;
+        font-size: clamp(32px, 4.2vw, 48px);
+        line-height: 1.08;
+        letter-spacing: 0.005em;
+        color: #1e2859;
+        margin: 0 0 clamp(32px, 5vw, 56px);
+      "
+    >
+      Current<br /><span style="color: #c44908">Openings</span>
+    </h2>
+    <div
+      style="
+        background: #fffcf5;
+        border: 1px solid rgba(30, 40, 89, 0.2);
+        padding: clamp(32px, 4vw, 48px);
+        max-width: 860px;
+      "
+    >
+      <h3 class="card__title">No Open Roles Right Now</h3>
+      <p style="font-family: var(--font-body); font-size: 16px; line-height: 1.75; color: #000000; margin: 0 0 24px">
+        We aren’t hiring at the moment. If you work in home service marketing and think you’d be a good fit for a future
+        role, send us your resume with the application form below. It goes straight to careers@adeasy.com and we’ll keep
+        it on file.
+      </p>
+      <!-- SECTION: Application form -->
+      <form
+        action="/thank-you"
+        data-form="Careers application"
+        enctype="multipart/form-data"
+        id="apply"
+        method="post"
+        style="
+          background: #f0e2cc;
+          border: 1px solid rgba(30, 40, 89, 0.2);
+          border-radius: 2px;
+          padding: clamp(24px, 3vw, 36px);
+        "
+      >
+        <input name="posting" type="hidden" value="General application" />
+        <h3
+          style="
+            font-family: var(--font-body);
+            font-weight: 700;
+            font-size: clamp(19px, 1.6vw, 21px);
+            line-height: 1.35;
+            color: #1e2859;
+            margin: 0 0 20px;
+          "
+        >
+          Application Form
+        </h3>
+        <div class="form-row">
+          <label style="display: block">
+            <span class="car-label">Name <em>*</em></span>
+            <input
+              autocomplete="name"
+              class="car-field"
+              name="name"
+              placeholder="First and last name"
+              required=""
+              type="text"
+            />
+          </label>
+          <label style="display: block">
+            <span class="car-label">Email <em>*</em></span>
+            <input
+              autocomplete="email"
+              class="car-field"
+              name="email"
+              placeholder="you@email.com"
+              required=""
+              type="email"
+            />
+          </label>
+        </div>
+        <div class="form-row">
+          <label style="display: block">
+            <span class="car-label">Phone</span>
+            <input autocomplete="tel" class="car-field" name="phone" placeholder="(204) 000-0000" type="tel" />
+          </label>
+          <label style="display: block">
+            <span class="car-label">Role You’re Interested In</span>
+            <input class="car-field" name="role" placeholder="For example, Account Manager" type="text" />
+          </label>
+        </div>
+        <label class="form-field">
+          <span class="car-label">LinkedIn or Portfolio Link</span>
+          <input class="car-field" name="link" placeholder="https://" type="url" />
+        </label>
+        <label class="form-field">
+          <span class="car-label">Resume <em>*</em></span>
+          <input
+            accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            class="car-field car-file"
+            name="resume"
+            required=""
+            type="file"
+          />
+          <span
+            style="
+              display: block;
+              font-family: var(--font-body);
+              font-size: 13px;
+              line-height: 1.5;
+              color: rgba(30, 40, 89, 0.75);
+              margin-top: 7px;
+            "
+            >PDF or Word, up to 10 MB.</span
+          >
+        </label>
+        <label style="display: block; margin-bottom: 20px">
+          <span class="car-label">Tell Us About Yourself</span>
+          <textarea
+            class="car-field"
+            name="message"
+            placeholder="A few lines is plenty."
+            rows="5"
+            style="line-height: 1.5; resize: vertical"
+          ></textarea>
+        </label>
+        <label style="display: flex; gap: 12px; align-items: flex-start; margin-bottom: 26px; cursor: pointer">
+          <input
+            name="consent"
+            required=""
+            style="flex: 0 0 auto; width: 18px; height: 18px; margin: 2px 0 0; accent-color: #c44908"
+            type="checkbox"
+          />
+          <span style="font-family: var(--font-body); font-size: 14px; line-height: 1.55; color: #1e2859"
+            >I agree to be contacted by AdEasy about my application. <span style="color: #b03f08">*</span></span
+          >
+        </label>
+        <button
+          class="car-hv-2"
+          style="
+            font-family: var(--font-body);
+            font-size: 16px;
+            font-weight: 700;
+            color: #fcf2e6;
+            background: #b8430a;
+            border: 2px solid #b8430a;
+            border-radius: 2px;
+            padding: 16px 36px;
+            cursor: pointer;
+            transition:
+              background 120ms,
+              border-color 120ms;
+          "
+          type="submit"
+        >
+          Submit Application
+        </button>
+        <p
+          style="
+            font-family: var(--font-body);
+            font-size: 13px;
+            line-height: 1.5;
+            color: rgba(30, 40, 89, 0.75);
+            margin: 16px 0 0;
+          "
+        >
+          <span style="color: #b03f08">*</span> Required. Trouble uploading? Email your resume to
+          <a class="car-hv-1" href="mailto:careers@adeasy.com" style="font-weight: 700; color: #1e2859"
+            >careers@adeasy.com</a
+          >.
+        </p>
+      </form>
+      <!-- /SECTION: Application form -->
+    </div>
+    <h3
+      style="
+        font-family: var(--font-body);
+        font-weight: 700;
+        font-size: clamp(20px, 1.7vw, 23px);
+        line-height: 1.3;
+        color: #1e2859;
+        margin: clamp(48px, 6vw, 72px) 0 8px;
+      "
+    >
+      Past Roles
+    </h3>
+    <p
+      style="
+        font-family: var(--font-body);
+        font-size: 16px;
+        line-height: 1.7;
+        color: #000000;
+        margin: 0 0 24px;
+        max-width: 720px;
+      "
+    >
+      These roles are filled or closed. They’re here so you can see the kind of work we hire for.
+    </p>
+    <div style="display: grid">
+      <a
+        class="car-role"
+        href="/now-hiring-project-coordinator"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 25, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Project Coordinator (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            As an AdEasy Project Coordinator, your role would be to manage new campaign and media project development.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/now-hiring-account-executive"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 25, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Account Executive (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            As an AdEasy Account Executive, you will help grow the agency by sourcing new clients, maintaining current
+            client relationships, and developing new sales plans and goals.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/now-hiring-inside-sales-representative"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 25, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Inside Sales Representative (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            The AdEasy Inside Sales Representative answers potential customers’ questions via phone and/or email,
+            creates and maintains a database of current and potential customers in the pipeline, explains features of
+            our products and services, and upsells when it makes sense.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/part-time_videographer"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 12, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Part-Time Videographer (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            AdEasy is hiring a Part-Time Videographer to join our team in our office for two or three days a week.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/freelance-wordpress-developer"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 12, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Freelance WordPress Developer (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            AdEasy is hiring a Freelance WordPress developer to help update and maintain our portfolio of clients’
+            websites.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/now-hiring-brand-manager"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 12, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Brand Manager (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            The Brand Manager is an entry-level agency position with AdEasy. This employee is working toward becoming an
+            Account Manager.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/now-hiring-client-advisor"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted January 12, 2022
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Client Advisor / Account Coordinator (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            Being an AdEasy Client Advisor means being responsible for developing sales and managing client accounts.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+      <a
+        class="car-role"
+        href="/account-manager"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-between;
+          align-items: baseline;
+          gap: 10px 32px;
+          border-top: 1px solid rgba(30, 40, 89, 0.2);
+          padding: 22px 0;
+          text-decoration: none;
+        "
+      >
+        <div style="min-width: 0; flex: 1 1 320px">
+          <div style="font-family: var(--font-body); font-size: 13px; color: #6e604a; margin: 0 0 4px">
+            Posted June 14, 2021
+          </div>
+          <h4
+            class="car-role-title"
+            style="
+              font-family: var(--font-body);
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 1.35;
+              color: #1e2859;
+              margin: 0 0 6px;
+              transition: color 120ms;
+            "
+          >
+            Now Hiring: Account Manager (CLOSED)
+          </h4>
+          <p class="text-small--relaxed">
+            The Account Manager is responsible for developing digital media plans and proposals for clients while
+            overseeing and analyzing digital marketing campaigns.
+          </p>
+        </div>
+        <span class="text-link-sm">View Role →</span>
+      </a>
+    </div>
+  </div>
+</section>
+<!-- /SECTION: Open roles -->
+<!-- SECTION: Working at AdEasy -->
+<section class="section--navy" id="working-at-adeasy">
+  <div class="container">
+    <div class="section-label">
+      <span class="section-label__text--on-dark">02 · Working at AdEasy</span>
+      <span class="section-label__rule--on-dark"></span>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: clamp(40px, 6vw, 96px); align-items: flex-start">
+      <div style="flex: 1 1 400px; min-width: 0">
+        <h2
+          style="
+            --m-em: 9.837;
+            --m-off: 40px;
+            --m-max: 32px;
+            font-family: var(--font-display);
+            font-weight: 400;
+            font-size: clamp(32px, 4.2vw, 48px);
+            line-height: 1.08;
+            letter-spacing: 0.005em;
+            color: #fcf2e6;
+            margin: 0 0 18px;
+          "
+        >
+          A Small Team<br /><span style="color: #78bec4">Doing Real Work.</span>
+        </h2>
+        <p
+          style="
+            font-family: var(--font-body);
+            font-size: 17px;
+            line-height: 1.65;
+            color: rgba(252, 242, 230, 0.85);
+            margin: 0;
+            max-width: 560px;
+          "
+        >
+          We’ve been in business since 2013. Here’s what it’s like to be part of the team.
+        </p>
+      </div>
+      <div style="flex: 1.3 1 480px; min-width: 0; display: grid; gap: clamp(28px, 3vw, 40px)">
+        <div class="list-row--on-dark">
+          <h3 class="card__title--teal">Work Directly With Owners</h3>
+          <p class="text-body--on-dark-loose">
+            You’ll talk with the people who run the businesses we serve and see how your work affects their calls, jobs
+            and growth.
+          </p>
+        </div>
+        <div class="list-row--on-dark">
+          <h3 class="card__title--teal">Learn the Whole System</h3>
+          <p class="text-body--on-dark-loose">
+            Ads, websites, tracking and reporting all connect. You’ll see how each piece fits instead of working on one
+            channel in isolation.
+          </p>
+        </div>
+        <div class="list-row--on-dark">
+          <h3 class="card__title--teal">Ownership From Day One</h3>
+          <p class="text-body--on-dark-loose">
+            On a small team, your work matters right away. You’ll own real projects and have room to improve how we do
+            things.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /SECTION: Working at AdEasy -->
