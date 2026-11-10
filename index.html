@@ -38,6 +38,24 @@
 <link href="/assets/css/components.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <link href="/assets/css/pages.css" media="print" onload="this.media='all'" rel="stylesheet"/>
 <noscript><link href="/assets/css/base.css" rel="stylesheet"/><link href="/assets/css/layout.css" rel="stylesheet"/><link href="/assets/css/components.css" rel="stylesheet"/><link href="/assets/css/pages.css" rel="stylesheet"/></noscript>
+<!-- Tracking -->
+<script>
+/* GTM loads on the visitor's first interaction, or 2000 ms after the page finishes loading.
+   Tradeoff: a visitor who leaves before either happens is not counted. */
+window.dataLayer = window.dataLayer || [];
+(function () {
+  var done = false;
+  function load() {
+    if (done) return; done = true;
+    window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+    var s = document.createElement('script'); s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TZXK3K4';
+    document.head.appendChild(s);
+  }
+  ['pointerdown', 'keydown', 'scroll', 'touchstart'].forEach(function (e) { window.addEventListener(e, load, { once: true, passive: true }); });
+  window.addEventListener('load', function () { setTimeout(load, 2000); });
+})();
+</script>
 <!-- Schema -->
 <script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "ProfessionalService", "@id": "https://adeasy.com/#organization", "name": "AdEasy", "legalName": "AdEasy Inc.", "url": "https://adeasy.com/", "logo": "https://adeasy.com/icon-512.png", "image": "https://adeasy.com/assets/img/og/home-og.jpg", "telephone": "+1-204-809-4978", "email": "support@adeasy.com", "address": {"@type": "PostalAddress", "streetAddress": "309 McDermot Ave, Unit 230", "addressLocality": "Winnipeg", "addressRegion": "MB", "postalCode": "R3A 1T3", "addressCountry": "CA"}, "foundingDate": "2013", "founder": {"@type": "Person", "@id": "https://adeasy.com/about#chris-karasewich", "name": "Chris Karasewich", "jobTitle": "Founder and President", "sameAs": ["https://www.linkedin.com/in/karasewich"]}, "areaServed": [{"@type": "Country", "name": "Canada"}], "description": "AdEasy manages and improves marketing for growing home service businesses. See what’s working, book more jobs and start with a free Marketing Assessment.", "sameAs": ["https://www.linkedin.com/company/itsadeasy", "https://www.facebook.com/itsadeasy/", "https://www.instagram.com/itsadeasy/", "https://www.youtube.com/channel/UCTTRJCenKIkPTxS1tkMbgWQ", "https://vimeo.com/itsadeasy"]}, {"@type": "WebSite", "@id": "https://adeasy.com/#website", "name": "AdEasy", "url": "https://adeasy.com/", "publisher": {"@id": "https://adeasy.com/#organization"}}]}</script></head><body><!-- PARTIAL: header. Edit _source/partials/header.html, not here -->
 <a class="skip-link" href="#main">Skip to content</a>

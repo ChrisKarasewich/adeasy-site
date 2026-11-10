@@ -4,11 +4,11 @@
 SITE = "https://adeasy.com"  # canonical host: apex, no trailing slash (www redirects here)
 
 # Tracking. Leave blank until confirmed; the build then leaves the tag out instead of shipping a placeholder.
-GTM_ID = ""  # e.g. GTM-ABC1234 (Hugh to confirm; must be AdEasy's existing container)
+GTM_ID = "GTM-TZXK3K4"
 GTM_DELAY_MS = 2000  # GTM loads on first interaction, or this long after window load
 
 # Forms
-FORM_ENDPOINT = ""  # Google Apps Script web app URL (/exec). Blank = demo mode (validate, then thank-you page)
+FORM_ENDPOINT = "https://script.google.com/macros/s/AKfycbzc6USLS7mdMiuKyhLOS18HX9h5bYvDcN-XH3FHYWGKTBF92kO6f1uaWjcdrXmnkXah/exec"
 TURNSTILE_SITEKEY = ""  # Cloudflare Turnstile site key (public). The secret key lives only in Apps Script.
 
 # Search Console HTML-tag verification (content value only). Blank if verified by DNS.
