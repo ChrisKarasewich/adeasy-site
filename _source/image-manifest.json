@@ -3385,5 +3385,20 @@
   "fallback": "winnipeg-sewer-and-drain-logo-strip.png",
   "d": 114,
   "m": 114
+ },
+ "adult-and-teen-challenge-logo-strip.png": {
+  "w": 303,
+  "h": 100,
+  "variants": [
+   {
+    "w": 303,
+    "fallback": "adult-and-teen-challenge-logo-strip.png",
+    "avif": "opt/adult-and-teen-challenge-logo-strip-303.avif",
+    "webp": "opt/adult-and-teen-challenge-logo-strip-303.webp"
+   }
+  ],
+  "fallback": "adult-and-teen-challenge-logo-strip.png",
+  "d": 158,
+  "m": 158
  }
 }
