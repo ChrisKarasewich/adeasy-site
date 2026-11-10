@@ -457,5 +457,14 @@
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/clean-line-partner.webp",
   "h1": "Thanks for Applying. We\u2019ll Review It Soon."
+ },
+ "call-booked": {
+  "url": "/call-booked",
+  "title": "Discovery Call Booked | AdEasy",
+  "description": "Your discovery call with AdEasy is booked.",
+  "cta": false,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-partner.webp",
+  "h1": "You\u2019re Booked. Talk Soon."
  }
 }

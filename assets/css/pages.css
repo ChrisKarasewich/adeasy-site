@@ -116,6 +116,19 @@
   font-size: clamp(28px, 2.8vw, 38px);
   margin-bottom: 8px;
 }
+/* Desktop: narrower tiles and smaller numbers (Chris, Nov 10). Phones keep their own sizes below. */
+@media (min-width: 901px) {
+  .home-stats {
+    grid-template-columns: repeat(3, minmax(0, 210px));
+  }
+  .home-stats > [class^="stat-tile"] {
+    padding: 16px 18px 18px;
+  }
+  .home-stats [class^="stat-tile__value"] {
+    font-size: clamp(24px, 2vw, 28px);
+    margin-bottom: 6px;
+  }
+}
 /* Phones: two columns, tighter, so visitors reach the next part of the section sooner. */
 @media (max-width: 520px) {
   .home-stats {

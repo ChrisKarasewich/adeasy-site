@@ -4,6 +4,7 @@ Allow: /
 Disallow: /thank-you
 Disallow: /marketing-systems-assessment/booked
 Disallow: /careers/thank-you
+Disallow: /call-booked
 
 User-agent: GPTBot
 Allow: /

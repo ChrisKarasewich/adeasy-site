@@ -51,6 +51,9 @@
   if (location.pathname.replace(/\/$/, "") === "/marketing-systems-assessment/booked") {
     dl.push({ event: "assessment_booked" });
   }
+  if (location.pathname.replace(/\/$/, "") === "/call-booked") {
+    dl.push({ event: "discovery_call_booked" });
+  }
 
   /* ---- Home: bars grow in when the chart scrolls into view ---- */
   /* The $2.34M callout counts up from $1.51M (red) to $2.34M alongside the bars, turning teal at $2M. */

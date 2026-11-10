@@ -1,18 +1,18 @@
 {
  "accurate-dorwin-logo.png": {
-  "w": 240,
+  "w": 128,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 128,
     "fallback": "accurate-dorwin-logo.png",
-    "avif": "opt/accurate-dorwin-logo-240.avif",
-    "webp": "opt/accurate-dorwin-logo-240.webp"
+    "avif": "opt/accurate-dorwin-logo-128.avif",
+    "webp": "opt/accurate-dorwin-logo-128.webp"
    }
   ],
   "fallback": "accurate-dorwin-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 67,
+  "m": 67
  },
  "adeasy-logo-cream.png": {
   "w": 288,
@@ -885,19 +885,19 @@
   "m": 248
  },
  "clean-line-logo.png": {
-  "w": 240,
+  "w": 191,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 191,
     "fallback": "clean-line-logo.png",
-    "avif": "opt/clean-line-logo-240.avif",
-    "webp": "opt/clean-line-logo-240.webp"
+    "avif": "opt/clean-line-logo-191.avif",
+    "webp": "opt/clean-line-logo-191.webp"
    }
   ],
   "fallback": "clean-line-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 99,
+  "m": 99
  },
  "clean-line-partner.webp": {
   "w": 1600,
@@ -1047,19 +1047,19 @@
   "m": 371
  },
  "growth-strategy-logo.png": {
-  "w": 240,
+  "w": 216,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 216,
     "fallback": "growth-strategy-logo.png",
-    "avif": "opt/growth-strategy-logo-240.avif",
-    "webp": "opt/growth-strategy-logo-240.webp"
+    "avif": "opt/growth-strategy-logo-216.avif",
+    "webp": "opt/growth-strategy-logo-216.webp"
    }
   ],
   "fallback": "growth-strategy-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 112,
+  "m": 112
  },
  "hvac-ac-install-tech.jpg": {
   "w": 722,
@@ -1215,19 +1215,19 @@
   "m": 248
  },
  "mr-boomtruck-logo.png": {
-  "w": 240,
+  "w": 214,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 214,
     "fallback": "mr-boomtruck-logo.png",
-    "avif": "opt/mr-boomtruck-logo-240.avif",
-    "webp": "opt/mr-boomtruck-logo-240.webp"
+    "avif": "opt/mr-boomtruck-logo-214.avif",
+    "webp": "opt/mr-boomtruck-logo-214.webp"
    }
   ],
   "fallback": "mr-boomtruck-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 111,
+  "m": 111
  },
  "openlane-fleet-ad-1.jpg": {
   "w": 540,
@@ -1623,19 +1623,19 @@
   "m": 182
  },
  "polar-windows-logo.png": {
-  "w": 240,
+  "w": 187,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 187,
     "fallback": "polar-windows-logo.png",
-    "avif": "opt/polar-windows-logo-240.avif",
-    "webp": "opt/polar-windows-logo-240.webp"
+    "avif": "opt/polar-windows-logo-187.avif",
+    "webp": "opt/polar-windows-logo-187.webp"
    }
   ],
   "fallback": "polar-windows-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 97,
+  "m": 97
  },
  "pre-con-builders-logo.png": {
   "w": 240,
@@ -1782,19 +1782,19 @@
   "m": 248
  },
  "remax-logo.png": {
-  "w": 240,
+  "w": 203,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 203,
     "fallback": "remax-logo.png",
-    "avif": "opt/remax-logo-240.avif",
-    "webp": "opt/remax-logo-240.webp"
+    "avif": "opt/remax-logo-203.avif",
+    "webp": "opt/remax-logo-203.webp"
    }
   ],
   "fallback": "remax-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 106,
+  "m": 106
  },
  "remax-milo-hero.jpg": {
   "w": 858,
@@ -2019,19 +2019,19 @@
   "m": 248
  },
  "ultracuts-logo.png": {
-  "w": 240,
+  "w": 205,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 205,
     "fallback": "ultracuts-logo.png",
-    "avif": "opt/ultracuts-logo-240.avif",
-    "webp": "opt/ultracuts-logo-240.webp"
+    "avif": "opt/ultracuts-logo-205.avif",
+    "webp": "opt/ultracuts-logo-205.webp"
    }
   ],
   "fallback": "ultracuts-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 107,
+  "m": 107
  },
  "ultracuts-stylist-comb-hero.jpg": {
   "w": 920,
@@ -3252,33 +3252,138 @@
   "m": 329
  },
  "mint-construction-logo.png": {
-  "w": 240,
+  "w": 99,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 99,
     "fallback": "mint-construction-logo.png",
-    "avif": "opt/mint-construction-logo-240.avif",
-    "webp": "opt/mint-construction-logo-240.webp"
+    "avif": "opt/mint-construction-logo-99.avif",
+    "webp": "opt/mint-construction-logo-99.webp"
    }
   ],
   "fallback": "mint-construction-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 51,
+  "m": 51
  },
  "con-restor-technologies-logo.png": {
-  "w": 240,
+  "w": 186,
   "h": 100,
   "variants": [
    {
-    "w": 240,
+    "w": 186,
     "fallback": "con-restor-technologies-logo.png",
-    "avif": "opt/con-restor-technologies-logo-240.avif",
-    "webp": "opt/con-restor-technologies-logo-240.webp"
+    "avif": "opt/con-restor-technologies-logo-186.avif",
+    "webp": "opt/con-restor-technologies-logo-186.webp"
    }
   ],
   "fallback": "con-restor-technologies-logo.png",
-  "d": 125,
-  "m": 125
+  "d": 97,
+  "m": 97
+ },
+ "adesa-auctions-logo-strip.png": {
+  "w": 188,
+  "h": 100,
+  "variants": [
+   {
+    "w": 188,
+    "fallback": "adesa-auctions-logo-strip.png",
+    "avif": "opt/adesa-auctions-logo-strip-188.avif",
+    "webp": "opt/adesa-auctions-logo-strip-188.webp"
+   }
+  ],
+  "fallback": "adesa-auctions-logo-strip.png",
+  "d": 98,
+  "m": 98
+ },
+ "bc-plumbing-logo-strip.png": {
+  "w": 176,
+  "h": 100,
+  "variants": [
+   {
+    "w": 176,
+    "fallback": "bc-plumbing-logo-strip.png",
+    "avif": "opt/bc-plumbing-logo-strip-176.avif",
+    "webp": "opt/bc-plumbing-logo-strip-176.webp"
+   }
+  ],
+  "fallback": "bc-plumbing-logo-strip.png",
+  "d": 92,
+  "m": 92
+ },
+ "openlane-logo-strip.png": {
+  "w": 222,
+  "h": 100,
+  "variants": [
+   {
+    "w": 222,
+    "fallback": "openlane-logo-strip.png",
+    "avif": "opt/openlane-logo-strip-222.avif",
+    "webp": "opt/openlane-logo-strip-222.webp"
+   }
+  ],
+  "fallback": "openlane-logo-strip.png",
+  "d": 115,
+  "m": 115
+ },
+ "pinnacle-painting-and-decorating-logo-strip.png": {
+  "w": 226,
+  "h": 100,
+  "variants": [
+   {
+    "w": 226,
+    "fallback": "pinnacle-painting-and-decorating-logo-strip.png",
+    "avif": "opt/pinnacle-painting-and-decorating-logo-strip-226.avif",
+    "webp": "opt/pinnacle-painting-and-decorating-logo-strip-226.webp"
+   }
+  ],
+  "fallback": "pinnacle-painting-and-decorating-logo-strip.png",
+  "d": 118,
+  "m": 118
+ },
+ "pre-con-builders-logo-strip.png": {
+  "w": 185,
+  "h": 100,
+  "variants": [
+   {
+    "w": 185,
+    "fallback": "pre-con-builders-logo-strip.png",
+    "avif": "opt/pre-con-builders-logo-strip-185.avif",
+    "webp": "opt/pre-con-builders-logo-strip-185.webp"
+   }
+  ],
+  "fallback": "pre-con-builders-logo-strip.png",
+  "d": 96,
+  "m": 96
+ },
+ "sterling-plumbing-logo-strip.png": {
+  "w": 220,
+  "h": 100,
+  "variants": [
+   {
+    "w": 220,
+    "fallback": "sterling-plumbing-logo-strip.png",
+    "avif": "opt/sterling-plumbing-logo-strip-220.avif",
+    "webp": "opt/sterling-plumbing-logo-strip-220.webp"
+   }
+  ],
+  "fallback": "sterling-plumbing-logo-strip.png",
+  "d": 114,
+  "m": 114
+ },
+ "winnipeg-sewer-and-drain-logo-strip.png": {
+  "w": 220,
+  "h": 100,
+  "variants": [
+   {
+    "w": 220,
+    "fallback": "winnipeg-sewer-and-drain-logo-strip.png",
+    "avif": "opt/winnipeg-sewer-and-drain-logo-strip-220.avif",
+    "webp": "opt/winnipeg-sewer-and-drain-logo-strip-220.webp"
+   }
+  ],
+  "fallback": "winnipeg-sewer-and-drain-logo-strip.png",
+  "d": 114,
+  "m": 114
  }
 }

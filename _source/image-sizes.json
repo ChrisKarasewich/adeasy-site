@@ -4,20 +4,20 @@
   "m": 160
  },
  "clean-line-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 99,
+  "m": 99
  },
  "sterling-plumbing-logo.png": {
   "d": 178,
   "m": 178
  },
  "polar-windows-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 97,
+  "m": 97
  },
  "mr-boomtruck-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 111,
+  "m": 111
  },
  "bc-plumbing-logo.png": {
   "d": 178,
@@ -32,16 +32,16 @@
   "m": 178
  },
  "accurate-dorwin-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 67,
+  "m": 67
  },
  "pre-con-builders-logo.png": {
   "d": 178,
   "m": 178
  },
  "remax-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 106,
+  "m": 106
  },
  "openlane-logo.png": {
   "d": 130,
@@ -52,12 +52,12 @@
   "m": 178
  },
  "ultracuts-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 107,
+  "m": 107
  },
  "growth-strategy-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 112,
+  "m": 112
  },
  "clean-line-logo-black.png": {
   "d": 320,
@@ -736,11 +736,39 @@
   "m": 329
  },
  "mint-construction-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 51,
+  "m": 51
  },
  "con-restor-technologies-logo.png": {
-  "d": 125,
-  "m": 125
+  "d": 97,
+  "m": 97
+ },
+ "adesa-auctions-logo-strip.png": {
+  "d": 98,
+  "m": 98
+ },
+ "bc-plumbing-logo-strip.png": {
+  "d": 92,
+  "m": 92
+ },
+ "openlane-logo-strip.png": {
+  "d": 115,
+  "m": 115
+ },
+ "pinnacle-painting-and-decorating-logo-strip.png": {
+  "d": 118,
+  "m": 118
+ },
+ "pre-con-builders-logo-strip.png": {
+  "d": 96,
+  "m": 96
+ },
+ "sterling-plumbing-logo-strip.png": {
+  "d": 114,
+  "m": 114
+ },
+ "winnipeg-sewer-and-drain-logo-strip.png": {
+  "d": 114,
+  "m": 114
  }
 }
