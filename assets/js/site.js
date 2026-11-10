@@ -48,6 +48,15 @@
   });
 
   /* ---- Assessment booked page: Calendly sends people here after they book ---- */
+  /* Calendly can add the booker's name and email to the address. Strip it before analytics loads,
+     so no personal details ever reach Google Analytics. */
+  if (/invitee_|answer_\d|event_type_/.test(location.search)) {
+    try {
+      history.replaceState(null, "", location.pathname + location.hash);
+    } catch (x) {
+      /* older browsers: nothing to do */
+    }
+  }
   if (location.pathname.replace(/\/$/, "") === "/marketing-systems-assessment/booked") {
     dl.push({ event: "assessment_booked" });
   }
