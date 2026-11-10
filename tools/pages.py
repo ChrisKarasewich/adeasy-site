@@ -32,6 +32,7 @@ PAGES = [
     ("/contact", "contact", "contact", "contact", "/"),
     ("/marketing-systems-assessment", "marketing-systems-assessment", "resources", "service", "/"),
     ("/thank-you", "thank-you", "", "utility", "/"),
+    ("/careers/thank-you", "careers-thank-you", "", "utility", "/careers"),
     ("/marketing-systems-assessment/booked", "assessment-booked", "", "utility", "/marketing-systems-assessment"),
     ("/privacy-policy", "privacy-policy", "", "legal", "/"),
     ("/terms-of-use", "terms-of-use", "", "legal", "/"),
@@ -57,7 +58,7 @@ PAGES = [
     ("/account-manager", "career-account-manager", "resources", "career", "/careers"),
 ]
 
-NOINDEX = {"/thank-you", "/marketing-systems-assessment/booked", "/404"}  # kept out of search and the sitemap
+NOINDEX = {"/thank-you", "/careers/thank-you", "/marketing-systems-assessment/booked", "/404"}  # kept out of search and the sitemap
 
 
 def out_file(url):

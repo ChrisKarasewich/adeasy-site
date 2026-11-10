@@ -448,5 +448,14 @@
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/clean-line-partner.webp",
   "h1": "You\u2019re Booked. We\u2019ll Take It From Here."
+ },
+ "careers-thank-you": {
+  "url": "/careers/thank-you",
+  "title": "Application Received | AdEasy",
+  "description": "Thanks for applying to AdEasy.",
+  "cta": false,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/clean-line-partner.webp",
+  "h1": "Thanks for Applying. We\u2019ll Review It Soon."
  }
 }

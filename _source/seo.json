@@ -273,6 +273,15 @@
   "ogAlt": "Clean Line plumbing technician on a phone call in front of a branded Clean Line service van",
   "heroImage": "/assets/img/clean-line-partner.webp"
  },
+ "/careers/thank-you": {
+  "title": "Thanks for Applying to AdEasy | AdEasy",
+  "description": "Your application to AdEasy is in. Here is what happens next, plus a few client success stories to read while you wait.",
+  "crumb": "Application Received",
+  "h1": "Thanks for Applying. We’ll Review It Soon.",
+  "og": "/assets/img/og/thank-you-og.jpg",
+  "ogAlt": "Clean Line plumbing technician on a phone call in front of a branded Clean Line service van",
+  "heroImage": "/assets/img/clean-line-partner.webp"
+ },
  "/privacy-policy": {
   "title": "Privacy Policy: How We Handle Your Information | AdEasy",
   "description": "How AdEasy collects, uses and protects personal information through adeasy.com and its forms, and the choices you have. Questions go to support@adeasy.com.",

@@ -324,14 +324,11 @@
   }
 }
 
-/* Phones: headline accents shrink below "large text" size, so they switch to the higher-contrast orange
-   for their background (deeper orange on cream, lighter orange on navy) to keep 4.5:1. */
+/* Phones: orange headline accents on cream switch to the deeper orange for contrast. On navy they
+   keep the brand orange (#f1600d), the same as desktop (Chris, Nov 2026). */
 @media (max-width: 680px) {
   :is(h1, h2, h3) :is(span, em)[style*="color: #c44908"] {
     color: var(--orange-text) !important;
-  }
-  :is(h1, h2, h3) :is(span, em)[style*="color: #f1600d"] {
-    color: var(--orange-500) !important;
   }
 }
 

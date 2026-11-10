@@ -27,6 +27,13 @@ import site_config as C  # noqa: E402
 from pages import NOINDEX, PAGES, out_file  # noqa: E402
 
 SRC = os.path.join(ROOT, "_source")
+def ASSET_V(rel):
+    """Short content hash for a CSS/JS file, so browsers fetch the new copy whenever it changes
+    (assets are cached for 30 days)."""
+    import hashlib
+    return hashlib.md5(open(os.path.join(ROOT, "assets", rel), "rb").read()).hexdigest()[:8]
+
+
 META = json.load(open(os.path.join(SRC, "pages", "meta.json")))
 MANIFEST = json.load(open(os.path.join(SRC, "image-manifest.json")))
 SEO = json.load(open(os.path.join(SRC, "seo.json")))  # approved titles, descriptions, OG images, dates
@@ -237,8 +244,8 @@ def head(p, schema, demo, hero):
         "<!-- Stylesheets -->",
     ]
     for css in ("base", "layout", "components", "pages"):
-        lines.append(f'<link rel="stylesheet" href="/assets/css/{css}.css" media="print" onload="this.media=\'all\'">')
-    lines.append("<noscript>" + "".join(f'<link rel="stylesheet" href="/assets/css/{c}.css">' for c in ("base", "layout", "components", "pages")) + "</noscript>")
+        lines.append(f'<link rel="stylesheet" href="/assets/css/{css}.css?v={ASSET_V("css/" + css + ".css")}" media="print" onload="this.media=\'all\'">')
+    lines.append("<noscript>" + "".join(f'<link rel="stylesheet" href="/assets/css/{c}.css?v={ASSET_V("css/" + c + ".css")}">' for c in ("base", "layout", "components", "pages")) + "</noscript>")
     if C.GTM_ID and not demo:
         lines += ["<!-- Tracking -->", GTM_SNIPPET.replace("GTM_ID", C.GTM_ID).replace("GTM_DELAY", str(C.GTM_DELAY_MS))]
     lines += ["<!-- Schema -->", '<script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False) + "</script>"]
@@ -337,9 +344,9 @@ def build_page(p, demo):
     schema = schema_for(p, main)
     doc.head.append(BeautifulSoup(head(p, schema, demo, hero), "html.parser"))
     # scripts
-    scripts = ['<script src="/assets/js/site.js" defer></script>']
+    scripts = [f'<script src="/assets/js/site.js?v={ASSET_V("js/site.js")}" defer></script>']
     if has_form:
-        scripts.append('<script src="/assets/js/forms.js" defer></script>')
+        scripts.append(f'<script src="/assets/js/forms.js?v={ASSET_V("js/forms.js")}" defer></script>')
         if C.TURNSTILE_SITEKEY and not demo:
             scripts.append('<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>')
     doc.body.append(BeautifulSoup("\n".join(scripts), "html.parser"))

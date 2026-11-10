@@ -3,6 +3,7 @@ User-agent: *
 Allow: /
 Disallow: /thank-you
 Disallow: /marketing-systems-assessment/booked
+Disallow: /careers/thank-you
 
 User-agent: GPTBot
 Allow: /
