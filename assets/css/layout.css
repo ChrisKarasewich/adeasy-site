@@ -6,6 +6,14 @@ html,
 body {
   margin: 0;
   padding: 0;
+}
+/* The page itself is cream; the area behind it matches the footer, so when a phone
+   "bounces" past the bottom of the page it shows footer navy, not a cream gap. */
+html {
+  background: #121836;
+  overscroll-behavior-y: none;
+}
+body {
   background: var(--cream-100);
 }
 :root {
