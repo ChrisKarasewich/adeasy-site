@@ -9,7 +9,7 @@ GTM_DELAY_MS = 2000  # GTM loads on first interaction, or this long after window
 
 # Forms
 FORM_ENDPOINT = "https://script.google.com/macros/s/AKfycbzc6USLS7mdMiuKyhLOS18HX9h5bYvDcN-XH3FHYWGKTBF92kO6f1uaWjcdrXmnkXah/exec"
-TURNSTILE_SITEKEY = ""  # Cloudflare Turnstile site key (public). The secret key lives only in Apps Script.
+TURNSTILE_SITEKEY = "0x4AAAAAAAhQ_jPX-sZzPdY2"
 
 # Search Console HTML-tag verification (content value only). Blank if verified by DNS.
 GSC_VERIFICATION = ""
