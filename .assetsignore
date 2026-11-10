@@ -1,0 +1,11 @@
+wrangler.jsonc
+README.md
+CHANGELOG.md
+tools/
+_source/
+*.zip
+.prettierrc
+.gitignore
+.DS_Store
+**/.DS_Store
+.gitattributes
