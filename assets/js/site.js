@@ -46,6 +46,11 @@
     if (a) dl.push({ event: "assessment_click", link_location: where(a) });
   });
 
+  /* ---- Assessment booked page: Calendly sends people here after they book ---- */
+  if (location.pathname.replace(/\/$/, "") === "/marketing-systems-assessment/booked") {
+    dl.push({ event: "assessment_booked" });
+  }
+
   /* ---- Home: bars grow in when the chart scrolls into view ---- */
   var stack = document.querySelector(".home-stack");
   if (stack) {

@@ -32,6 +32,7 @@ PAGES = [
     ("/contact", "contact", "contact", "contact", "/"),
     ("/marketing-systems-assessment", "marketing-systems-assessment", "resources", "service", "/"),
     ("/thank-you", "thank-you", "", "utility", "/"),
+    ("/marketing-systems-assessment/booked", "assessment-booked", "", "utility", "/marketing-systems-assessment"),
     ("/privacy-policy", "privacy-policy", "", "legal", "/"),
     ("/terms-of-use", "terms-of-use", "", "legal", "/"),
     ("/404", "404", "", "utility", "/"),  # served for any unknown URL (wrangler.jsonc: not_found_handling)
@@ -56,7 +57,7 @@ PAGES = [
     ("/account-manager", "career-account-manager", "resources", "career", "/careers"),
 ]
 
-NOINDEX = {"/thank-you", "/404"}  # kept out of search and the sitemap
+NOINDEX = {"/thank-you", "/marketing-systems-assessment/booked", "/404"}  # kept out of search and the sitemap
 
 
 def out_file(url):
