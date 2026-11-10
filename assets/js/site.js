@@ -40,6 +40,11 @@
     if (!a) return;
     dl.push({ event: a.href.indexOf("tel:") === 0 ? "phone_click" : "email_click", link_location: where(a) });
   });
+  /* Assessment buttons go straight to Calendly, so count the click here */
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest('a[href*="calendly.com/chris_karasewich/marketing-system-assessment"]');
+    if (a) dl.push({ event: "assessment_click", link_location: where(a) });
+  });
 
   /* ---- Home: bars grow in when the chart scrolls into view ---- */
   var stack = document.querySelector(".home-stack");
