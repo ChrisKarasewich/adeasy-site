@@ -3250,5 +3250,35 @@
   "fallback": "home-service-owner-with-technician-wide.jpg",
   "d": 329,
   "m": 329
+ },
+ "mint-construction-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "mint-construction-logo.png",
+    "avif": "opt/mint-construction-logo-240.avif",
+    "webp": "opt/mint-construction-logo-240.webp"
+   }
+  ],
+  "fallback": "mint-construction-logo.png",
+  "d": 125,
+  "m": 125
+ },
+ "con-restor-technologies-logo.png": {
+  "w": 240,
+  "h": 100,
+  "variants": [
+   {
+    "w": 240,
+    "fallback": "con-restor-technologies-logo.png",
+    "avif": "opt/con-restor-technologies-logo-240.avif",
+    "webp": "opt/con-restor-technologies-logo-240.webp"
+   }
+  ],
+  "fallback": "con-restor-technologies-logo.png",
+  "d": 125,
+  "m": 125
  }
 }
