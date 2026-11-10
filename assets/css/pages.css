@@ -24,6 +24,10 @@
   display: block;
   flex: none;
 }
+/* <picture style="display:contents"> would turn its <source> tags into flex items, each adding an extra gap. */
+.home-logo-track source {
+  display: none;
+}
 .home-logo-track img {
   display: block;
   height: 52px;
