@@ -42,7 +42,8 @@
   });
   /* Assessment buttons go straight to Calendly, so count the click here */
   document.addEventListener("click", function (e) {
-    var a = e.target.closest && e.target.closest('a[href*="calendly.com/chris_karasewich/marketing-system-assessment"]');
+    var a =
+      e.target.closest && e.target.closest('a[href*="calendly.com/chris_karasewich/marketing-system-assessment"]');
     if (a) dl.push({ event: "assessment_click", link_location: where(a) });
   });
 
@@ -52,11 +53,43 @@
   }
 
   /* ---- Home: bars grow in when the chart scrolls into view ---- */
+  /* The $2.34M callout counts up from $1.51M (red) to $2.34M alongside the bars, turning teal at $2M. */
   var stack = document.querySelector(".home-stack");
+  var pot = document.querySelector(".home-potential");
+  var potBox = pot && pot.closest(".home-callout");
+  var POT_FROM = 1.51,
+    POT_TO = 2.34,
+    potRaf = null,
+    potOn = false;
+  var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function setPot(v) {
+    if (!pot) return;
+    if (reduceMotion) v = POT_TO;
+    pot.textContent = "$" + v.toFixed(2) + "M";
+    pot.style.color = v >= 2 ? "#2e6e74" : "#b03f08";
+    if (potBox) potBox.style.borderColor = v >= 2 ? "#4da4ac" : "#c44908";
+  }
+  function runPot() {
+    if (!pot) return;
+    cancelAnimationFrame(potRaf);
+    var start = performance.now(),
+      delay = 200,
+      dur = 1520; // first orange segment starts at 200ms, last one finishes at 920ms + 800ms
+    setPot(POT_FROM);
+    function step(now) {
+      var t = Math.min(1, Math.max(0, (now - start - delay) / dur));
+      setPot(POT_FROM + (POT_TO - POT_FROM) * (1 - Math.pow(1 - t, 3)));
+      if (t < 1 && potOn) potRaf = requestAnimationFrame(step);
+      else potRaf = null;
+    }
+    potRaf = requestAnimationFrame(step);
+  }
   if (stack) {
     if (!("IntersectionObserver" in window)) {
       stack.classList.add("is-in");
+      setPot(POT_TO);
     } else {
+      setPot(POT_FROM);
       new IntersectionObserver(
         function (entries) {
           entries.forEach(function (en) {
@@ -66,9 +99,14 @@
               void stack.offsetWidth;
               stack.classList.remove("is-reset");
               stack.classList.add("is-in");
+              potOn = true;
+              runPot();
             } else if (!en.isIntersecting) {
               stack.classList.add("is-reset");
               stack.classList.remove("is-in");
+              potOn = false;
+              cancelAnimationFrame(potRaf);
+              setPot(POT_FROM);
             }
           });
         },
