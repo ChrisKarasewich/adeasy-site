@@ -3,10 +3,6 @@
   "d": 160,
   "m": 160
  },
- "home-service-owner-with-technician.png": {
-  "d": 429,
-  "m": 371
- },
  "clean-line-logo.png": {
   "d": 125,
   "m": 125
@@ -730,5 +726,13 @@
  "blog-dove-ad.jpg": {
   "d": 760,
   "m": 371
+ },
+ "home-service-owner-with-technician.jpg": {
+  "d": 429,
+  "m": 371
+ },
+ "home-service-owner-with-technician-wide.jpg": {
+  "d": 329,
+  "m": 329
  }
 }

@@ -1061,21 +1061,6 @@
   "d": 125,
   "m": 125
  },
- "home-service-owner-with-technician.png": {
-  "w": 714,
-  "h": 956,
-  "variants": [
-   {
-    "w": 714,
-    "fallback": "home-service-owner-with-technician.jpg",
-    "avif": "opt/home-service-owner-with-technician-714.avif",
-    "webp": "opt/home-service-owner-with-technician-714.webp"
-   }
-  ],
-  "fallback": "home-service-owner-with-technician.jpg",
-  "d": 429,
-  "m": 371
- },
  "hvac-ac-install-tech.jpg": {
   "w": 722,
   "h": 481,
@@ -3235,5 +3220,35 @@
   "fallback": "gallery/sterling-water-heater-maintenance-photo-adeasy.jpg",
   "d": 290,
   "m": 371
+ },
+ "home-service-owner-with-technician.jpg": {
+  "w": 858,
+  "h": 1149,
+  "variants": [
+   {
+    "w": 858,
+    "fallback": "home-service-owner-with-technician.jpg",
+    "avif": "opt/home-service-owner-with-technician-858.avif",
+    "webp": "opt/home-service-owner-with-technician-858.webp"
+   }
+  ],
+  "fallback": "home-service-owner-with-technician.jpg",
+  "d": 429,
+  "m": 371
+ },
+ "home-service-owner-with-technician-wide.jpg": {
+  "w": 658,
+  "h": 439,
+  "variants": [
+   {
+    "w": 658,
+    "fallback": "home-service-owner-with-technician-wide.jpg",
+    "avif": "opt/home-service-owner-with-technician-wide-658.avif",
+    "webp": "opt/home-service-owner-with-technician-wide-658.webp"
+   }
+  ],
+  "fallback": "home-service-owner-with-technician-wide.jpg",
+  "d": 329,
+  "m": 329
  }
 }
