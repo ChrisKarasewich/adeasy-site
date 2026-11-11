@@ -1,8 +1,8 @@
 {
  "home": {
   "url": "/",
-  "title": "Home Service Marketing Partners | AdEasy",
-  "description": "AdEasy manages and improves marketing for growing home service businesses. Know what\u2019s working, book more jobs, and start with a Free Marketing Assessment.",
+  "title": "Home-Service Marketing Partners | AdEasy",
+  "description": "AdEasy manages and improves marketing for growing home-service businesses. Know what\u2019s working, book more jobs, and start with a Free Marketing Assessment.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/home-service-owner-with-technician.png",
@@ -10,8 +10,8 @@
  },
  "what-we-do": {
   "url": "/what-we-do",
-  "title": "Marketing Services & Leadership for Home Service Businesses | AdEasy",
-  "description": "You run the business. We manage marketing. AdEasy leads, coordinates and improves marketing for growing home service businesses, from campaigns and vendors to tracking and reporting.",
+  "title": "Marketing Services & Leadership for Home-Service Businesses | AdEasy",
+  "description": "You run the business. We manage marketing. AdEasy leads, coordinates and improves marketing for growing home-service businesses, from campaigns and vendors to tracking and reporting.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/gallery/clean-line-grey-cup-event-jeromy-peel-and-chris-karasewich-adeasy-photoshoot-2022.jpg",
@@ -19,7 +19,7 @@
  },
  "who-we-help": {
   "url": "/who-we-help",
-  "title": "Home Service Industries We Help | AdEasy",
+  "title": "Home-Service Industries We Help | AdEasy",
   "description": "AdEasy partners with growing plumbing, HVAC, electrical, and window and door businesses, building marketing around how their customers find and choose them.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
@@ -65,7 +65,7 @@
  "success-stories": {
   "url": "/success-stories",
   "title": "Partner Success Stories | AdEasy",
-  "description": "See how AdEasy helps home service brands like Clean Line, Polar Windows and Mr. Boomtruck attract more of the right customers.",
+  "description": "See how AdEasy helps home-service brands like Clean Line, Polar Windows and Mr. Boomtruck attract more of the right customers.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/clean-line-partner.webp",
@@ -181,17 +181,17 @@
  },
  "resources": {
   "url": "/resources",
-  "title": "News & Resources for Home Service Owners | AdEasy",
-  "description": "Marketing articles, case studies and news from AdEasy for home service business owners.",
+  "title": "News & Resources for Home-Service Owners | AdEasy",
+  "description": "Marketing articles, case studies and news from AdEasy for home-service business owners.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/precon-hyundai-dealership.jpg",
-  "h1": "Marketing Ideas for Home Service Owners."
+  "h1": "Marketing Ideas for Home-Service Owners."
  },
  "about": {
   "url": "/about",
   "title": "About AdEasy | Built by Owners, for Owners",
-  "description": "Meet AdEasy, the Winnipeg team building marketing systems and demand generation for home service brands since 2013.",
+  "description": "Meet AdEasy, the Winnipeg team building marketing systems and demand generation for home-service brands since 2013.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg",
@@ -209,16 +209,16 @@
  "careers": {
   "url": "/careers",
   "title": "Careers at AdEasy | Marketing Jobs in Winnipeg",
-  "description": "Open roles at AdEasy, a Winnipeg marketing partner for home service brands.",
+  "description": "Open roles at AdEasy, a Winnipeg marketing partner for home-service brands.",
   "cta": false,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "",
-  "h1": "Help Home Service Brands Grow With Us."
+  "h1": "Help Home-Service Brands Grow With Us."
  },
  "client-photo-gallery": {
   "url": "/client-photo-gallery",
   "title": "Client Photo Gallery | AdEasy",
-  "description": "Photos from AdEasy\u2019s home service partners: crews, trucks, shoots and the work behind the campaigns.",
+  "description": "Photos from AdEasy\u2019s home-service partners: crews, trucks, shoots and the work behind the campaigns.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/gallery/clean-line-grey-cup-event-jeromy-peel-adeasy-photoshoot-2022.jpg",
@@ -226,7 +226,7 @@
  },
  "contact": {
   "url": "/contact",
-  "title": "Contact AdEasy | Winnipeg Home Service Marketing",
+  "title": "Contact AdEasy | Winnipeg Home-Service Marketing",
   "description": "Contact AdEasy by form, phone or email, or visit our office at 309 McDermot Ave, Unit 230, in Winnipeg\u2019s Exchange District.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
@@ -244,7 +244,7 @@
  },
  "marketing-systems-assessment": {
   "url": "/marketing-systems-assessment",
-  "title": "Free Marketing Assessment for Home Service Businesses | AdEasy",
+  "title": "Free Marketing Assessment for Home-Service Businesses | AdEasy",
   "description": "Find out what\u2019s working in your marketing, where the gaps are, and what to improve first. Book a free assessment and get a personalized three-page report.",
   "cta": false,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",

@@ -159,7 +159,7 @@ def schema_for(p, page_soup):
         out.append({"@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": i + 1, "name": n, "item": abs_url(x)} for i, (n, x) in enumerate(crumbs)]})
     if p["type"] in ("service", "service-hub"):
-        out.append({"@type": "Service", "name": SEO[p["url"]]["crumb"], "serviceType": "Marketing for home service businesses",
+        out.append({"@type": "Service", "name": SEO[p["url"]]["crumb"], "serviceType": "Marketing for home-service businesses",
                     "provider": {"@id": C.SITE + "/#organization"}, "areaServed": {"@type": "Country", "name": "Canada"},
                     "url": abs_url(p["url"]), "description": SEO[p["url"]]["description"]})
     if p["type"] == "post" and SEO[p["url"]].get("datePublished"):
