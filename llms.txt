@@ -2,7 +2,7 @@
 
 > AdEasy is a Winnipeg marketing partner for growing home service brands. We run their marketing department and the systems that support their growth: campaigns, vendors, websites, tracking and reporting, so owners know what's working and book more jobs. Founded in 2013 by Chris Karasewich.
 
-AdEasy works with plumbing and drain, HVAC and mechanical, electrical, and window and door companies across Canada. Most partners are owner-led businesses that have outgrown doing marketing themselves. New partners start with a free Marketing Systems Assessment: we research the business, review eight marketing systems with the owner, and send a three-page report showing what's working, what needs attention and what to fix first.
+AdEasy works with plumbing and drain, HVAC and mechanical, electrical, and window and door companies across Canada and the U.S. Most partners are owner-led businesses that have outgrown doing marketing themselves. New partners start with a free Marketing Systems Assessment: we research the business, review eight marketing systems with the owner, and send a three-page report showing what's working, what needs attention and what to fix first.
 
 Contact: 204-809-4978 · support@adeasy.com · 309 McDermot Ave, Unit 230, Winnipeg, MB R3A 1T3
 
@@ -29,6 +29,7 @@ Contact: 204-809-4978 · support@adeasy.com · 309 McDermot Ave, Unit 230, Winni
 
 ## Guides
 
+- [What AdEasy Does (and Doesn’t Do)](https://adeasy.com/what-adeasy-does-and-doesnt-do): what AdEasy handles for home-service brands and what stays with the owner’s team
 - [Outsourced Marketing Department for Home-Service Companies](https://adeasy.com/outsourced-marketing-department-home-service-companies): who handles your marketing strategy, ads, website and vendors so you can run the business
 
 ## Optional

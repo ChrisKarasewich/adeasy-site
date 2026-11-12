@@ -3421,5 +3421,68 @@
   "fallback": "blog-outsourced-marketing-department.jpg",
   "d": 1040,
   "m": 371
+ },
+ "blog-what-adeasy-does-photo.jpg": {
+  "w": 1600,
+  "h": 900,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "blog-what-adeasy-does-photo.jpg",
+    "avif": "opt/blog-what-adeasy-does-photo-1600.avif",
+    "webp": "opt/blog-what-adeasy-does-photo-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-what-adeasy-does-photo-742.jpg",
+    "avif": "opt/blog-what-adeasy-does-photo-742.avif",
+    "webp": "opt/blog-what-adeasy-does-photo-742.webp"
+   }
+  ],
+  "fallback": "blog-what-adeasy-does-photo.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-what-adeasy-does.jpg": {
+  "w": 1200,
+  "h": 630,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-what-adeasy-does.jpg",
+    "avif": "opt/blog-what-adeasy-does-1200.avif",
+    "webp": "opt/blog-what-adeasy-does-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-what-adeasy-does-742.jpg",
+    "avif": "opt/blog-what-adeasy-does-742.avif",
+    "webp": "opt/blog-what-adeasy-does-742.webp"
+   }
+  ],
+  "fallback": "blog-what-adeasy-does.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-outsourced-marketing-department-photo.jpg": {
+  "w": 1200,
+  "h": 800,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-outsourced-marketing-department-photo.jpg",
+    "avif": "opt/blog-outsourced-marketing-department-photo-1200.avif",
+    "webp": "opt/blog-outsourced-marketing-department-photo-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-outsourced-marketing-department-photo-742.jpg",
+    "avif": "opt/blog-outsourced-marketing-department-photo-742.avif",
+    "webp": "opt/blog-outsourced-marketing-department-photo-742.webp"
+   }
+  ],
+  "fallback": "blog-outsourced-marketing-department-photo.jpg",
+  "d": 1040,
+  "m": 371
  }
 }

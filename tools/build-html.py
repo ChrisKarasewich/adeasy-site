@@ -142,7 +142,7 @@ def schema_for(p, page_soup):
         "foundingDate": C.ORG["foundingDate"],
         "founder": {"@type": "Person", "@id": C.SITE + "/about#chris-karasewich", "name": C.ORG["founder"],
                     "jobTitle": "Founder and President", "sameAs": [C.ORG["founder_linkedin"]]},
-        "areaServed": [{"@type": "Country", "name": "Canada"}],
+        "areaServed": [{"@type": "Country", "name": "Canada"}, {"@type": "Country", "name": "United States"}],
         "description": SEO["/"]["description"],
         "sameAs": C.ORG["sameAs"],
     }
@@ -160,7 +160,7 @@ def schema_for(p, page_soup):
             {"@type": "ListItem", "position": i + 1, "name": n, "item": abs_url(x)} for i, (n, x) in enumerate(crumbs)]})
     if p["type"] in ("service", "service-hub"):
         out.append({"@type": "Service", "name": SEO[p["url"]]["crumb"], "serviceType": "Marketing for home-service businesses",
-                    "provider": {"@id": C.SITE + "/#organization"}, "areaServed": {"@type": "Country", "name": "Canada"},
+                    "provider": {"@id": C.SITE + "/#organization"}, "areaServed": [{"@type": "Country", "name": "Canada"}, {"@type": "Country", "name": "United States"}],
                     "url": abs_url(p["url"]), "description": SEO[p["url"]]["description"]})
     if p["type"] == "post" and SEO[p["url"]].get("datePublished"):
         s = SEO[p["url"]]

@@ -473,7 +473,16 @@
   "description": "Want someone to handle your marketing strategy, ads, website and vendors so you can run your business? Here\u2019s what an outsourced marketing department does for plumbing, HVAC and electrical companies.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
-  "heroImage": "/assets/img/blog-outsourced-marketing-department.jpg",
+  "heroImage": "/assets/img/blog-outsourced-marketing-department-photo.jpg",
   "h1": "Outsourced Marketing Department for Home-Service Companies: Who Handles Your Strategy, Ads, Website and Vendors"
+ },
+ "post-what-adeasy-does": {
+  "url": "/what-adeasy-does-and-doesnt-do",
+  "title": "What AdEasy Does and Doesn\u2019t Do | Home-Service Marketing in Winnipeg",
+  "description": "AdEasy is a Winnipeg-based marketing partner that runs marketing for growing plumbing, HVAC and electrical companies across Canada and the U.S. Here\u2019s exactly what we handle and what we don\u2019t.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-what-adeasy-does-photo.jpg",
+  "h1": "What AdEasy Does (and Doesn\u2019t Do): Marketing Systems for Home-Service Brands"
  }
 }
