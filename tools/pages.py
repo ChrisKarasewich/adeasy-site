@@ -43,6 +43,7 @@ PAGES = [
     ("/portfolio/ac-fact-or-fiction-campaign", "post-ac-fact-or-fiction", "results", "post", "/resources"),
     ("/portfolio/window-grants-campaign-earns-140k-lead-generation-campaign", "post-window-grants", "results", "post", "/resources"),
     ("/portfolio/polar-windows-5-signs-facebook-lead-generation-campaign", "post-polar-5-signs", "results", "post", "/resources"),
+    ("/rely-too-much-on-word-of-mouth", "post-word-of-mouth", "resources", "post", "/resources"),
     ("/what-adeasy-does-and-doesnt-do", "post-what-adeasy-does", "resources", "post", "/resources"),
     ("/outsourced-marketing-department-home-service-companies", "post-outsourced-marketing-department", "resources", "post", "/resources"),
     ("/whats-a-google-ad", "post-google-ads", "resources", "post", "/resources"),

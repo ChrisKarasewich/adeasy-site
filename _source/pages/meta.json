@@ -484,5 +484,14 @@
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/blog-what-adeasy-does-photo.jpg",
   "h1": "What AdEasy Does (and Doesn\u2019t Do): Marketing Systems for Home-Service Brands"
+ },
+ "post-word-of-mouth": {
+  "url": "/rely-too-much-on-word-of-mouth",
+  "title": "Relying Too Much on Word of Mouth? How Home-Service Companies Get Steady Work",
+  "description": "Word of mouth built your business, but it\u2019s hard to plan around. Here\u2019s how plumbing, HVAC and electrical companies add steady, predictable demand without losing what referrals do well.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-word-of-mouth-photo.jpg",
+  "h1": "We Rely Too Much on Word of Mouth: How Home-Service Companies Get More Consistent Work"
  }
 }

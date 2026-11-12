@@ -3484,5 +3484,47 @@
   "fallback": "blog-outsourced-marketing-department-photo.jpg",
   "d": 1040,
   "m": 371
+ },
+ "blog-word-of-mouth-photo.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "blog-word-of-mouth-photo.jpg",
+    "avif": "opt/blog-word-of-mouth-photo-1600.avif",
+    "webp": "opt/blog-word-of-mouth-photo-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-word-of-mouth-photo-742.jpg",
+    "avif": "opt/blog-word-of-mouth-photo-742.avif",
+    "webp": "opt/blog-word-of-mouth-photo-742.webp"
+   }
+  ],
+  "fallback": "blog-word-of-mouth-photo.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-word-of-mouth.jpg": {
+  "w": 1200,
+  "h": 630,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-word-of-mouth.jpg",
+    "avif": "opt/blog-word-of-mouth-1200.avif",
+    "webp": "opt/blog-word-of-mouth-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-word-of-mouth-742.jpg",
+    "avif": "opt/blog-word-of-mouth-742.avif",
+    "webp": "opt/blog-word-of-mouth-742.webp"
+   }
+  ],
+  "fallback": "blog-word-of-mouth.jpg",
+  "d": 1040,
+  "m": 371
  }
 }
