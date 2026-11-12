@@ -3400,5 +3400,26 @@
   "fallback": "adult-and-teen-challenge-logo-strip.png",
   "d": 158,
   "m": 158
+ },
+ "blog-outsourced-marketing-department.jpg": {
+  "w": 1200,
+  "h": 800,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-outsourced-marketing-department.jpg",
+    "avif": "opt/blog-outsourced-marketing-department-1200.avif",
+    "webp": "opt/blog-outsourced-marketing-department-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-outsourced-marketing-department-742.jpg",
+    "avif": "opt/blog-outsourced-marketing-department-742.avif",
+    "webp": "opt/blog-outsourced-marketing-department-742.webp"
+   }
+  ],
+  "fallback": "blog-outsourced-marketing-department.jpg",
+  "d": 1040,
+  "m": 371
  }
 }

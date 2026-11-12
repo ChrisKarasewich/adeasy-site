@@ -466,5 +466,14 @@
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/clean-line-partner.webp",
   "h1": "You\u2019re Booked. Talk Soon."
+ },
+ "post-outsourced-marketing-department": {
+  "url": "/outsourced-marketing-department-home-service-companies",
+  "title": "Outsourced Marketing Department for Home-Service Companies | AdEasy",
+  "description": "Want someone to handle your marketing strategy, ads, website and vendors so you can run your business? Here\u2019s what an outsourced marketing department does for plumbing, HVAC and electrical companies.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-outsourced-marketing-department.jpg",
+  "h1": "Outsourced Marketing Department for Home-Service Companies: Who Handles Your Strategy, Ads, Website and Vendors"
  }
 }
