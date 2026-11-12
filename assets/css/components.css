@@ -365,3 +365,38 @@
   outline: 3px solid var(--orange-500);
   outline-offset: -3px;
 }
+/* Poster version: the video's own Vimeo thumbnail fills the frame, play button on top. */
+.video-facade--poster {
+  padding: 0;
+  overflow: hidden;
+}
+.video-facade--poster::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(18, 24, 54, 0.12);
+  transition: background 160ms ease;
+}
+.video-facade--poster:hover::after {
+  background: rgba(18, 24, 54, 0);
+}
+.video-facade__poster {
+  position: absolute;
+  inset: 0;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+.video-facade--poster .video-facade__icon {
+  position: relative;
+  z-index: 1;
+  filter: drop-shadow(0 4px 14px rgba(0, 0, 0, 0.45));
+}
+.video-facade--poster .video-facade__title {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
