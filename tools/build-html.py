@@ -291,6 +291,30 @@ def build_critical():
 
 # ---------- Page assembly ----------
 
+# "News & Resources" strip: sits under the assessment CTA (or above the footer where there is no CTA).
+# Shows the first three cards in _source/pages/resources.html, so a new post at the top of that grid
+# appears here on the next build. Not shown on blog posts or on these pages:
+LATEST_POSTS_SKIP = {"success-stories", "marketing-systems-assessment", "contact", "resources"}
+_LATEST = None
+
+
+def latest_posts_html():
+    global _LATEST
+    if _LATEST is None:
+        res = BeautifulSoup(open(os.path.join(SRC, "pages", "resources.html")).read(), "html.parser")
+        cards = res.select(".res-grid > a.res-card")[:3]
+        for c in cards:
+            c["class"] = [k for k in c["class"] if k != "res-card"] + ["res-card", "lp-card"]
+            del c["data-cat"]
+            t = c.find(class_="res-title")
+            if t:
+                t.name = "h3"  # the section has its own h2
+        _LATEST = PARTIAL("latest-posts.html").replace(
+            "<!-- LATEST_POSTS: filled at build time from the first three cards in _source/pages/resources.html -->",
+            "\n".join(str(c) for c in cards))
+    return _LATEST
+
+
 def build_page(p, demo):
     name = p["name"]
     m = META[name]
@@ -300,6 +324,8 @@ def build_page(p, demo):
         hdr = hdr.replace(f'class="nav-link" data-nav="{p["nav"]}"', f'class="nav-link is-active" data-nav="{p["nav"]}"')
     footer = ("<!-- PARTIAL: assessment CTA. Edit _source/partials/cta-assessment.html, not here -->\n" + PARTIAL("cta-assessment.html")
               if m["cta"] else "")
+    if p["type"] != "post" and name not in LATEST_POSTS_SKIP:
+        footer += "<!-- PARTIAL: latest posts. Edit _source/partials/latest-posts.html, not here -->\n" + latest_posts_html()
     footer += "<!-- PARTIAL: footer. Edit _source/partials/footer.html, not here -->\n" + PARTIAL("footer.html")
     doc = BeautifulSoup(
         "<!DOCTYPE html>\n<html lang=\"en-CA\"><head></head><body>"

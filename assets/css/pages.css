@@ -1238,6 +1238,37 @@
   outline-offset: 3px;
 }
 
+/* ==== Global: News & Resources strip (partials/latest-posts.html) ==== */
+.lp-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px 32px;
+  margin-bottom: clamp(32px, 4vw, 48px);
+}
+.lp-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(40px, 4vw, 56px) clamp(24px, 2.6vw, 40px);
+}
+@media (max-width: 1000px) {
+  .lp-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .lp-grid > .lp-card:nth-child(3) {
+    display: none;
+  }
+}
+@media (max-width: 680px) {
+  .lp-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .lp-grid > .lp-card:nth-child(3) {
+    display: flex;
+  }
+}
+
 /* ==== Page: /about/business-easy-podcast ==== */
 .pod-hv-1:hover {
   background: #fcf2e6 !important;
