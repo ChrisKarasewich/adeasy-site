@@ -57,6 +57,22 @@
 .home-hv-4:hover {
   color: #f58541 !important;
 }
+.home-ghost {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 700;
+  color: #fcf2e6;
+  background: transparent;
+  border: 2px solid #fcf2e6;
+  border-radius: 2px;
+  padding: 16px 32px;
+  transition: all 120ms ease;
+}
+.home-ghost:hover {
+  background: #fcf2e6;
+  color: #1e2859;
+}
 .home-split {
   display: flex;
   flex-wrap: wrap;

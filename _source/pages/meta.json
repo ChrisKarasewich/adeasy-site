@@ -1,12 +1,12 @@
 {
  "home": {
   "url": "/",
-  "title": "Home-Service Marketing Partners | AdEasy",
-  "description": "AdEasy manages and improves marketing for growing home-service businesses. Know what\u2019s working, book more jobs, and start with a Free Marketing Assessment.",
+  "title": "Marketing Leadership for Home-Service Brands | AdEasy",
+  "description": "AdEasy is the outsourced marketing department for growing home-service brands. More qualified customers, less marketing to manage. Book your free assessment.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/home-service-owner-with-technician.png",
-  "h1": "Know What\u2019s Working. Book More Jobs."
+  "h1": "More Qualified Customers. Less Marketing to Manage."
  },
  "what-we-do": {
   "url": "/what-we-do",

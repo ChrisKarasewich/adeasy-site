@@ -3526,5 +3526,14 @@
   "fallback": "blog-word-of-mouth.jpg",
   "d": 1040,
   "m": 371
+ },
+ "icons/pack/adeasy-icon-booked-job-orange.svg": {
+  "svg": true
+ },
+ "icons/pack/adeasy-icon-home-check-burnt.svg": {
+  "svg": true
+ },
+ "icons/pack/adeasy-icon-lightbulb-navy.svg": {
+  "svg": true
  }
 }
