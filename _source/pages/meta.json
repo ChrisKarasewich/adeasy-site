@@ -191,11 +191,11 @@
  "about": {
   "url": "/about",
   "title": "About AdEasy | Built by Owners, for Owners",
-  "description": "Meet AdEasy, the Winnipeg team building marketing systems and demand generation for home-service brands since 2013.",
+  "description": "Meet AdEasy, marketing leadership for growing home-service brands since 2013: an outsourced CMO with a team behind it, founded by Chris Karasewich in Winnipeg.",
   "cta": true,
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/gallery/mr-boomtruck-darrell-and-chris-karasewich-photo-adeasy-photoshoot-2026.jpg",
-  "h1": "We Grew Up in the Trades. Now We Build Their Marketing. Raised in the Trades. Now We Help Them Grow."
+  "h1": "Raised in the Trades. Now We Help Them Grow."
  },
  "business-easy-podcast": {
   "url": "/about/business-easy-podcast",
