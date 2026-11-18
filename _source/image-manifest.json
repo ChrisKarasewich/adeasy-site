@@ -3535,5 +3535,47 @@
  },
  "icons/pack/adeasy-icon-lightbulb-navy.svg": {
   "svg": true
+ },
+ "blog-hvac-google-maps-photo.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "variants": [
+   {
+    "w": 1600,
+    "fallback": "blog-hvac-google-maps-photo.jpg",
+    "avif": "opt/blog-hvac-google-maps-photo-1600.avif",
+    "webp": "opt/blog-hvac-google-maps-photo-1600.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-hvac-google-maps-photo-742.jpg",
+    "avif": "opt/blog-hvac-google-maps-photo-742.avif",
+    "webp": "opt/blog-hvac-google-maps-photo-742.webp"
+   }
+  ],
+  "fallback": "blog-hvac-google-maps-photo.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-hvac-google-maps.jpg": {
+  "w": 1200,
+  "h": 630,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-hvac-google-maps.jpg",
+    "avif": "opt/blog-hvac-google-maps-1200.avif",
+    "webp": "opt/blog-hvac-google-maps-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-hvac-google-maps-742.jpg",
+    "avif": "opt/blog-hvac-google-maps-742.avif",
+    "webp": "opt/blog-hvac-google-maps-742.webp"
+   }
+  ],
+  "fallback": "blog-hvac-google-maps.jpg",
+  "d": 1040,
+  "m": 371
  }
 }

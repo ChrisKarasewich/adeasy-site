@@ -493,5 +493,14 @@
   "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
   "heroImage": "/assets/img/blog-word-of-mouth-photo.jpg",
   "h1": "We Rely Too Much on Word of Mouth: How Home-Service Companies Get More Consistent Work"
+ },
+ "post-hvac-google-maps": {
+  "url": "/hvac-company-higher-on-google-maps",
+  "title": "How to Get Your HVAC Company Higher on Google Maps | AdEasy",
+  "description": "Want your HVAC company higher on Google Maps? What moves map rankings for furnace and AC companies in Winnipeg and across Canada, and what to skip.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-hvac-google-maps-photo.jpg",
+  "h1": "How to Get Your HVAC Company Higher on Google Maps: A Winnipeg Guide"
  }
 }
