@@ -167,6 +167,13 @@
 /tag/wordpress-developer/ /careers 301
 /tag/wordpress-developer /careers 301
 
+# Old WordPress uploads still in search results (Nov 19 2026 audit)
+/wp-content/uploads/2022/02/Clean-Line-Elite-Case-Study-2022-6.pdf /success-stories/clean-line 301
+/wp-content/uploads/2022/02/Case-study-Ultracuts.pptx.pdf /success-stories/ultracuts 301
+/wp-content/uploads/2022/02/Case-study-Polar-Windows.pdf /success-stories/polar-windows 301
+/wp-content/uploads/2022/01/Account-Executive-Job-Description-AdEasy-Inc.-Dec-30-2021.pdf /now-hiring-account-executive 301
+/wp-content/uploads/2022/01/Inside-Sales-Representative-Job-Description-AdEasy-Inc.-Jan-25-2022.pdf /now-hiring-inside-sales-representative 301
+
 # WordPress archives and leftovers
 /category/* /resources 301
 /tag/* /resources 301

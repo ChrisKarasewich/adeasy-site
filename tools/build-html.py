@@ -134,7 +134,7 @@ def schema_for(p, page_soup):
         "legalName": C.ORG["legalName"],
         "url": C.SITE + "/",
         "logo": C.SITE + "/icon-512.png",
-        "image": C.SITE + "/assets/img/og/home-og.jpg",
+        "image": C.SITE + SEO["/"]["og"],
         "telephone": C.ORG["phone"],
         "email": C.ORG["email"],
         "address": {"@type": "PostalAddress", "streetAddress": C.ORG["street"], "addressLocality": C.ORG["city"],
@@ -212,6 +212,7 @@ def head(p, schema, demo, hero):
         '<meta property="og:image:height" content="630">',
         f'<meta property="og:image:alt" content="{esc(s["ogAlt"])}">',
         '<meta name="twitter:card" content="summary_large_image">',
+        f'<meta name="twitter:image" content="{og}">',
         '<meta name="theme-color" content="#1E2859">',
     ]
     if C.GSC_VERIFICATION and p["url"] == "/":

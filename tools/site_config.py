@@ -34,7 +34,7 @@ ORG = {
         "https://www.instagram.com/itsadeasy/",
         "https://www.youtube.com/channel/UCTTRJCenKIkPTxS1tkMbgWQ",
         "https://vimeo.com/itsadeasy",
-        # Add the Google Business Profile link here once confirmed.
+        "https://maps.google.com/maps?cid=17454972190687433679",  # Google Business Profile
     ],
     "founder_linkedin": "https://www.linkedin.com/in/karasewich",
 }
