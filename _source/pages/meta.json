@@ -494,6 +494,15 @@
   "heroImage": "/assets/img/blog-word-of-mouth-photo.jpg",
   "h1": "We Rely Too Much on Word of Mouth: How Home-Service Companies Get More Consistent Work"
  },
+ "post-real-lead": {
+  "url": "/what-counts-as-a-real-lead",
+  "title": "What Counts as a Qualified Lead for Plumbers | AdEasy",
+  "description": "We listened to 704 calls to a Winnipeg plumbing company. About half were real service requests. The qualified lead definition we use, and how to sort yours.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-real-lead.jpg",
+  "h1": "We Listened to 704 Plumbing Calls. Here\u2019s What Counts as a Real Lead."
+ },
  "post-hvac-google-maps": {
   "url": "/hvac-company-higher-on-google-maps",
   "title": "How to Get Your HVAC Company Higher on Google Maps | AdEasy",

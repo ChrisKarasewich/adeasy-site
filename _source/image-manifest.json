@@ -3577,5 +3577,26 @@
   "fallback": "blog-hvac-google-maps.jpg",
   "d": 1040,
   "m": 371
+ },
+ "blog-real-lead.jpg": {
+  "w": 1200,
+  "h": 630,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-real-lead.jpg",
+    "avif": "opt/blog-real-lead-1200.avif",
+    "webp": "opt/blog-real-lead-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-real-lead-742.jpg",
+    "avif": "opt/blog-real-lead-742.avif",
+    "webp": "opt/blog-real-lead-742.webp"
+   }
+  ],
+  "fallback": "blog-real-lead.jpg",
+  "d": 1040,
+  "m": 371
  }
 }
