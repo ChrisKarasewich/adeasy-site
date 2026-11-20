@@ -400,3 +400,33 @@
   clip: rect(0 0 0 0);
   white-space: nowrap;
 }
+
+/* ==== Blog post tables (decision tables in guides) ==== */
+.post-table-wrap {
+  overflow-x: auto;
+  margin: 0 0 28px;
+}
+.post-table {
+  width: 100%;
+  min-width: 520px;
+  border-collapse: collapse;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.45;
+  color: var(--navy-700);
+}
+.post-table th {
+  font-weight: 700;
+  text-align: left;
+  padding: 0 14px 12px 0;
+  border-bottom: 2px solid var(--orange-800);
+}
+.post-table td {
+  vertical-align: top;
+  padding: 14px 14px 14px 0;
+  border-bottom: 1px solid rgba(30, 40, 89, 0.18);
+}
+.post-table td:nth-child(2) {
+  font-weight: 700;
+  width: 30%;
+}

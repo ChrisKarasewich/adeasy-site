@@ -3598,5 +3598,47 @@
   "fallback": "blog-real-lead.jpg",
   "d": 1040,
   "m": 371
+ },
+ "blog-google-vs-facebook-hvac.jpg": {
+  "w": 1200,
+  "h": 630,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-google-vs-facebook-hvac.jpg",
+    "avif": "opt/blog-google-vs-facebook-hvac-1200.avif",
+    "webp": "opt/blog-google-vs-facebook-hvac-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-google-vs-facebook-hvac-742.jpg",
+    "avif": "opt/blog-google-vs-facebook-hvac-742.avif",
+    "webp": "opt/blog-google-vs-facebook-hvac-742.webp"
+   }
+  ],
+  "fallback": "blog-google-vs-facebook-hvac.jpg",
+  "d": 1040,
+  "m": 371
+ },
+ "blog-local-seo.jpg": {
+  "w": 1200,
+  "h": 630,
+  "variants": [
+   {
+    "w": 1200,
+    "fallback": "blog-local-seo.jpg",
+    "avif": "opt/blog-local-seo-1200.avif",
+    "webp": "opt/blog-local-seo-1200.webp"
+   },
+   {
+    "w": 742,
+    "fallback": "blog-local-seo-742.jpg",
+    "avif": "opt/blog-local-seo-742.avif",
+    "webp": "opt/blog-local-seo-742.webp"
+   }
+  ],
+  "fallback": "blog-local-seo.jpg",
+  "d": 1040,
+  "m": 371
  }
 }

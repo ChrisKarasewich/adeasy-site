@@ -5,3 +5,4 @@
 - 2026-11-10: Vimeo videos load on click (lighter pages); link audit passed.
 - 2026-11-18: New post: How to Get Your HVAC Company Higher on Google Maps (/hvac-company-higher-on-google-maps), with Resources card, social image and llms.txt entry.
 - 2026-11-20: New post: We Listened to 704 Plumbing Calls. Here’s What Counts as a Real Lead. (/what-counts-as-a-real-lead), with Resources card, social image and llms.txt entry.
+- 2026-11-20: New posts: Google Ads vs Facebook Ads for HVAC Companies (/google-ads-vs-facebook-ads-hvac) and Do You Need a Local SEO Company in Winnipeg? (/local-seo-company-winnipeg), with Resources cards, social images and llms.txt entries. Added a blog post table style.

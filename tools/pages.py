@@ -43,6 +43,8 @@ PAGES = [
     ("/portfolio/ac-fact-or-fiction-campaign", "post-ac-fact-or-fiction", "results", "post", "/resources"),
     ("/portfolio/window-grants-campaign-earns-140k-lead-generation-campaign", "post-window-grants", "results", "post", "/resources"),
     ("/portfolio/polar-windows-5-signs-facebook-lead-generation-campaign", "post-polar-5-signs", "results", "post", "/resources"),
+    ("/google-ads-vs-facebook-ads-hvac", "post-google-vs-facebook-hvac", "resources", "post", "/resources"),
+    ("/local-seo-company-winnipeg", "post-local-seo", "resources", "post", "/resources"),
     ("/what-counts-as-a-real-lead", "post-real-lead", "resources", "post", "/resources"),
     ("/hvac-company-higher-on-google-maps", "post-hvac-google-maps", "resources", "post", "/resources"),
     ("/rely-too-much-on-word-of-mouth", "post-word-of-mouth", "resources", "post", "/resources"),

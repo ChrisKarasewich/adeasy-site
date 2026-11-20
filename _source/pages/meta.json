@@ -494,6 +494,24 @@
   "heroImage": "/assets/img/blog-word-of-mouth-photo.jpg",
   "h1": "We Rely Too Much on Word of Mouth: How Home-Service Companies Get More Consistent Work"
  },
+ "post-google-vs-facebook-hvac": {
+  "url": "/google-ads-vs-facebook-ads-hvac",
+  "title": "Google Ads vs Facebook Ads for HVAC Companies | AdEasy",
+  "description": "Is Google Ads or Facebook better for getting HVAC customers? When each one books jobs, a simple decision table, and what to fix before you spend.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-google-vs-facebook-hvac.jpg",
+  "h1": "Google Ads vs Facebook Ads for HVAC Companies: Which One Books More Jobs?"
+ },
+ "post-local-seo": {
+  "url": "/local-seo-company-winnipeg",
+  "title": "Do You Need a Local SEO Company in Winnipeg? | AdEasy",
+  "description": "What good local SEO includes for Winnipeg service businesses, 7 questions to ask before you hire a local SEO company, and how it fits a bigger plan.",
+  "cta": true,
+  "wrapperStyle": "background: #FCF2E6; min-height: 100vh;",
+  "heroImage": "/assets/img/blog-local-seo.jpg",
+  "h1": "Do You Need a Local SEO Company in Winnipeg? What Good Local SEO Includes for Service Businesses"
+ },
  "post-real-lead": {
   "url": "/what-counts-as-a-real-lead",
   "title": "What Counts as a Qualified Lead for Plumbers | AdEasy",
